@@ -1,0 +1,16 @@
+asset_id,description,account,branch_id,acquired,cost,useful_life_months,accumulated_depreciation_31dec2023,depreciation_2024_to_sep2026,accumulated_depreciation_30sep2026,net_book_value_30sep2026,data_status
+FA-001,"Central leasehold improvements (collision centre, ~10,000 sq ft)",1500,BR-CCC,2016-03-01,520000.0,180,268666.77,95333.37,364000.14,155999.86,SIMULATED
+FA-002,Central paint booths (2) & mixing room,1510,BR-CCC,2017-06-01,380000.0,144,205833.42,87083.37,292916.79,87083.21,SIMULATED
+FA-003,"Central frame machine, lifts & welding equipment",1510,BR-CCC,2018-04-01,210000.0,120,119000.0,57750.0,176750.0,33250.0,SIMULATED
+FA-004,Central ADAS calibration & diagnostic equipment,1520,BR-CCC,2022-03-01,95000.0,60,33249.93,52249.89,85499.82,9500.18,SIMULATED
+FA-005,North leasehold improvements,1500,BR-NFS,2019-01-15,360000.0,180,118000.0,66000.0,184000.0,176000.0,SIMULATED
+FA-006,North paint booth & prep deck,1510,BR-NFS,2019-03-01,240000.0,144,95000.19,55000.11,150000.3,89999.7,SIMULATED
+FA-007,"North lifts, alignment rack & tire equipment",1510,BR-NFS,2019-03-01,165000.0,120,78375.0,45375.0,123750.0,41250.0,SIMULATED
+FA-008,"Shop IT, estimating & scanning hardware",1520,HO,2021-09-01,48000.0,48,27000.0,21000.0,48000.0,0.0,SIMULATED
+FA-009,Customer shuttle van,1530,BR-CCC,2022-05-01,52000.0,72,13722.18,23833.26,37555.44,14444.56,SIMULATED
+FA-010,Central ADAS calibration rig upgrade,1520,BR-CCC,2024-09-03,68000.0,60,0.0,27199.92,27199.92,40800.08,SIMULATED
+FA-011,"SE Concierge leasehold fit-out (detail bays, PPF room)",1500,BR-SEC,2025-03-03,410000.0,120,0.0,61500.06,61500.06,348499.94,SIMULATED
+FA-012,"SE Concierge prep booth, lifts & tire equipment",1510,BR-SEC,2025-04-01,185000.0,120,0.0,26208.39,26208.39,158791.61,SIMULATED
+FA-013,SE Concierge pickup & delivery vehicles (2),1530,BR-SEC,2025-04-15,78000.0,60,0.0,22100.0,22100.0,55900.0,SIMULATED
+FA-014,North second alignment rack,1510,BR-NFS,2026-02-02,42000.0,96,0.0,3062.5,3062.5,38937.5,SIMULATED
+FA-015,Central paint booth refurbishment,1510,BR-CCC,2026-05-04,95000.0,120,0.0,3166.68,3166.68,91833.32,SIMULATED

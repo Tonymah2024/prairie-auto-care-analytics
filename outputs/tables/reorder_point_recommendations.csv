@@ -1,0 +1,188 @@
+branch_id,part_id,description,part_category,abc_class,units_last_12m,forecast_weekly_demand_next_qtr,lead_time_weeks,service_level,safety_stock,recommended_reorder_point,recommended_order_up_to,current_reorder_point,current_order_up_to
+BR-CCC,PRT-00001,Clips & fasteners kit,clips,A,1662.0,30.67,0.56,0.95,22.8,71,133,45,102
+BR-CCC,PRT-00002,Windshield urethane & primer kit,urethane,A,232.0,4.97,0.4,0.95,4.6,12,22,6,14
+BR-CCC,PRT-00003,Glass repair resin kit,resin,A,175.0,2.47,0.4,0.95,4.0,8,13,5,11
+BR-CCC,PRT-00004,Synthetic engine oil 0W-20 (L),oil,A,360.0,7.01,0.3,0.95,10.5,20,35,8,21
+BR-CCC,PRT-00005,Synthetic engine oil 5W-30 (L),oil,A,253.0,4.92,0.3,0.95,8.1,15,25,6,15
+BR-CCC,PRT-00006,Diesel engine oil 15W-40 (L),oil,A,144.0,2.8,0.3,0.95,5.6,10,16,4,9
+BR-CCC,PRT-00007,Oil filter type A,filter,B,52.0,1.01,0.3,0.9,1.3,3,6,2,4
+BR-CCC,PRT-00008,Oil filter type B,filter,C,28.0,0.54,0.3,0.85,0.9,2,4,1,3
+BR-CCC,PRT-00009,Oil filter type C,filter,C,14.0,0.27,0.3,0.85,0.7,2,3,1,3
+BR-CCC,PRT-00010,Oil filter type D,filter,C,19.0,0.37,0.3,0.85,0.8,2,3,1,3
+BR-CCC,PRT-00011,Oil filter type E,filter,C,12.0,0.23,0.3,0.85,0.8,2,3,1,3
+BR-CCC,PRT-00012,Oil filter type F,filter,C,9.0,0.17,0.3,0.85,0.6,1,2,1,3
+BR-CCC,PRT-00013,Oil filter type G,filter,C,5.0,0.1,0.3,0.85,0.6,1,2,1,3
+BR-CCC,PRT-00014,Oil filter type H,filter,C,4.0,0.08,0.3,0.85,0.6,1,2,1,3
+BR-CCC,PRT-00015,Cabin air filter type A,filter,C,4.0,0.08,0.3,0.85,0.6,1,2,1,3
+BR-CCC,PRT-00016,Cabin air filter type B,filter,C,3.0,0.06,0.3,0.85,0.6,1,2,1,3
+BR-CCC,PRT-00017,Cabin air filter type C,filter,C,5.0,0.1,0.3,0.85,0.4,1,2,1,3
+BR-CCC,PRT-00018,Cabin air filter type D,filter,C,2.0,0.04,0.3,0.85,0.6,1,2,1,3
+BR-CCC,PRT-00019,Brake pad set front - family A,pads,A,33.0,0.68,0.3,0.95,1.8,3,5,1,3
+BR-CCC,PRT-00020,Brake pad set rear - family A,pads,B,14.0,0.29,0.3,0.9,0.7,2,3,1,3
+BR-CCC,PRT-00021,Brake pad set front - family B,pads,B,9.0,0.19,0.3,0.9,0.7,1,2,1,3
+BR-CCC,PRT-00022,Brake pad set rear - family B,pads,B,7.0,0.15,0.3,0.9,0.7,1,2,1,3
+BR-CCC,PRT-00023,Brake pad set front - family C,pads,B,5.0,0.1,0.3,0.9,0.8,1,2,1,3
+BR-CCC,PRT-00024,Brake pad set rear - family C,pads,B,6.0,0.12,0.3,0.9,0.8,1,2,1,3
+BR-CCC,PRT-00025,Brake pad set front - family D,pads,B,6.0,0.12,0.3,0.9,0.8,1,2,1,3
+BR-CCC,PRT-00026,Brake pad set rear - family D,pads,B,6.0,0.12,0.3,0.9,1.0,2,3,1,3
+BR-CCC,PRT-00027,Brake pad set front - family E,pads,C,3.0,0.06,0.3,0.85,0.7,1,2,1,3
+BR-CCC,PRT-00028,Brake pad set rear - family E,pads,B,6.0,0.12,0.3,0.9,1.0,2,3,1,3
+BR-CCC,PRT-00029,Brake pad set front - family F,pads,C,2.0,0.04,0.3,0.85,0.4,1,2,1,3
+BR-CCC,PRT-00030,Brake pad set rear - family F,pads,C,1.0,0.02,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00031,Brake rotor - family A,rotors,A,20.0,0.4,0.3,0.95,1.0,2,3,1,3
+BR-CCC,PRT-00032,Brake rotor - family B,rotors,C,2.0,0.04,0.3,0.85,0.8,1,2,1,3
+BR-CCC,PRT-00034,Brake rotor - family D,rotors,A,10.0,0.2,0.3,0.95,1.7,2,3,1,3
+BR-CCC,PRT-00035,Brake rotor - family E,rotors,C,2.0,0.04,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00036,Brake rotor - family F,rotors,B,8.0,0.16,0.3,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00037,"Wiper blade 16""",wipers,C,20.0,0.37,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00038,"Wiper blade 18""",wipers,C,10.0,0.19,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00039,"Wiper blade 20""",wipers,C,10.0,0.19,0.3,0.85,0.7,1,2,1,3
+BR-CCC,PRT-00040,"Wiper blade 22""",wipers,C,8.0,0.15,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00041,"Wiper blade 24""",wipers,C,2.0,0.04,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00042,"Wiper blade 26""",wipers,C,12.0,0.22,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00043,Battery group 35,battery,B,3.0,0.05,0.3,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00044,Battery group 48,battery,C,2.0,0.04,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00045,Battery group 65,battery,B,3.0,0.05,0.3,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00046,Battery group 94R,battery,C,1.0,0.02,0.3,0.85,0.0,1,2,1,3
+BR-CCC,PRT-00047,Winter tire 205/55R16,tire,A,16.0,0.56,0.4,0.95,0.0,1,3,1,3
+BR-CCC,PRT-00048,All-season tire 205/55R16,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00051,Winter tire 225/65R17,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00053,Winter tire 235/65R17,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00055,Winter tire 225/60R18,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00057,Winter tire 235/60R18,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00059,Winter tire 245/60R18,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-CCC,PRT-00067,TPMS sensor,tpms,A,51.0,1.96,0.4,0.95,4.3,8,12,2,4
+BR-CCC,PRT-00068,Valve stem & TPMS service kit,tpms,C,22.0,0.85,0.4,0.85,2.9,5,7,1,3
+BR-NFS,PRT-00001,Clips & fasteners kit,clips,A,906.0,16.72,0.56,0.95,15.7,42,76,23,52
+BR-NFS,PRT-00002,Windshield urethane & primer kit,urethane,A,281.0,6.02,0.4,0.95,5.1,14,27,7,17
+BR-NFS,PRT-00003,Glass repair resin kit,resin,C,201.0,2.84,0.4,0.85,2.4,7,13,6,14
+BR-NFS,PRT-00004,Synthetic engine oil 0W-20 (L),oil,A,5510.0,107.23,0.3,0.95,51.4,191,406,128,325
+BR-NFS,PRT-00005,Synthetic engine oil 5W-30 (L),oil,A,2887.0,56.18,0.3,0.95,38.1,112,225,70,177
+BR-NFS,PRT-00006,Diesel engine oil 15W-40 (L),oil,A,2106.0,40.99,0.3,0.95,32.2,86,168,49,125
+BR-NFS,PRT-00007,Oil filter type A,filter,A,667.0,12.9,0.3,0.95,8.8,26,52,17,42
+BR-NFS,PRT-00008,Oil filter type B,filter,B,365.0,7.06,0.3,0.9,4.7,14,29,10,24
+BR-NFS,PRT-00009,Oil filter type C,filter,B,294.0,5.69,0.3,0.9,4.2,12,24,7,18
+BR-NFS,PRT-00010,Oil filter type D,filter,C,206.0,3.99,0.3,0.85,2.7,8,16,5,13
+BR-NFS,PRT-00011,Oil filter type E,filter,C,164.0,3.17,0.3,0.85,2.3,7,14,4,10
+BR-NFS,PRT-00012,Oil filter type F,filter,C,136.0,2.63,0.3,0.85,2.2,6,12,4,10
+BR-NFS,PRT-00013,Oil filter type G,filter,C,122.0,2.36,0.3,0.85,1.9,6,11,3,8
+BR-NFS,PRT-00014,Oil filter type H,filter,C,84.0,1.63,0.3,0.85,1.9,5,9,3,7
+BR-NFS,PRT-00015,Cabin air filter type A,filter,C,90.0,1.74,0.3,0.85,1.6,4,8,3,7
+BR-NFS,PRT-00016,Cabin air filter type B,filter,C,98.0,1.9,0.3,0.85,1.8,5,9,3,7
+BR-NFS,PRT-00017,Cabin air filter type C,filter,C,62.0,1.2,0.3,0.85,1.7,4,7,2,5
+BR-NFS,PRT-00018,Cabin air filter type D,filter,C,96.0,1.86,0.3,0.85,1.5,4,8,2,5
+BR-NFS,PRT-00019,Brake pad set front - family A,pads,A,308.0,6.38,0.3,0.95,5.6,14,27,8,21
+BR-NFS,PRT-00020,Brake pad set rear - family A,pads,A,204.0,4.23,0.3,0.95,4.7,11,20,5,13
+BR-NFS,PRT-00021,Brake pad set front - family B,pads,A,119.0,2.47,0.3,0.95,3.3,7,12,3,8
+BR-NFS,PRT-00022,Brake pad set rear - family B,pads,A,109.0,2.26,0.3,0.95,2.3,6,11,3,7
+BR-NFS,PRT-00023,Brake pad set front - family C,pads,B,66.0,1.37,0.3,0.9,1.7,4,7,2,5
+BR-NFS,PRT-00024,Brake pad set rear - family C,pads,A,104.0,2.16,0.3,0.95,2.6,6,11,2,5
+BR-NFS,PRT-00025,Brake pad set front - family D,pads,B,63.0,1.31,0.3,0.9,1.7,4,7,2,5
+BR-NFS,PRT-00026,Brake pad set rear - family D,pads,B,72.0,1.49,0.3,0.9,1.9,4,7,2,5
+BR-NFS,PRT-00027,Brake pad set front - family E,pads,C,36.0,0.75,0.3,0.85,1.0,2,4,1,3
+BR-NFS,PRT-00028,Brake pad set rear - family E,pads,B,77.0,1.6,0.3,0.9,2.1,5,9,2,4
+BR-NFS,PRT-00029,Brake pad set front - family F,pads,B,42.0,0.87,0.3,0.9,1.6,3,5,1,3
+BR-NFS,PRT-00030,Brake pad set rear - family F,pads,B,42.0,0.87,0.3,0.9,1.8,3,5,2,4
+BR-NFS,PRT-00031,Brake rotor - family A,rotors,A,164.0,3.3,0.3,0.95,4.4,9,16,5,12
+BR-NFS,PRT-00032,Brake rotor - family B,rotors,A,114.0,2.29,0.3,0.95,2.6,6,11,3,7
+BR-NFS,PRT-00033,Brake rotor - family C,rotors,B,56.0,1.13,0.3,0.9,1.8,4,7,2,5
+BR-NFS,PRT-00034,Brake rotor - family D,rotors,B,48.0,0.96,0.3,0.9,1.3,3,5,2,4
+BR-NFS,PRT-00035,Brake rotor - family E,rotors,B,44.0,0.88,0.3,0.9,1.3,3,5,1,3
+BR-NFS,PRT-00036,Brake rotor - family F,rotors,B,36.0,0.72,0.3,0.9,0.9,2,4,1,3
+BR-NFS,PRT-00037,"Wiper blade 16""",wipers,B,286.0,5.33,0.3,0.9,4.2,12,23,7,18
+BR-NFS,PRT-00038,"Wiper blade 18""",wipers,C,142.0,2.65,0.3,0.85,2.6,7,13,4,10
+BR-NFS,PRT-00039,"Wiper blade 20""",wipers,C,104.0,1.94,0.3,0.85,1.7,5,9,3,7
+BR-NFS,PRT-00040,"Wiper blade 22""",wipers,C,90.0,1.68,0.3,0.85,1.4,4,8,2,6
+BR-NFS,PRT-00041,"Wiper blade 24""",wipers,C,62.0,1.16,0.3,0.85,1.6,4,7,2,5
+BR-NFS,PRT-00042,"Wiper blade 26""",wipers,C,54.0,1.01,0.3,0.85,1.5,3,6,2,5
+BR-NFS,PRT-00043,Battery group 35,battery,A,52.0,0.91,0.3,0.95,1.5,3,5,2,5
+BR-NFS,PRT-00044,Battery group 48,battery,B,33.0,0.58,0.3,0.9,1.0,2,4,1,3
+BR-NFS,PRT-00045,Battery group 65,battery,B,26.0,0.46,0.3,0.9,1.0,2,3,1,3
+BR-NFS,PRT-00046,Battery group 94R,battery,C,14.0,0.25,0.3,0.85,0.4,1,2,1,3
+BR-NFS,PRT-00047,Winter tire 205/55R16,tire,A,376.0,13.09,0.4,0.95,15.9,35,62,9,22
+BR-NFS,PRT-00048,All-season tire 205/55R16,tire,A,220.0,7.66,0.4,0.95,7.0,18,34,5,12
+BR-NFS,PRT-00049,Winter tire 215/60R16,tire,A,120.0,4.18,0.4,0.95,5.5,12,21,3,7
+BR-NFS,PRT-00050,All-season tire 215/60R16,tire,A,80.0,2.79,0.4,0.95,5.2,10,16,3,7
+BR-NFS,PRT-00051,Winter tire 225/65R17,tire,A,48.0,1.67,0.4,0.95,5.2,8,12,3,6
+BR-NFS,PRT-00052,All-season tire 225/65R17,tire,A,60.0,2.09,0.4,0.95,4.1,8,13,3,6
+BR-NFS,PRT-00053,Winter tire 235/65R17,tire,A,48.0,1.67,0.4,0.95,4.8,8,12,2,4
+BR-NFS,PRT-00054,All-season tire 235/65R17,tire,A,48.0,1.67,0.4,0.95,3.6,6,10,2,4
+BR-NFS,PRT-00055,Winter tire 225/60R18,tire,A,36.0,1.25,0.4,0.95,2.7,5,8,2,4
+BR-NFS,PRT-00056,All-season tire 225/60R18,tire,B,24.0,0.84,0.4,0.9,1.4,3,5,1,3
+BR-NFS,PRT-00057,Winter tire 235/60R18,tire,A,48.0,1.67,0.4,0.95,4.9,8,12,2,4
+BR-NFS,PRT-00058,All-season tire 235/60R18,tire,A,68.0,2.37,0.4,0.95,3.8,8,13,2,4
+BR-NFS,PRT-00059,Winter tire 245/60R18,tire,A,32.0,1.11,0.4,0.95,1.8,4,7,1,3
+BR-NFS,PRT-00060,All-season tire 245/60R18,tire,A,36.0,1.25,0.4,0.95,3.9,6,9,1,3
+BR-NFS,PRT-00061,Winter tire 265/70R17,tire,B,24.0,0.84,0.4,0.9,2.6,4,6,1,3
+BR-NFS,PRT-00062,All-season tire 265/70R17,tire,A,36.0,1.25,0.4,0.95,1.7,4,7,1,3
+BR-NFS,PRT-00063,Winter tire 275/65R18,tire,A,24.0,0.84,0.4,0.95,2.7,4,6,1,3
+BR-NFS,PRT-00064,All-season tire 275/65R18,tire,C,12.0,0.42,0.4,0.85,1.6,3,4,1,3
+BR-NFS,PRT-00065,Winter tire 275/55R20,tire,A,20.0,0.7,0.4,0.95,2.4,4,6,1,3
+BR-NFS,PRT-00066,All-season tire 275/55R20,tire,B,20.0,0.7,0.4,0.9,0.0,1,3,1,3
+BR-NFS,PRT-00067,TPMS sensor,tpms,A,1665.0,64.08,0.4,0.95,59.8,150,279,42,101
+BR-NFS,PRT-00068,Valve stem & TPMS service kit,tpms,B,873.0,33.6,0.4,0.9,24.9,72,140,22,54
+BR-SEC,PRT-00001,Clips & fasteners kit,clips,A,301.0,5.55,0.56,0.95,7.8,17,29,4,9
+BR-SEC,PRT-00004,Synthetic engine oil 0W-20 (L),oil,A,784.0,15.26,0.3,0.95,16.6,37,68,9,22
+BR-SEC,PRT-00005,Synthetic engine oil 5W-30 (L),oil,A,598.0,11.64,0.3,0.95,12.9,28,52,6,15
+BR-SEC,PRT-00006,Diesel engine oil 15W-40 (L),oil,B,343.0,6.68,0.3,0.9,5.5,15,29,4,10
+BR-SEC,PRT-00007,Oil filter type A,filter,B,102.0,1.97,0.3,0.9,1.9,5,9,2,4
+BR-SEC,PRT-00008,Oil filter type B,filter,C,68.0,1.32,0.3,0.85,1.3,4,7,1,3
+BR-SEC,PRT-00009,Oil filter type C,filter,C,36.0,0.7,0.3,0.85,0.9,2,4,1,3
+BR-SEC,PRT-00010,Oil filter type D,filter,C,37.0,0.72,0.3,0.85,1.2,3,5,1,3
+BR-SEC,PRT-00011,Oil filter type E,filter,C,16.0,0.31,0.3,0.85,1.0,2,3,1,3
+BR-SEC,PRT-00012,Oil filter type F,filter,C,24.0,0.46,0.3,0.85,0.7,2,3,1,3
+BR-SEC,PRT-00013,Oil filter type G,filter,C,28.0,0.54,0.3,0.85,0.8,2,4,1,3
+BR-SEC,PRT-00014,Oil filter type H,filter,C,19.0,0.37,0.3,0.85,0.8,2,3,1,3
+BR-SEC,PRT-00015,Cabin air filter type A,filter,C,24.0,0.46,0.3,0.85,1.1,2,3,1,3
+BR-SEC,PRT-00016,Cabin air filter type B,filter,C,17.0,0.33,0.3,0.85,1.2,2,3,1,3
+BR-SEC,PRT-00017,Cabin air filter type C,filter,C,10.0,0.19,0.3,0.85,0.6,1,2,1,3
+BR-SEC,PRT-00018,Cabin air filter type D,filter,C,25.0,0.48,0.3,0.85,0.9,2,3,1,3
+BR-SEC,PRT-00019,Brake pad set front - family A,pads,B,44.0,0.91,0.3,0.9,1.0,3,5,1,3
+BR-SEC,PRT-00020,Brake pad set rear - family A,pads,B,29.0,0.6,0.3,0.9,1.1,2,4,1,3
+BR-SEC,PRT-00021,Brake pad set front - family B,pads,B,25.0,0.52,0.3,0.9,1.3,2,4,1,3
+BR-SEC,PRT-00022,Brake pad set rear - family B,pads,B,18.0,0.37,0.3,0.9,0.9,2,3,1,3
+BR-SEC,PRT-00023,Brake pad set front - family C,pads,B,27.0,0.56,0.3,0.9,1.7,3,5,1,3
+BR-SEC,PRT-00024,Brake pad set rear - family C,pads,C,7.0,0.15,0.3,0.85,0.6,1,2,1,3
+BR-SEC,PRT-00025,Brake pad set front - family D,pads,C,10.0,0.21,0.3,0.85,0.8,2,3,1,3
+BR-SEC,PRT-00026,Brake pad set rear - family D,pads,C,6.0,0.12,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00027,Brake pad set front - family E,pads,C,2.0,0.04,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00028,Brake pad set rear - family E,pads,C,2.0,0.04,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00029,Brake pad set front - family F,pads,B,12.0,0.25,0.3,0.9,0.6,1,2,1,3
+BR-SEC,PRT-00030,Brake pad set rear - family F,pads,C,5.0,0.1,0.3,0.85,0.7,1,2,1,3
+BR-SEC,PRT-00031,Brake rotor - family A,rotors,B,18.0,0.36,0.3,0.9,0.9,2,3,1,3
+BR-SEC,PRT-00032,Brake rotor - family B,rotors,C,6.0,0.12,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00033,Brake rotor - family C,rotors,C,8.0,0.16,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00034,Brake rotor - family D,rotors,C,4.0,0.08,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00035,Brake rotor - family E,rotors,B,10.0,0.2,0.3,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00037,"Wiper blade 16""",wipers,C,38.0,0.71,0.3,0.85,0.9,2,4,1,3
+BR-SEC,PRT-00038,"Wiper blade 18""",wipers,C,20.0,0.37,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00039,"Wiper blade 20""",wipers,C,16.0,0.3,0.3,0.85,1.1,2,3,1,3
+BR-SEC,PRT-00040,"Wiper blade 22""",wipers,C,14.0,0.26,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00041,"Wiper blade 24""",wipers,C,22.0,0.41,0.3,0.85,0.7,2,3,1,3
+BR-SEC,PRT-00042,"Wiper blade 26""",wipers,C,6.0,0.11,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00043,Battery group 35,battery,B,10.0,0.18,0.3,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00044,Battery group 48,battery,C,4.0,0.07,0.3,0.85,0.6,1,2,1,3
+BR-SEC,PRT-00045,Battery group 65,battery,B,5.0,0.09,0.3,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00046,Battery group 94R,battery,C,3.0,0.05,0.3,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00047,Winter tire 205/55R16,tire,A,112.0,3.9,0.4,0.95,5.2,11,19,2,4
+BR-SEC,PRT-00048,All-season tire 205/55R16,tire,A,76.0,2.65,0.4,0.95,4.7,9,15,1,3
+BR-SEC,PRT-00049,Winter tire 215/60R16,tire,A,28.0,0.97,0.4,0.95,7.5,9,11,1,3
+BR-SEC,PRT-00050,All-season tire 215/60R16,tire,A,44.0,1.53,0.4,0.95,3.3,6,10,1,3
+BR-SEC,PRT-00051,Winter tire 225/65R17,tire,A,28.0,0.97,0.4,0.95,0.0,2,4,1,3
+BR-SEC,PRT-00052,All-season tire 225/65R17,tire,B,8.0,0.28,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00053,Winter tire 235/65R17,tire,B,8.0,0.28,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00054,All-season tire 235/65R17,tire,C,4.0,0.14,0.4,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00055,Winter tire 225/60R18,tire,B,8.0,0.28,0.4,0.9,4.3,5,6,1,3
+BR-SEC,PRT-00056,All-season tire 225/60R18,tire,B,12.0,0.42,0.4,0.9,4.3,5,6,1,3
+BR-SEC,PRT-00057,Winter tire 235/60R18,tire,B,16.0,0.56,0.4,0.9,0.0,1,3,1,3
+BR-SEC,PRT-00058,All-season tire 235/60R18,tire,C,4.0,0.14,0.4,0.85,0.0,1,2,1,3
+BR-SEC,PRT-00059,Winter tire 245/60R18,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00061,Winter tire 265/70R17,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00062,All-season tire 265/70R17,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00063,Winter tire 275/65R18,tire,B,8.0,0.28,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00064,All-season tire 275/65R18,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00066,All-season tire 275/55R20,tire,B,4.0,0.14,0.4,0.9,0.0,1,2,1,3
+BR-SEC,PRT-00067,TPMS sensor,tpms,A,399.0,15.36,0.4,0.95,17.0,39,70,4,10
+BR-SEC,PRT-00068,Valve stem & TPMS service kit,tpms,B,218.0,8.39,0.4,0.9,10.1,22,39,3,7
+BR-SEC,PRT-00069,Paint protection film (per metre),ppf,A,946.0,11.97,0.8,0.95,25.3,47,71,14,30
+BR-SEC,PRT-00070,Ceramic coating kit,ppf,A,537.0,6.8,0.8,0.95,19.8,33,47,8,17

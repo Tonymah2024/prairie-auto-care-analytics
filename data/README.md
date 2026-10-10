@@ -1,0 +1,1 @@
+`prairie_auto_care_synthetic.db.gz` is the SQLite database (gzip-compressed for GitHub's file-size limit). Decompress with `gunzip -k data/prairie_auto_care_synthetic.db.gz`, or rebuild everything with `python run_pipeline.py`.

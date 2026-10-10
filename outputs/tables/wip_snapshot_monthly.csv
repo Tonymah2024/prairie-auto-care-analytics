@@ -1,0 +1,417 @@
+month,branch_id,stage,open_ros,data_status
+2024-01,BR-CCC,Awaiting approval,16,SYNTHETIC
+2024-01,BR-CCC,Awaiting parts,33,SYNTHETIC
+2024-01,BR-CCC,In repair,20,SYNTHETIC
+2024-01,BR-CCC,Ready / QC / pickup,7,SYNTHETIC
+2024-01,BR-CCC,Waiting for technician,9,SYNTHETIC
+2024-01,BR-NFS,Awaiting approval,17,SYNTHETIC
+2024-01,BR-NFS,Awaiting parts,32,SYNTHETIC
+2024-01,BR-NFS,In repair,13,SYNTHETIC
+2024-01,BR-NFS,Ready / QC / pickup,3,SYNTHETIC
+2024-01,BR-NFS,Waiting for technician,5,SYNTHETIC
+2024-01,ALL,Past promised date (in shop),3,SYNTHETIC
+2024-02,BR-CCC,Awaiting approval,23,SYNTHETIC
+2024-02,BR-CCC,Awaiting parts,30,SYNTHETIC
+2024-02,BR-CCC,In repair,23,SYNTHETIC
+2024-02,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2024-02,BR-CCC,Waiting for technician,11,SYNTHETIC
+2024-02,BR-NFS,Awaiting approval,27,SYNTHETIC
+2024-02,BR-NFS,Awaiting parts,12,SYNTHETIC
+2024-02,BR-NFS,In repair,5,SYNTHETIC
+2024-02,BR-NFS,Ready / QC / pickup,7,SYNTHETIC
+2024-02,BR-NFS,Waiting for technician,2,SYNTHETIC
+2024-02,ALL,Past promised date (in shop),0,SYNTHETIC
+2024-03,BR-CCC,Awaiting approval,20,SYNTHETIC
+2024-03,BR-CCC,Awaiting parts,32,SYNTHETIC
+2024-03,BR-CCC,In repair,20,SYNTHETIC
+2024-03,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2024-03,BR-CCC,Waiting for technician,4,SYNTHETIC
+2024-03,BR-NFS,Awaiting approval,18,SYNTHETIC
+2024-03,BR-NFS,Awaiting parts,21,SYNTHETIC
+2024-03,BR-NFS,In repair,6,SYNTHETIC
+2024-03,BR-NFS,Ready / QC / pickup,1,SYNTHETIC
+2024-03,BR-NFS,Waiting for technician,11,SYNTHETIC
+2024-03,ALL,Past promised date (in shop),2,SYNTHETIC
+2024-04,BR-CCC,Awaiting approval,16,SYNTHETIC
+2024-04,BR-CCC,Awaiting parts,21,SYNTHETIC
+2024-04,BR-CCC,In repair,18,SYNTHETIC
+2024-04,BR-CCC,Ready / QC / pickup,5,SYNTHETIC
+2024-04,BR-CCC,Waiting for technician,2,SYNTHETIC
+2024-04,BR-NFS,Awaiting approval,44,SYNTHETIC
+2024-04,BR-NFS,Awaiting parts,21,SYNTHETIC
+2024-04,BR-NFS,In repair,18,SYNTHETIC
+2024-04,BR-NFS,Ready / QC / pickup,9,SYNTHETIC
+2024-04,ALL,Past promised date (in shop),3,SYNTHETIC
+2024-05,BR-CCC,Awaiting approval,12,SYNTHETIC
+2024-05,BR-CCC,Awaiting parts,26,SYNTHETIC
+2024-05,BR-CCC,In repair,11,SYNTHETIC
+2024-05,BR-CCC,Ready / QC / pickup,4,SYNTHETIC
+2024-05,BR-CCC,Waiting for technician,1,SYNTHETIC
+2024-05,BR-NFS,Awaiting approval,40,SYNTHETIC
+2024-05,BR-NFS,Awaiting parts,23,SYNTHETIC
+2024-05,BR-NFS,In repair,5,SYNTHETIC
+2024-05,BR-NFS,Ready / QC / pickup,6,SYNTHETIC
+2024-05,ALL,Past promised date (in shop),0,SYNTHETIC
+2024-06,BR-CCC,Awaiting approval,21,SYNTHETIC
+2024-06,BR-CCC,Awaiting parts,21,SYNTHETIC
+2024-06,BR-CCC,In repair,12,SYNTHETIC
+2024-06,BR-CCC,Ready / QC / pickup,1,SYNTHETIC
+2024-06,BR-NFS,Awaiting approval,24,SYNTHETIC
+2024-06,BR-NFS,Awaiting parts,16,SYNTHETIC
+2024-06,BR-NFS,In repair,7,SYNTHETIC
+2024-06,BR-NFS,Waiting for technician,7,SYNTHETIC
+2024-06,ALL,Past promised date (in shop),5,SYNTHETIC
+2024-07,BR-CCC,Awaiting approval,16,SYNTHETIC
+2024-07,BR-CCC,Awaiting parts,23,SYNTHETIC
+2024-07,BR-CCC,In repair,15,SYNTHETIC
+2024-07,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2024-07,BR-CCC,Waiting for technician,8,SYNTHETIC
+2024-07,BR-NFS,Awaiting approval,20,SYNTHETIC
+2024-07,BR-NFS,Awaiting parts,14,SYNTHETIC
+2024-07,BR-NFS,In repair,4,SYNTHETIC
+2024-07,BR-NFS,Ready / QC / pickup,3,SYNTHETIC
+2024-07,BR-NFS,Waiting for technician,15,SYNTHETIC
+2024-07,ALL,Past promised date (in shop),0,SYNTHETIC
+2024-08,BR-CCC,Awaiting approval,14,SYNTHETIC
+2024-08,BR-CCC,Awaiting parts,38,SYNTHETIC
+2024-08,BR-CCC,In repair,28,SYNTHETIC
+2024-08,BR-CCC,Ready / QC / pickup,5,SYNTHETIC
+2024-08,BR-CCC,Waiting for technician,18,SYNTHETIC
+2024-08,BR-NFS,Awaiting approval,18,SYNTHETIC
+2024-08,BR-NFS,Awaiting parts,22,SYNTHETIC
+2024-08,BR-NFS,In repair,14,SYNTHETIC
+2024-08,BR-NFS,Ready / QC / pickup,2,SYNTHETIC
+2024-08,BR-NFS,Waiting for technician,19,SYNTHETIC
+2024-08,ALL,Past promised date (in shop),8,SYNTHETIC
+2024-09,BR-CCC,Awaiting approval,15,SYNTHETIC
+2024-09,BR-CCC,Awaiting parts,30,SYNTHETIC
+2024-09,BR-CCC,In repair,16,SYNTHETIC
+2024-09,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2024-09,BR-CCC,Waiting for technician,12,SYNTHETIC
+2024-09,BR-NFS,Awaiting approval,17,SYNTHETIC
+2024-09,BR-NFS,Awaiting parts,9,SYNTHETIC
+2024-09,BR-NFS,In repair,5,SYNTHETIC
+2024-09,BR-NFS,Ready / QC / pickup,2,SYNTHETIC
+2024-09,ALL,Past promised date (in shop),1,SYNTHETIC
+2024-10,BR-CCC,Awaiting approval,13,SYNTHETIC
+2024-10,BR-CCC,Awaiting parts,28,SYNTHETIC
+2024-10,BR-CCC,In repair,16,SYNTHETIC
+2024-10,BR-CCC,Ready / QC / pickup,7,SYNTHETIC
+2024-10,BR-NFS,Awaiting approval,43,SYNTHETIC
+2024-10,BR-NFS,Awaiting parts,31,SYNTHETIC
+2024-10,BR-NFS,In repair,6,SYNTHETIC
+2024-10,BR-NFS,Ready / QC / pickup,6,SYNTHETIC
+2024-10,BR-NFS,Waiting for technician,1,SYNTHETIC
+2024-10,ALL,Past promised date (in shop),0,SYNTHETIC
+2024-11,BR-CCC,Awaiting approval,23,SYNTHETIC
+2024-11,BR-CCC,Awaiting parts,39,SYNTHETIC
+2024-11,BR-CCC,In repair,12,SYNTHETIC
+2024-11,BR-CCC,Ready / QC / pickup,4,SYNTHETIC
+2024-11,BR-CCC,Waiting for technician,1,SYNTHETIC
+2024-11,BR-NFS,Awaiting approval,17,SYNTHETIC
+2024-11,BR-NFS,Awaiting parts,29,SYNTHETIC
+2024-11,BR-NFS,In repair,23,SYNTHETIC
+2024-11,BR-NFS,Ready / QC / pickup,1,SYNTHETIC
+2024-11,BR-NFS,Waiting for technician,4,SYNTHETIC
+2024-11,ALL,Past promised date (in shop),3,SYNTHETIC
+2024-12,BR-CCC,Awaiting approval,9,SYNTHETIC
+2024-12,BR-CCC,Awaiting parts,16,SYNTHETIC
+2024-12,BR-CCC,In repair,17,SYNTHETIC
+2024-12,BR-CCC,Ready / QC / pickup,2,SYNTHETIC
+2024-12,BR-CCC,Waiting for technician,29,SYNTHETIC
+2024-12,BR-NFS,Awaiting approval,27,SYNTHETIC
+2024-12,BR-NFS,Awaiting parts,20,SYNTHETIC
+2024-12,BR-NFS,In repair,17,SYNTHETIC
+2024-12,BR-NFS,Ready / QC / pickup,1,SYNTHETIC
+2024-12,BR-NFS,Waiting for technician,20,SYNTHETIC
+2024-12,ALL,Past promised date (in shop),11,SYNTHETIC
+2025-01,BR-CCC,Awaiting approval,23,SYNTHETIC
+2025-01,BR-CCC,Awaiting parts,34,SYNTHETIC
+2025-01,BR-CCC,In repair,16,SYNTHETIC
+2025-01,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2025-01,BR-NFS,Awaiting approval,30,SYNTHETIC
+2025-01,BR-NFS,Awaiting parts,26,SYNTHETIC
+2025-01,BR-NFS,In repair,11,SYNTHETIC
+2025-01,BR-NFS,Ready / QC / pickup,2,SYNTHETIC
+2025-01,ALL,Past promised date (in shop),0,SYNTHETIC
+2025-02,BR-CCC,Awaiting approval,12,SYNTHETIC
+2025-02,BR-CCC,Awaiting parts,23,SYNTHETIC
+2025-02,BR-CCC,In repair,21,SYNTHETIC
+2025-02,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2025-02,BR-CCC,Waiting for technician,2,SYNTHETIC
+2025-02,BR-NFS,Awaiting approval,32,SYNTHETIC
+2025-02,BR-NFS,Awaiting parts,24,SYNTHETIC
+2025-02,BR-NFS,In repair,9,SYNTHETIC
+2025-02,BR-NFS,Ready / QC / pickup,5,SYNTHETIC
+2025-02,ALL,Past promised date (in shop),1,SYNTHETIC
+2025-03,BR-CCC,Awaiting approval,23,SYNTHETIC
+2025-03,BR-CCC,Awaiting parts,25,SYNTHETIC
+2025-03,BR-CCC,In repair,13,SYNTHETIC
+2025-03,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2025-03,BR-NFS,Awaiting approval,30,SYNTHETIC
+2025-03,BR-NFS,Awaiting parts,22,SYNTHETIC
+2025-03,BR-NFS,In repair,8,SYNTHETIC
+2025-03,BR-NFS,Ready / QC / pickup,5,SYNTHETIC
+2025-03,BR-NFS,Waiting for technician,2,SYNTHETIC
+2025-03,ALL,Past promised date (in shop),0,SYNTHETIC
+2025-04,BR-CCC,Awaiting approval,15,SYNTHETIC
+2025-04,BR-CCC,Awaiting parts,37,SYNTHETIC
+2025-04,BR-CCC,In repair,20,SYNTHETIC
+2025-04,BR-CCC,Ready / QC / pickup,4,SYNTHETIC
+2025-04,BR-NFS,Awaiting approval,40,SYNTHETIC
+2025-04,BR-NFS,Awaiting parts,24,SYNTHETIC
+2025-04,BR-NFS,In repair,10,SYNTHETIC
+2025-04,BR-NFS,Ready / QC / pickup,4,SYNTHETIC
+2025-04,BR-NFS,Waiting for technician,6,SYNTHETIC
+2025-04,ALL,Past promised date (in shop),1,SYNTHETIC
+2025-05,BR-CCC,Awaiting approval,23,SYNTHETIC
+2025-05,BR-CCC,Awaiting parts,27,SYNTHETIC
+2025-05,BR-CCC,In repair,15,SYNTHETIC
+2025-05,BR-CCC,Ready / QC / pickup,2,SYNTHETIC
+2025-05,BR-CCC,Waiting for technician,2,SYNTHETIC
+2025-05,BR-NFS,Awaiting approval,28,SYNTHETIC
+2025-05,BR-NFS,Awaiting parts,20,SYNTHETIC
+2025-05,BR-NFS,In repair,9,SYNTHETIC
+2025-05,BR-NFS,Ready / QC / pickup,1,SYNTHETIC
+2025-05,BR-NFS,Waiting for technician,17,SYNTHETIC
+2025-05,BR-SEC,Awaiting approval,5,SYNTHETIC
+2025-05,BR-SEC,In repair,2,SYNTHETIC
+2025-05,BR-SEC,Waiting for technician,2,SYNTHETIC
+2025-05,ALL,Past promised date (in shop),1,SYNTHETIC
+2025-06,BR-CCC,Awaiting approval,23,SYNTHETIC
+2025-06,BR-CCC,Awaiting parts,29,SYNTHETIC
+2025-06,BR-CCC,In repair,18,SYNTHETIC
+2025-06,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2025-06,BR-NFS,Awaiting approval,31,SYNTHETIC
+2025-06,BR-NFS,Awaiting parts,20,SYNTHETIC
+2025-06,BR-NFS,In repair,11,SYNTHETIC
+2025-06,BR-NFS,Ready / QC / pickup,1,SYNTHETIC
+2025-06,BR-NFS,Waiting for technician,9,SYNTHETIC
+2025-06,BR-SEC,Awaiting approval,4,SYNTHETIC
+2025-06,BR-SEC,Awaiting parts,1,SYNTHETIC
+2025-06,BR-SEC,In repair,2,SYNTHETIC
+2025-06,BR-SEC,Waiting for technician,2,SYNTHETIC
+2025-06,ALL,Past promised date (in shop),0,SYNTHETIC
+2025-07,BR-CCC,Awaiting approval,26,SYNTHETIC
+2025-07,BR-CCC,Awaiting parts,26,SYNTHETIC
+2025-07,BR-CCC,In repair,41,SYNTHETIC
+2025-07,BR-CCC,Ready / QC / pickup,7,SYNTHETIC
+2025-07,BR-CCC,Waiting for technician,15,SYNTHETIC
+2025-07,BR-NFS,Awaiting approval,31,SYNTHETIC
+2025-07,BR-NFS,Awaiting parts,23,SYNTHETIC
+2025-07,BR-NFS,In repair,14,SYNTHETIC
+2025-07,BR-NFS,Ready / QC / pickup,5,SYNTHETIC
+2025-07,BR-NFS,Waiting for technician,2,SYNTHETIC
+2025-07,BR-SEC,Awaiting approval,10,SYNTHETIC
+2025-07,BR-SEC,Awaiting parts,5,SYNTHETIC
+2025-07,BR-SEC,In repair,4,SYNTHETIC
+2025-07,BR-SEC,Ready / QC / pickup,1,SYNTHETIC
+2025-07,BR-SEC,Waiting for technician,11,SYNTHETIC
+2025-07,ALL,Past promised date (in shop),10,SYNTHETIC
+2025-08,BR-CCC,Awaiting approval,24,SYNTHETIC
+2025-08,BR-CCC,Awaiting parts,31,SYNTHETIC
+2025-08,BR-CCC,In repair,16,SYNTHETIC
+2025-08,BR-CCC,Ready / QC / pickup,7,SYNTHETIC
+2025-08,BR-NFS,Awaiting approval,12,SYNTHETIC
+2025-08,BR-NFS,Awaiting parts,26,SYNTHETIC
+2025-08,BR-NFS,In repair,13,SYNTHETIC
+2025-08,BR-NFS,Ready / QC / pickup,1,SYNTHETIC
+2025-08,BR-NFS,Waiting for technician,9,SYNTHETIC
+2025-08,BR-SEC,Awaiting approval,4,SYNTHETIC
+2025-08,BR-SEC,Awaiting parts,1,SYNTHETIC
+2025-08,BR-SEC,In repair,3,SYNTHETIC
+2025-08,BR-SEC,Waiting for technician,22,SYNTHETIC
+2025-08,ALL,Past promised date (in shop),5,SYNTHETIC
+2025-09,BR-CCC,Awaiting approval,15,SYNTHETIC
+2025-09,BR-CCC,Awaiting parts,23,SYNTHETIC
+2025-09,BR-CCC,In repair,15,SYNTHETIC
+2025-09,BR-CCC,Ready / QC / pickup,3,SYNTHETIC
+2025-09,BR-NFS,Awaiting approval,26,SYNTHETIC
+2025-09,BR-NFS,Awaiting parts,16,SYNTHETIC
+2025-09,BR-NFS,In repair,14,SYNTHETIC
+2025-09,BR-NFS,Ready / QC / pickup,8,SYNTHETIC
+2025-09,BR-NFS,Waiting for technician,1,SYNTHETIC
+2025-09,BR-SEC,Awaiting approval,5,SYNTHETIC
+2025-09,BR-SEC,Awaiting parts,1,SYNTHETIC
+2025-09,BR-SEC,In repair,2,SYNTHETIC
+2025-09,BR-SEC,Ready / QC / pickup,1,SYNTHETIC
+2025-09,ALL,Past promised date (in shop),0,SYNTHETIC
+2025-10,BR-CCC,Awaiting approval,22,SYNTHETIC
+2025-10,BR-CCC,Awaiting parts,40,SYNTHETIC
+2025-10,BR-CCC,In repair,13,SYNTHETIC
+2025-10,BR-CCC,Ready / QC / pickup,4,SYNTHETIC
+2025-10,BR-NFS,Awaiting approval,58,SYNTHETIC
+2025-10,BR-NFS,Awaiting parts,39,SYNTHETIC
+2025-10,BR-NFS,In repair,12,SYNTHETIC
+2025-10,BR-NFS,Ready / QC / pickup,8,SYNTHETIC
+2025-10,BR-NFS,Waiting for technician,23,SYNTHETIC
+2025-10,BR-SEC,Awaiting approval,15,SYNTHETIC
+2025-10,BR-SEC,Awaiting parts,5,SYNTHETIC
+2025-10,BR-SEC,In repair,2,SYNTHETIC
+2025-10,ALL,Past promised date (in shop),1,SYNTHETIC
+2025-11,BR-CCC,Awaiting approval,38,SYNTHETIC
+2025-11,BR-CCC,Awaiting parts,49,SYNTHETIC
+2025-11,BR-CCC,In repair,28,SYNTHETIC
+2025-11,BR-CCC,Ready / QC / pickup,9,SYNTHETIC
+2025-11,BR-NFS,Awaiting approval,33,SYNTHETIC
+2025-11,BR-NFS,Awaiting parts,40,SYNTHETIC
+2025-11,BR-NFS,In repair,13,SYNTHETIC
+2025-11,BR-NFS,Ready / QC / pickup,2,SYNTHETIC
+2025-11,BR-NFS,Waiting for technician,45,SYNTHETIC
+2025-11,BR-SEC,Awaiting approval,5,SYNTHETIC
+2025-11,BR-SEC,Awaiting parts,5,SYNTHETIC
+2025-11,BR-SEC,In repair,3,SYNTHETIC
+2025-11,BR-SEC,Waiting for technician,1,SYNTHETIC
+2025-11,ALL,Past promised date (in shop),8,SYNTHETIC
+2025-12,BR-CCC,Awaiting approval,25,SYNTHETIC
+2025-12,BR-CCC,Awaiting parts,23,SYNTHETIC
+2025-12,BR-CCC,In repair,36,SYNTHETIC
+2025-12,BR-CCC,Waiting for technician,42,SYNTHETIC
+2025-12,BR-NFS,Awaiting approval,21,SYNTHETIC
+2025-12,BR-NFS,Awaiting parts,26,SYNTHETIC
+2025-12,BR-NFS,In repair,21,SYNTHETIC
+2025-12,BR-NFS,Ready / QC / pickup,2,SYNTHETIC
+2025-12,BR-NFS,Waiting for technician,72,SYNTHETIC
+2025-12,BR-SEC,Awaiting approval,6,SYNTHETIC
+2025-12,BR-SEC,Awaiting parts,2,SYNTHETIC
+2025-12,BR-SEC,In repair,4,SYNTHETIC
+2025-12,BR-SEC,Ready / QC / pickup,2,SYNTHETIC
+2025-12,BR-SEC,Waiting for technician,13,SYNTHETIC
+2025-12,ALL,Past promised date (in shop),31,SYNTHETIC
+2026-01,BR-CCC,Awaiting approval,26,SYNTHETIC
+2026-01,BR-CCC,Awaiting parts,41,SYNTHETIC
+2026-01,BR-CCC,In repair,43,SYNTHETIC
+2026-01,BR-CCC,Ready / QC / pickup,5,SYNTHETIC
+2026-01,BR-CCC,Waiting for technician,1,SYNTHETIC
+2026-01,BR-NFS,Awaiting approval,18,SYNTHETIC
+2026-01,BR-NFS,Awaiting parts,24,SYNTHETIC
+2026-01,BR-NFS,In repair,14,SYNTHETIC
+2026-01,BR-NFS,Ready / QC / pickup,3,SYNTHETIC
+2026-01,BR-NFS,Waiting for technician,12,SYNTHETIC
+2026-01,BR-SEC,Awaiting approval,10,SYNTHETIC
+2026-01,BR-SEC,Awaiting parts,6,SYNTHETIC
+2026-01,BR-SEC,In repair,2,SYNTHETIC
+2026-01,BR-SEC,Waiting for technician,3,SYNTHETIC
+2026-01,ALL,Past promised date (in shop),17,SYNTHETIC
+2026-02,BR-CCC,Awaiting approval,29,SYNTHETIC
+2026-02,BR-CCC,Awaiting parts,31,SYNTHETIC
+2026-02,BR-CCC,In repair,17,SYNTHETIC
+2026-02,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2026-02,BR-CCC,Waiting for technician,4,SYNTHETIC
+2026-02,BR-NFS,Awaiting approval,32,SYNTHETIC
+2026-02,BR-NFS,Awaiting parts,23,SYNTHETIC
+2026-02,BR-NFS,In repair,15,SYNTHETIC
+2026-02,BR-NFS,Ready / QC / pickup,1,SYNTHETIC
+2026-02,BR-NFS,Waiting for technician,10,SYNTHETIC
+2026-02,BR-SEC,Awaiting approval,8,SYNTHETIC
+2026-02,BR-SEC,Awaiting parts,5,SYNTHETIC
+2026-02,BR-SEC,In repair,3,SYNTHETIC
+2026-02,BR-SEC,Waiting for technician,4,SYNTHETIC
+2026-02,ALL,Past promised date (in shop),1,SYNTHETIC
+2026-03,BR-CCC,Awaiting approval,27,SYNTHETIC
+2026-03,BR-CCC,Awaiting parts,30,SYNTHETIC
+2026-03,BR-CCC,In repair,25,SYNTHETIC
+2026-03,BR-CCC,Ready / QC / pickup,1,SYNTHETIC
+2026-03,BR-CCC,Waiting for technician,6,SYNTHETIC
+2026-03,BR-NFS,Awaiting approval,32,SYNTHETIC
+2026-03,BR-NFS,Awaiting parts,25,SYNTHETIC
+2026-03,BR-NFS,In repair,11,SYNTHETIC
+2026-03,BR-NFS,Ready / QC / pickup,2,SYNTHETIC
+2026-03,BR-NFS,Waiting for technician,1,SYNTHETIC
+2026-03,BR-SEC,Awaiting approval,13,SYNTHETIC
+2026-03,BR-SEC,Awaiting parts,3,SYNTHETIC
+2026-03,BR-SEC,In repair,3,SYNTHETIC
+2026-03,BR-SEC,Ready / QC / pickup,1,SYNTHETIC
+2026-03,BR-SEC,Waiting for technician,1,SYNTHETIC
+2026-03,ALL,Past promised date (in shop),0,SYNTHETIC
+2026-04,BR-CCC,Awaiting approval,14,SYNTHETIC
+2026-04,BR-CCC,Awaiting parts,26,SYNTHETIC
+2026-04,BR-CCC,In repair,25,SYNTHETIC
+2026-04,BR-CCC,Ready / QC / pickup,3,SYNTHETIC
+2026-04,BR-CCC,Waiting for technician,4,SYNTHETIC
+2026-04,BR-NFS,Awaiting approval,35,SYNTHETIC
+2026-04,BR-NFS,Awaiting parts,40,SYNTHETIC
+2026-04,BR-NFS,In repair,11,SYNTHETIC
+2026-04,BR-NFS,Ready / QC / pickup,5,SYNTHETIC
+2026-04,BR-NFS,Waiting for technician,3,SYNTHETIC
+2026-04,BR-SEC,Awaiting approval,19,SYNTHETIC
+2026-04,BR-SEC,Awaiting parts,6,SYNTHETIC
+2026-04,BR-SEC,In repair,6,SYNTHETIC
+2026-04,BR-SEC,Ready / QC / pickup,2,SYNTHETIC
+2026-04,BR-SEC,Waiting for technician,3,SYNTHETIC
+2026-04,ALL,Past promised date (in shop),3,SYNTHETIC
+2026-05,BR-CCC,Awaiting approval,11,SYNTHETIC
+2026-05,BR-CCC,Awaiting parts,29,SYNTHETIC
+2026-05,BR-CCC,In repair,18,SYNTHETIC
+2026-05,BR-CCC,Ready / QC / pickup,5,SYNTHETIC
+2026-05,BR-CCC,Waiting for technician,9,SYNTHETIC
+2026-05,BR-NFS,Awaiting approval,35,SYNTHETIC
+2026-05,BR-NFS,Awaiting parts,24,SYNTHETIC
+2026-05,BR-NFS,In repair,8,SYNTHETIC
+2026-05,BR-NFS,Ready / QC / pickup,4,SYNTHETIC
+2026-05,BR-NFS,Waiting for technician,31,SYNTHETIC
+2026-05,BR-SEC,Awaiting approval,13,SYNTHETIC
+2026-05,BR-SEC,Awaiting parts,4,SYNTHETIC
+2026-05,BR-SEC,In repair,7,SYNTHETIC
+2026-05,BR-SEC,Waiting for technician,17,SYNTHETIC
+2026-05,ALL,Past promised date (in shop),10,SYNTHETIC
+2026-06,BR-CCC,Awaiting approval,22,SYNTHETIC
+2026-06,BR-CCC,Awaiting parts,29,SYNTHETIC
+2026-06,BR-CCC,In repair,13,SYNTHETIC
+2026-06,BR-CCC,Ready / QC / pickup,5,SYNTHETIC
+2026-06,BR-CCC,Waiting for technician,8,SYNTHETIC
+2026-06,BR-NFS,Awaiting approval,37,SYNTHETIC
+2026-06,BR-NFS,Awaiting parts,31,SYNTHETIC
+2026-06,BR-NFS,In repair,8,SYNTHETIC
+2026-06,BR-NFS,Ready / QC / pickup,4,SYNTHETIC
+2026-06,BR-NFS,Waiting for technician,7,SYNTHETIC
+2026-06,BR-SEC,Awaiting approval,31,SYNTHETIC
+2026-06,BR-SEC,Awaiting parts,7,SYNTHETIC
+2026-06,BR-SEC,In repair,5,SYNTHETIC
+2026-06,BR-SEC,Waiting for technician,18,SYNTHETIC
+2026-06,ALL,Past promised date (in shop),1,SYNTHETIC
+2026-07,BR-CCC,Awaiting approval,15,SYNTHETIC
+2026-07,BR-CCC,Awaiting parts,42,SYNTHETIC
+2026-07,BR-CCC,In repair,21,SYNTHETIC
+2026-07,BR-CCC,Ready / QC / pickup,6,SYNTHETIC
+2026-07,BR-CCC,Waiting for technician,11,SYNTHETIC
+2026-07,BR-NFS,Awaiting approval,29,SYNTHETIC
+2026-07,BR-NFS,Awaiting parts,29,SYNTHETIC
+2026-07,BR-NFS,In repair,15,SYNTHETIC
+2026-07,BR-NFS,Ready / QC / pickup,2,SYNTHETIC
+2026-07,BR-NFS,Waiting for technician,32,SYNTHETIC
+2026-07,BR-SEC,Awaiting approval,19,SYNTHETIC
+2026-07,BR-SEC,Awaiting parts,3,SYNTHETIC
+2026-07,BR-SEC,In repair,18,SYNTHETIC
+2026-07,BR-SEC,Ready / QC / pickup,5,SYNTHETIC
+2026-07,BR-SEC,Waiting for technician,37,SYNTHETIC
+2026-07,ALL,Past promised date (in shop),18,SYNTHETIC
+2026-08,BR-CCC,Awaiting approval,18,SYNTHETIC
+2026-08,BR-CCC,Awaiting parts,27,SYNTHETIC
+2026-08,BR-CCC,In repair,21,SYNTHETIC
+2026-08,BR-CCC,Ready / QC / pickup,8,SYNTHETIC
+2026-08,BR-CCC,Waiting for technician,4,SYNTHETIC
+2026-08,BR-NFS,Awaiting approval,26,SYNTHETIC
+2026-08,BR-NFS,Awaiting parts,26,SYNTHETIC
+2026-08,BR-NFS,In repair,13,SYNTHETIC
+2026-08,BR-NFS,Ready / QC / pickup,3,SYNTHETIC
+2026-08,BR-NFS,Waiting for technician,6,SYNTHETIC
+2026-08,BR-SEC,Awaiting approval,8,SYNTHETIC
+2026-08,BR-SEC,Awaiting parts,6,SYNTHETIC
+2026-08,BR-SEC,In repair,5,SYNTHETIC
+2026-08,BR-SEC,Ready / QC / pickup,1,SYNTHETIC
+2026-08,BR-SEC,Waiting for technician,46,SYNTHETIC
+2026-08,ALL,Past promised date (in shop),0,SYNTHETIC
+2026-09,BR-CCC,Awaiting approval,23,SYNTHETIC
+2026-09,BR-CCC,In repair,12,SYNTHETIC
+2026-09,BR-CCC,Ready / QC / pickup,3,SYNTHETIC
+2026-09,BR-CCC,Waiting for technician,23,SYNTHETIC
+2026-09,BR-NFS,Awaiting approval,28,SYNTHETIC
+2026-09,BR-NFS,In repair,11,SYNTHETIC
+2026-09,BR-NFS,Ready / QC / pickup,8,SYNTHETIC
+2026-09,BR-NFS,Waiting for technician,29,SYNTHETIC
+2026-09,BR-SEC,Awaiting approval,19,SYNTHETIC
+2026-09,BR-SEC,In repair,6,SYNTHETIC
+2026-09,BR-SEC,Ready / QC / pickup,1,SYNTHETIC
+2026-09,BR-SEC,Waiting for technician,39,SYNTHETIC
+2026-09,ALL,Past promised date (in shop),4,SYNTHETIC

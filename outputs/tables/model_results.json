@@ -1,0 +1,359 @@
+{
+ "disclaimer": "Model performance measured on SYNTHETIC data; it does not establish real-world prediction accuracy.",
+ "chosen_models": {
+  "revenue_total": "Holt-Winters (damped)",
+  "revenue_collision": "Holt-Winters (damped)",
+  "revenue_mechanical": "Holt-Winters (damped)",
+  "revenue_detailing": "Holt-Winters (damped)",
+  "revenue_glass": "Holt-Winters (damped)",
+  "revenue_other": "Seasonal naive",
+  "ros_collision": "SARIMAX",
+  "ros_mechanical": "Holt-Winters (damped)",
+  "ros_detailing": "Holt-Winters (damped)",
+  "ros_glass": "XGBoost",
+  "ros_other": "Recent level x seasonal index",
+  "billed_hours_collision": "Seasonal naive",
+  "billed_hours_mechanical": "Holt-Winters (damped)",
+  "tech_available_hours_collision": "Headcount x seasonal hours (model)",
+  "tech_available_hours_mechanical": "Headcount x seasonal hours (model)"
+ },
+ "parts_models": {
+  "battery": "XGBoost",
+  "clips": "Holt-Winters (damped)",
+  "filter": "Recent level x seasonal index",
+  "oil": "Recent level x seasonal index",
+  "pads": "Recent level x seasonal index",
+  "ppf": "Seasonal naive",
+  "resin": "Seasonal naive",
+  "rotors": "XGBoost",
+  "tire": "Holt-Winters (damped)",
+  "tpms": "Holt-Winters (damped)",
+  "urethane": "XGBoost",
+  "wipers": "XGBoost"
+ },
+ "cycle_time_best": "Ridge regression",
+ "cycle_time": [
+  {
+   "model": "Baseline: median by service type",
+   "MAE_days": 6.505503810330229,
+   "RMSE_days": 9.053374518808742,
+   "within_3_days": 0.3657917019475021,
+   "R2": 0.2793508025954602,
+   "n_test": 1181
+  },
+  {
+   "model": "Ridge regression",
+   "MAE_days": 6.0784882733395404,
+   "RMSE_days": 7.9372837431537135,
+   "within_3_days": 0.3285351397121084,
+   "R2": 0.4460803832150041,
+   "n_test": 1181
+  },
+  {
+   "model": "XGBoost",
+   "MAE_days": 7.8161473205592245,
+   "RMSE_days": 9.744410849347602,
+   "within_3_days": 0.2193056731583404,
+   "R2": 0.16513912748669235,
+   "n_test": 1181
+  }
+ ],
+ "collections": [
+  {
+   "target": "cash_collections_30d",
+   "method": "Payment-lag curves by insurer (model)",
+   "WAPE": 0.028515286627350846,
+   "MAE": 14529.253842600303,
+   "RMSE": 17226.96330108088,
+   "bias_pct": -0.4486574900848707
+  },
+  {
+   "target": "cash_collections_30d",
+   "method": "Average 30-day collection rate (baseline)",
+   "WAPE": 0.3197262004907083,
+   "MAE": 162908.5194817552,
+   "RMSE": 166437.93172452395,
+   "bias_pct": -31.972620049070837
+  },
+  {
+   "target": "cash_collections_30d",
+   "method": "Terms-based: everything due by 30 days (baseline)",
+   "WAPE": 0.07351552835388535,
+   "MAE": 37458.00583333335,
+   "RMSE": 45558.784535552084,
+   "bias_pct": 2.19034963378364
+  }
+ ],
+ "holdout_wape": {
+  "billed_hours_collision": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.0919,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.0857,
+   "SARIMAX": 0.1149,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.0729,
+   "XGBoost": 0.0901
+  },
+  "billed_hours_mechanical": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.0478,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.0767,
+   "SARIMAX": 0.086,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1805,
+   "XGBoost": 0.0942
+  },
+  "parts_units_battery": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2441,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.2447,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.2738,
+   "XGBoost": 0.1537
+  },
+  "parts_units_clips": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.1089,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.0856,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1853,
+   "XGBoost": 0.0858
+  },
+  "parts_units_filter": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.0817,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.0883,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1465,
+   "XGBoost": 0.0666
+  },
+  "parts_units_oil": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.0972,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.0914,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1855,
+   "XGBoost": 0.0818
+  },
+  "parts_units_pads": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2454,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.1974,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.2317,
+   "XGBoost": 0.1931
+  },
+  "parts_units_ppf": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 3.8674,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": NaN,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.6502,
+   "XGBoost": 0.3083
+  },
+  "parts_units_resin": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2044,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.3338,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1972,
+   "XGBoost": 0.2908
+  },
+  "parts_units_rotors": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.199,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.2547,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.16,
+   "XGBoost": 0.1427
+  },
+  "parts_units_tire": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.1189,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.203,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.2899,
+   "XGBoost": 0.4643
+  },
+  "parts_units_tpms": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2521,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.3795,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.3029,
+   "XGBoost": 0.4235
+  },
+  "parts_units_urethane": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.1896,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.2242,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.2253,
+   "XGBoost": 0.1566
+  },
+  "parts_units_wipers": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2331,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.2177,
+   "SARIMAX": NaN,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1144,
+   "XGBoost": 0.0712
+  },
+  "revenue_collision": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.1444,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.1691,
+   "SARIMAX": 0.1934,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1198,
+   "XGBoost": 0.2184
+  },
+  "revenue_detailing": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2196,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.3557,
+   "SARIMAX": 0.369,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.4448,
+   "XGBoost": 0.3702
+  },
+  "revenue_glass": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.1792,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.2255,
+   "SARIMAX": 0.1901,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.2302,
+   "XGBoost": 0.207
+  },
+  "revenue_mechanical": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.0924,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.119,
+   "SARIMAX": 0.1084,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.2097,
+   "XGBoost": 0.1986
+  },
+  "revenue_other": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.6369,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.6172,
+   "SARIMAX": 0.4641,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.5466,
+   "XGBoost": 0.3899
+  },
+  "revenue_total": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.1107,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.0989,
+   "SARIMAX": 0.1264,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.177,
+   "XGBoost": 0.115
+  },
+  "ros_collision": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.1079,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.1131,
+   "SARIMAX": 0.0492,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.1595,
+   "XGBoost": 0.1339
+  },
+  "ros_detailing": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2296,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.2413,
+   "SARIMAX": 0.3282,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.4339,
+   "XGBoost": 0.349
+  },
+  "ros_glass": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.2277,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.2496,
+   "SARIMAX": 0.1858,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.2327,
+   "XGBoost": 0.1537
+  },
+  "ros_mechanical": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.052,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.0838,
+   "SARIMAX": 0.0742,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.171,
+   "XGBoost": 0.1332
+  },
+  "ros_other": {
+   "Headcount x seasonal hours (model)": NaN,
+   "Holt-Winters (damped)": 0.4314,
+   "Mean of last 3 months": NaN,
+   "Recent level x seasonal index": 0.4019,
+   "SARIMAX": 0.3688,
+   "Same month last year": NaN,
+   "Seasonal naive": 0.4628,
+   "XGBoost": 0.2965
+  },
+  "tech_available_hours_collision": {
+   "Headcount x seasonal hours (model)": 0.0465,
+   "Holt-Winters (damped)": NaN,
+   "Mean of last 3 months": 0.0649,
+   "Recent level x seasonal index": NaN,
+   "SARIMAX": NaN,
+   "Same month last year": 0.0585,
+   "Seasonal naive": NaN,
+   "XGBoost": NaN
+  },
+  "tech_available_hours_mechanical": {
+   "Headcount x seasonal hours (model)": 0.0247,
+   "Holt-Winters (damped)": NaN,
+   "Mean of last 3 months": 0.0799,
+   "Recent level x seasonal index": NaN,
+   "SARIMAX": NaN,
+   "Same month last year": 0.0861,
+   "Seasonal naive": NaN,
+   "XGBoost": NaN
+  }
+ }
+}

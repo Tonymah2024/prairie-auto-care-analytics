@@ -1,0 +1,4 @@
+branch_id,branch_name,role,opened_date,saturday_hours,repair_bays,weekday_hours,saturday_open,data_status
+BR-SEC,Southeast Concierge,"Newest location: detailing, paint protection, PDR, light collision; concierge drop-off/pickup; moderate & major collision repaired at Central (interbranch)",2025-05-01,3.0,8,08:00-17:00,10:00-13:00,SYNTHETIC
+BR-CCC,Central Collision Centre,"Collision & auto body hub: structural, refinish, ADAS calibration, OEM-certified repairs",2016-01-01,0.0,14,08:00-17:00,Closed,SYNTHETIC
+BR-NFS,North Full-Service,"Full-service: collision, mechanical, tires, diagnostics, glass, detailing",2019-01-01,3.0,12,08:00-17:00,10:00-13:00,SYNTHETIC

@@ -1,0 +1,30 @@
+key,2024,2025,2026,label,data_status
+rev_collision,65.88,64.43,63.17,Collision repair revenue,SIMULATED
+rev_mech,27.41,26.46,23.7,Mechanical service revenue,SIMULATED
+rev_detail,1.46,2.42,3.84,Detailing revenue,SIMULATED
+rev_glass,4.3,4.09,4.05,Glass repair revenue,SIMULATED
+rev_other,1.57,3.25,6.04,"Other service revenue (PDR, paint protection, ADAS, fees)",SIMULATED
+gross_rev,100.62,100.64,100.8,Service revenue,SIMULATED
+adjustments,-0.62,-0.64,-0.8,"Less: discounts, insurer short-pays & adjustments",SIMULATED
+net_rev,100.0,100.0,100.0,Total net revenue,SIMULATED
+labour,-23.04,-24.51,-23.48,"Technician labour (wages, overtime & burden)",SIMULATED
+parts,-37.18,-36.34,-35.53,Parts,SIMULATED
+materials,-2.45,-2.53,-2.64,Paint & materials,SIMULATED
+sublet,-1.32,-1.38,-1.18,Subcontractor costs (sublet repairs & towing),SIMULATED
+warranty,-0.08,-0.06,-0.1,Warranty rework - parts & sublet,SIMULATED
+inv_adj,-0.01,-0.0,-0.0,Inventory adjustments & obsolescence,SIMULATED
+cogs,-64.09,-64.83,-62.94,Cost of sales,SIMULATED
+gross_profit,35.91,35.17,37.06,Gross profit,SIMULATED
+staff,-12.07,-13.11,-11.58,Staff compensation (branch & group),SIMULATED
+occupancy,-8.49,-9.73,-8.33,"Occupancy (rent, CAM & property tax, utilities)",SIMULATED
+marketing,-1.14,-1.46,-0.8,Marketing & advertising,SIMULATED
+g_and_a,-2.92,-2.86,-2.5,"General & administrative (insurance, professional, software, network, training)",SIMULATED
+shop_ops,-4.02,-4.35,-4.06,"Shop operations (supplies, maintenance, courtesy vehicles, courier & waste, card fees)",SIMULATED
+opex,-28.63,-31.51,-27.27,Operating expenses (before depreciation),SIMULATED
+ebitda,7.28,3.66,9.79,EBITDA,SIMULATED
+da,-1.91,-2.11,-1.86,Depreciation,SIMULATED
+ebit,5.38,1.55,7.93,Operating income (EBIT),SIMULATED
+interest,-0.32,-0.36,-0.24,Interest expense,SIMULATED
+pbt,5.05,1.19,7.69,Income before tax,SIMULATED
+tax,-0.56,-0.13,-1.22,Income taxes,SIMULATED
+net_income,4.49,1.06,6.47,Net income,SIMULATED

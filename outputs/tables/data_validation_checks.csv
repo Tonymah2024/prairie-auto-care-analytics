@@ -1,0 +1,36 @@
+check_no,area,check,violations,detail
+1,Integrity,Primary keys unique in every table,0,21 keyed tables
+2,Integrity,Foreign keys resolve (SQLite PRAGMA foreign_key_check),0,47 foreign-key relationships
+3,Integrity,Every RO's vehicle belongs to the RO's customer,0,
+4,Integrity,Synthetic-data label on every row of every table,0,data_status = SYNTHETIC
+5,Workflow,RO milestones in order (inquiry <= estimate <= approval <= parts <= start <= complete <= QC <= delivery),0,"10 date pairs on 26,949 ROs (total-loss teardown precedes the insurer's decision)"
+6,Workflow,Delivered ROs have every milestone through delivery,0,
+7,Workflow,Special-order parts complete before work starts (except supplement parts),0,
+8,Workflow,No technician time booked after an RO is delivered or closed,0,
+9,Workflow,Warranty comebacks follow a delivered original RO and are invoiced at $0,0,
+10,Workflow,Completed appointments link to an RO; no-shows / cancellations do not,0,
+11,Claims,Insurer-paid ROs have exactly one claim; other ROs none,0,
+12,Claims,Claim approved value = estimate x insurer approval ratio,0,
+13,Invoices,Invoice subtotals (all bill-to splits) = labour + parts + materials + sublet + fees - discount,0,
+14,Invoices,GST = 5% of every invoice subtotal; total = subtotal + GST,0,
+15,Invoices,Insurer jobs: invoiced value = approved initial estimate + approved supplements,0,max difference $0.02 (rounding)
+16,Invoices,Invoiced parts = RO part lines (qty x price; x approval ratio on insurer jobs),0,
+17,Invoices,Billed hours by operation sum to RO billed labour hours,0,
+18,Payments,Payments + short-pay adjustments never exceed the invoice; no payment before its invoice,0,
+19,Payments,Customer and deductible portions paid at vehicle pickup (invoice date),0,
+20,Labour,Job-assignment hours per RO = RO clocked labour hours,0,
+21,Labour,Timesheet productive hours per technician-day = sum of job assignments,0,
+22,Labour,Productive hours <= attended hours (available + overtime); overtime only on attended days,0,
+23,Labour,No job time on technicians' absence days or unscheduled days,0,
+24,Labour,"Assignments are at the RO's performing branch, by a technician of that branch whose role covers the operation",0,
+25,Labour,Assignments only while the technician is employed,0,
+26,Inventory,"On-hand quantity never negative (stock, job-allocated and materials, every branch and part)",0,
+27,Inventory,Parts issued to each RO (movements) = RO part lines installed (qty x cost),0,
+28,Inventory,Paint & detailing materials issued = materials_issues by RO,0,
+29,Inventory,Every received PO line has exactly its quantity received into inventory,0,
+30,Inventory,Special-order parts installed only after receipt,0,
+31,Inventory,No special-order parts left in job-allocated stock for closed ROs,0,
+32,Inventory,Emergency orders are received the same day they are placed,0,
+33,Branches,Interbranch transfer recorded for every delivered RO performed at another branch (and only those),0,
+34,Opex,One operating-expense row per branch-month; no negative amounts,0,
+35,External data,Real Calgary daily weather (ECCC) covers every day Jan-2024 to Sep-2026,0,"1,004 daily rows"

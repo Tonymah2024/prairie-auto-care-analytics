@@ -1,0 +1,7 @@
+vendor_id,vendor_name,vendor_type,data_status
+VEN-TOW,Fictional towing partner,Towing & storage,SYNTHETIC
+VEN-ALN,Fictional alignment & frame specialist,Sublet alignment,SYNTHETIC
+VEN-MEC,Fictional mechanical sublet shop,Sublet mechanical,SYNTHETIC
+VEN-UPH,Fictional upholstery & interior repair,Sublet interior,SYNTHETIC
+VEN-UTIL,Utility provider,Utilities,SYNTHETIC
+VEN-OPS,Operating vendors (various),Operating,SYNTHETIC

@@ -1,0 +1,50 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><title>Prairie Auto Care - Demonstration guide</title><style>
+@page { size: Letter; margin: 17mm 15mm 18mm 15mm;
+  @bottom-left { content: "VisiVault Analytics Ltd.  |  Prairie Auto Care (fictional)  |  SYNTHETIC DEMONSTRATION DATA - not actual Ultimate Car Care Group records"; font: 7.5pt Helvetica, Arial; color: #4a3aa7; }
+  @bottom-right { content: "Page " counter(page) " of " counter(pages); font: 7.5pt Helvetica, Arial; color: #888; } }
+@page cover { margin: 0; @bottom-left { content: none } @bottom-right { content: none } }
+* { box-sizing: border-box; }
+body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 9.6pt; line-height: 1.45; color: #0b1120; margin: 0; }
+h1 { font-size: 20pt; margin: 0 0 6px; color: #0b1120; }
+h2 { font-size: 14pt; color: #184f95; border-bottom: 2px solid #2a78d6; padding-bottom: 3px; margin: 18px 0 8px; break-after: avoid; }
+h3 { font-size: 11pt; color: #0b1120; margin: 12px 0 4px; break-after: avoid; }
+p { margin: 4px 0 7px; }
+ul { margin: 3px 0 8px 0; padding-left: 18px; } li { margin: 2px 0; }
+table { border-collapse: collapse; width: 100%; margin: 6px 0 10px; font-size: 8.2pt; break-inside: auto; }
+th { background: #0b1120; color: #fff; text-align: left; padding: 4px 6px; font-weight: 600; }
+td { border-bottom: 1px solid #e3e2dd; padding: 3.5px 6px; vertical-align: top; }
+tr { break-inside: avoid; }
+tbody tr:nth-child(even) td { background: #f7f7f5; }
+figure { margin: 6px 0 10px; break-inside: avoid; } figure img { border: 1px solid #ecebe7; border-radius: 4px; }
+figcaption { font-size: 8pt; color: #52514e; margin-top: 2px; }
+.callout { background: #eaf2fc; border-left: 4px solid #2a78d6; padding: 8px 12px; margin: 8px 0; break-inside: avoid; }
+.warn { background: #fff4e5; border-left: 4px solid #d97706; padding: 8px 12px; margin: 8px 0; break-inside: avoid; font-size: 8.8pt; }
+.kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 8px 0 12px; }
+.kpi { border: 1px solid #e3e2dd; border-radius: 8px; padding: 8px 10px; break-inside: avoid; }
+.kpi .l { font-size: 7.4pt; text-transform: uppercase; letter-spacing: .04em; color: #52514e; }
+.kpi .v { font-size: 15pt; font-weight: 700; color: #184f95; }
+.kpi .s { font-size: 7.6pt; color: #52514e; }
+.tag { display:inline-block; font-size:7pt; font-weight:700; padding:1px 6px; border-radius: 8px; }
+.tag.v { background:#e3f5f2; color:#0d9488; } .tag.s { background:#efeaf9; color:#4a3aa7; } .tag.a { background:#fff4e5; color:#b45309; }
+.pb { break-before: page; }
+.two { display:block; }
+.cover { page: cover; height: 279mm; background: linear-gradient(160deg, #0b1120 0%, #184f95 70%, #2a78d6 100%); color: #fff; padding: 34mm 22mm; position: relative; }
+.cover h1 { color:#fff; font-size: 28pt; line-height: 1.15; margin-bottom: 14px; }
+.cover .sub { font-size: 13pt; opacity: .9; }
+.cover .meta { position:absolute; bottom: 30mm; left: 22mm; right: 22mm; font-size: 10pt; opacity:.92; }
+.cover .badge { display:inline-block; background:#fff4e5; color:#7a4a00; font-weight:700; padding:6px 12px; border-radius:6px; font-size:9.5pt; margin-top:22px; }
+.brandmark { font-weight: 800; letter-spacing: .02em; font-size: 12pt; }
+.small { font-size: 8pt; color: #52514e; }
+.toc li { margin: 3px 0; }
+</style></head><body><section class='cover'><div class='brandmark'>VISIVAULT ANALYTICS</div>
+<h1 style='margin-top:38mm'>Demonstration guide</h1><div class='sub'>A 20-minute walkthrough of the Prairie Auto Care Analytics dashboard</div>
+<div class='badge'>⚠ Developed by VisiVault Analytics Ltd. — Synthetic demonstration data. Not actual Ultimate Car Care Group records.</div>
+<div class='meta'>Developed by VisiVault Analytics Ltd. · October 2026 · Demo guide<br>Prairie Auto Care Group is a FICTIONAL multi-location Calgary collision repair and car care business.
+Its business model (three Calgary locations with distinct roles, published hours, service menu, OEM-certified collision work, direct billing of insurers) is inspired by a public
+Calgary auto care group's website (retrieved 2026-10-09); every repair order, cost, technician, insurer, customer and financial figure is synthetic.
+No relationship with or endorsement by any real company is implied.</div></section>
+<h2>Before the meeting</h2><ul><li>Open the interactive demonstration (link shared separately) (or run locally: <code>streamlit run dashboard/app.py</code>).</li>
+<li>Say clearly: fictional business, synthetic data, inspired only by the public business model of a Calgary auto care group.</li></ul>
+<h2>Walkthrough</h2><table class=''><thead><tr><th>Page</th><th>What to show</th></tr></thead><tbody><tr><td>Executive Overview</td><td>Start with TTM revenue, EBITDA and the SE Concierge ramp; read the key findings (parts waiting 9.5 days).</td></tr><tr><td>Repair Job Profitability</td><td>Show where each revenue dollar goes by line; open the unprofitable-RO list; use the job calculator (efficiency, parts cost, price).</td></tr><tr><td>Technician Productivity</td><td>Explain the three definitions; show the mix-adjusted comparison table and why there is no league table.</td></tr><tr><td>Repair Cycle Times</td><td>Filter to moderate collision with supplements; show the bottleneck chart and the delayed-repairs list; estimated completion dates.</td></tr><tr><td>Parts Inventory & Supplier Performance</td><td>Stocked vs special-order; tire-season stockouts; reorder recommendations; supplier on-time and lead times.</td></tr><tr><td>Insurance Claims</td><td>Approval and payment days by (fictional) insurer category; receivables ageing; admin workload.</td></tr><tr><td>Branch Comparison</td><td>Interbranch eliminations and allocations; SE start-up losses; drill into a branch P&L.</td></tr><tr><td>Financial statements & ratios</td><td>Statements reconcile; WIP and insurer receivables in the balance sheet; cash bridge.</td></tr><tr><td>Forecasting & Scenario Simulator</td><td>Show demand vs capacity; move technician efficiency +10% and note revenue barely moves - then add appointment volume.</td></tr><tr><td>Excel model</td><td>Open Prairie_Auto_Care_Integrated_Financial_Model.xlsx, change Assumptions!C4 to Optimistic and show the Checks sheet staying TRUE.</td></tr></tbody></table>
+<h2>Close</h2><p>Propose the 90-day pilot (job profitability, technician productivity, cycle time, branch financial performance) with read-only data access.</p>
+<p class='small'>Developed by VisiVault Analytics Ltd. — Synthetic demonstration data. Not actual Ultimate Car Care Group records.</p></body></html>

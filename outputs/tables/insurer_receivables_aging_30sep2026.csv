@@ -1,0 +1,31 @@
+insurer_category,insurer_name,0-30,31-60,61-90,90+,data_status
+DRP insurer (direct repair program),Aspen Direct Insurance (fictional),18814.51,0.0,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Bow River General (fictional),48246.56,0.0,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Chinook Mutual Insurance (fictional),58753.950000000004,0.0,532.71,0.0,SYNTHETIC
+DRP insurer (direct repair program),Elbow Valley General (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Fleet & self-insured accounts (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Kananaskis Assurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Northlight Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Parkland Mutual (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Prairie Shield Insurance (fictional),65295.51,16654.65,0.0,0.0,SYNTHETIC
+DRP insurer (direct repair program),Rundle Casualty (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Aspen Direct Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Bow River General (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Chinook Mutual Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Elbow Valley General (fictional),70142.18,7385.95,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Fleet & self-insured accounts (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Kananaskis Assurance (fictional),43897.03,20472.04,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Northlight Insurance (fictional),25636.42,6602.42,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Parkland Mutual (fictional),74824.56,27318.62,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Prairie Shield Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Non-DRP insurer (independent appraisal),Rundle Casualty (fictional),37804.47,27274.75,1266.06,0.0,SYNTHETIC
+Self-insured fleet / commercial,Aspen Direct Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Bow River General (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Chinook Mutual Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Elbow Valley General (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Fleet & self-insured accounts (fictional),20228.030000000002,2410.12,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Kananaskis Assurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Northlight Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Parkland Mutual (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Prairie Shield Insurance (fictional),0.0,0.0,0.0,0.0,SYNTHETIC
+Self-insured fleet / commercial,Rundle Casualty (fictional),0.0,0.0,0.0,0.0,SYNTHETIC

@@ -1,0 +1,397 @@
+line,account,month,operational,general_ledger,difference,data_status
+4000 Collision repair revenue,4000,2024-01,535748.84,535748.84,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-02,697212.33,697212.33,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-03,600100.5,600100.5,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-04,635993.75,635993.75,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-05,641852.68,641852.68,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-06,385344.1,385344.1,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-07,381913.17,381913.17,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-08,416953.28,416953.28,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-09,646361.59,646361.59,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-10,538820.54,538820.54,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-11,576821.13,576821.13,0.0,SIMULATED
+4000 Collision repair revenue,4000,2024-12,532711.48,532711.48,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-01,699721.5,699721.5,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-02,617088.75,617088.75,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-03,648451.89,648451.89,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-04,499351.84,499351.84,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-05,668416.45,668416.45,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-06,548686.8,548686.8,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-07,624666.58,624666.58,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-08,765727.54,765727.54,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-09,657986.31,657986.31,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-10,657157.08,657157.08,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-11,563695.48,563695.48,0.0,SIMULATED
+4000 Collision repair revenue,4000,2025-12,729662.15,729662.15,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-01,1115733.07,1115733.07,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-02,831639.92,831639.92,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-03,819803.78,819803.78,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-04,796755.85,796755.85,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-05,628523.38,628523.38,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-06,643079.8,643079.8,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-07,674357.74,674357.74,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-08,757456.93,757456.93,0.0,SIMULATED
+4000 Collision repair revenue,4000,2026-09,667874.6,667874.6,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-01,185909.12,185909.12,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-02,187246.52,187246.52,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-03,154214.04,154214.04,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-04,266248.4,266248.4,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-05,313601.58,313601.58,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-06,208274.83,208274.83,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-07,169098.0,169098.0,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-08,178348.41,178348.41,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-09,190058.5,190058.5,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-10,369088.9,369088.9,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-11,347868.64,347868.64,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2024-12,171743.08,171743.08,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-01,186033.77,186033.77,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-02,218788.91,218788.91,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-03,203322.18,203322.18,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-04,260923.49,260923.49,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-05,343077.28,343077.28,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-06,228817.78,228817.78,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-07,224374.52,224374.52,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-08,214544.27,214544.27,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-09,213509.76,213509.76,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-10,405072.41,405072.41,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-11,440663.15,440663.15,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2025-12,215245.71,215245.71,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-01,270709.69,270709.69,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-02,213835.05,213835.05,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-03,238018.94,238018.94,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-04,383098.24,383098.24,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-05,439580.36,439580.36,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-06,311008.96,311008.96,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-07,236370.23,236370.23,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-08,248304.35,248304.35,0.0,SIMULATED
+4100 Mechanical service revenue,4100,2026-09,260873.48,260873.48,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-01,6032.6,6032.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-02,5684.6,5684.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-03,12470.0,12470.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-04,15892.8,15892.8,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-05,13975.0,13975.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-06,15239.2,15239.2,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-07,16348.6,16348.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-08,19350.0,19350.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-09,10939.2,10939.2,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-10,13192.4,13192.4,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-11,9262.2,9262.2,0.0,SIMULATED
+4200 Detailing revenue,4200,2024-12,7817.4,7817.4,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-01,10414.8,10414.8,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-02,7272.0,7272.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-03,10368.0,10368.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-04,17118.0,17118.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-05,30357.0,30357.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-06,37665.0,37665.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-07,34749.0,34749.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-08,30798.0,30798.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-09,36225.0,36225.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-10,33669.0,33669.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-11,17604.0,17604.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2025-12,22329.0,22329.0,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-01,22839.8,22839.8,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-02,24195.6,24195.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-03,38295.6,38295.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-04,61513.6,61513.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-05,57659.6,57659.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-06,66204.2,66204.2,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-07,42121.4,42121.4,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-08,53335.6,53335.6,0.0,SIMULATED
+4200 Detailing revenue,4200,2026-09,55826.6,55826.6,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-01,36990.19,36990.19,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-02,28679.49,28679.49,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-03,37116.23,37116.23,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-04,49812.14,49812.14,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-05,46379.55,46379.55,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-06,37325.37,37325.37,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-07,36745.57,36745.57,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-08,39138.71,39138.71,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-09,25593.51,25593.51,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-10,38664.88,38664.88,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-11,33297.28,33297.28,0.0,SIMULATED
+4300 Glass repair revenue,4300,2024-12,20253.07,20253.07,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-01,34216.23,34216.23,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-02,29155.72,29155.72,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-03,54639.62,54639.62,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-04,40927.86,40927.86,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-05,58813.24,58813.24,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-06,46501.84,46501.84,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-07,36182.69,36182.69,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-08,50513.56,50513.56,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-09,27530.72,27530.72,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-10,37789.39,37789.39,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-11,39084.16,39084.16,0.0,SIMULATED
+4300 Glass repair revenue,4300,2025-12,31715.35,31715.35,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-01,37113.25,37113.25,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-02,38630.76,38630.76,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-03,50478.39,50478.39,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-04,52260.8,52260.8,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-05,52842.69,52842.69,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-06,44753.98,44753.98,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-07,45201.94,45201.94,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-08,69551.56,69551.56,0.0,SIMULATED
+4300 Glass repair revenue,4300,2026-09,53702.35,53702.35,0.0,SIMULATED
+4400 Other services revenue,4400,2024-01,8595.16,8595.16,0.0,SIMULATED
+4400 Other services revenue,4400,2024-02,6625.65,6625.65,0.0,SIMULATED
+4400 Other services revenue,4400,2024-03,9074.35,9074.35,0.0,SIMULATED
+4400 Other services revenue,4400,2024-04,8669.0,8669.0,0.0,SIMULATED
+4400 Other services revenue,4400,2024-05,9262.97,9262.97,0.0,SIMULATED
+4400 Other services revenue,4400,2024-06,8337.47,8337.47,0.0,SIMULATED
+4400 Other services revenue,4400,2024-07,7424.71,7424.71,0.0,SIMULATED
+4400 Other services revenue,4400,2024-08,48418.62,48418.62,0.0,SIMULATED
+4400 Other services revenue,4400,2024-09,17771.2,17771.2,0.0,SIMULATED
+4400 Other services revenue,4400,2024-10,12649.76,12649.76,0.0,SIMULATED
+4400 Other services revenue,4400,2024-11,9651.44,9651.44,0.0,SIMULATED
+4400 Other services revenue,4400,2024-12,10124.96,10124.96,0.0,SIMULATED
+4400 Other services revenue,4400,2025-01,9919.63,9919.63,0.0,SIMULATED
+4400 Other services revenue,4400,2025-02,9412.9,9412.9,0.0,SIMULATED
+4400 Other services revenue,4400,2025-03,12579.49,12579.49,0.0,SIMULATED
+4400 Other services revenue,4400,2025-04,8922.78,8922.78,0.0,SIMULATED
+4400 Other services revenue,4400,2025-05,18835.23,18835.23,0.0,SIMULATED
+4400 Other services revenue,4400,2025-06,30291.58,30291.58,0.0,SIMULATED
+4400 Other services revenue,4400,2025-07,56356.25,56356.25,0.0,SIMULATED
+4400 Other services revenue,4400,2025-08,80300.51,80300.51,0.0,SIMULATED
+4400 Other services revenue,4400,2025-09,54704.21,54704.21,0.0,SIMULATED
+4400 Other services revenue,4400,2025-10,44844.94,44844.94,0.0,SIMULATED
+4400 Other services revenue,4400,2025-11,38056.74,38056.74,0.0,SIMULATED
+4400 Other services revenue,4400,2025-12,22726.79,22726.79,0.0,SIMULATED
+4400 Other services revenue,4400,2026-01,46911.53,46911.53,0.0,SIMULATED
+4400 Other services revenue,4400,2026-02,29218.25,29218.25,0.0,SIMULATED
+4400 Other services revenue,4400,2026-03,62981.53,62981.53,0.0,SIMULATED
+4400 Other services revenue,4400,2026-04,77274.89,77274.89,0.0,SIMULATED
+4400 Other services revenue,4400,2026-05,54051.37,54051.37,0.0,SIMULATED
+4400 Other services revenue,4400,2026-06,86525.79,86525.79,0.0,SIMULATED
+4400 Other services revenue,4400,2026-07,141310.65,141310.65,0.0,SIMULATED
+4400 Other services revenue,4400,2026-08,74340.63,74340.63,0.0,SIMULATED
+4400 Other services revenue,4400,2026-09,90328.55,90328.55,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-01,3112.93,3112.93,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-02,4732.89,4732.89,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-03,4456.2,4456.2,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-04,5368.98,5368.98,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-05,5214.14,5214.14,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-06,3730.93,3730.93,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-07,3919.31,3919.31,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-08,7050.52,7050.52,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-09,6318.43,6318.43,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-10,4659.09,4659.09,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-11,5848.26,5848.26,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2024-12,7455.76,7455.76,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-01,7003.99,7003.99,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-02,5728.49,5728.49,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-03,3822.35,3822.35,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-04,7025.26,7025.26,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-05,5024.58,5024.58,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-06,6709.7,6709.7,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-07,9388.76,9388.76,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-08,8121.62,8121.62,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-09,6005.21,6005.21,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-10,5200.75,5200.75,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-11,5837.75,5837.75,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2025-12,6626.11,6626.11,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-01,15377.53,15377.53,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-02,10945.71,10945.71,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-03,7126.27,7126.27,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-04,10302.45,10302.45,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-05,7986.27,7986.27,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-06,9013.52,9013.52,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-07,8618.73,8618.73,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-08,9706.23,9706.23,0.0,SIMULATED
+4900 Discounts & insurer short-pays,4900,2026-09,8851.09,8851.09,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-01,38524.36,38524.36,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-02,46063.62,46063.62,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-03,40461.85,40461.85,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-04,48580.51,48580.51,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-05,51026.48,51026.48,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-06,32576.86,32576.86,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-07,30386.15,30386.15,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-08,34815.66,34815.66,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-09,44268.11,44268.11,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-10,48399.54,48399.54,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-11,48599.13,48599.13,0.0,SIMULATED
+2300 GST charged on invoices,2300,2024-12,36800.04,36800.04,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-01,46684.55,46684.55,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-02,43872.14,43872.14,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-03,46288.15,46288.15,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-04,41131.84,41131.84,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-05,55741.06,55741.06,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-06,44297.3,44297.3,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-07,48373.53,48373.53,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-08,56699.89,56699.89,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-09,49234.24,49234.24,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-10,58667.07,58667.07,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-11,54692.55,54692.55,0.0,SIMULATED
+2300 GST charged on invoices,2300,2025-12,50790.76,50790.76,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-01,73997.51,73997.51,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-02,56329.74,56329.74,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-03,60129.57,60129.57,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-04,68118.59,68118.59,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-05,61253.94,61253.94,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-06,57151.88,57151.88,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-07,56651.53,56651.53,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-08,59756.71,59756.71,0.0,SIMULATED
+2300 GST charged on invoices,2300,2026-09,56009.2,56009.2,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-01,293335.48,293335.48,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-02,333201.91,333201.91,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-03,295964.87,295964.87,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-04,373933.87,373933.87,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-05,392874.2,392874.2,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-06,232476.47,232476.47,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-07,209669.54,209669.54,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-08,228318.21,228318.21,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-09,327203.6,327203.6,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-10,381127.7,381127.7,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-11,373425.05,373425.05,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2024-12,277633.97,277633.97,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-01,334414.74,334414.74,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-02,314303.88,314303.88,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-03,333132.75,333132.75,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-04,305328.15,305328.15,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-05,421390.49,421390.49,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-06,313567.03,313567.03,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-07,340506.54,340506.54,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-08,405551.86,405551.86,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-09,326934.78,326934.78,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-10,426972.28,426972.28,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-11,434859.06,434859.06,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2025-12,375548.4,375548.4,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-01,560347.42,560347.42,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-02,416923.86,416923.86,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-03,416408.5,416408.5,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-04,482027.65,482027.65,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-05,467364.96,467364.96,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-06,387410.92,387410.92,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-07,370202.35,370202.35,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-08,422239.01,422239.01,0.0,SIMULATED
+5100 Parts (released on delivery),5100,2026-09,377243.98,377243.98,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-01,19001.18,19001.18,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-02,25231.99,25231.99,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-03,21877.97,21877.97,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-04,23054.44,23054.44,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-05,23723.59,23723.59,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-06,14315.13,14315.13,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-07,15493.63,15493.63,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-08,17347.33,17347.33,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-09,24263.19,24263.19,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-10,20136.71,20136.71,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-11,21273.3,21273.3,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2024-12,19183.82,19183.82,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-01,27463.93,27463.93,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-02,23067.3,23067.3,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-03,23952.09,23952.09,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-04,19269.34,19269.34,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-05,25390.7,25390.7,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-06,22742.32,22742.32,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-07,25635.19,25635.19,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-08,30607.72,30607.72,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-09,28328.72,28328.72,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-10,27421.32,27421.32,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-11,20905.01,20905.01,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2025-12,27047.79,27047.79,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-01,40205.08,40205.08,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-02,31989.93,31989.93,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-03,34295.56,34295.56,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-04,35082.49,35082.49,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-05,25670.69,25670.69,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-06,30151.59,30151.59,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-07,30673.75,30673.75,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-08,32071.04,32071.04,0.0,SIMULATED
+5200 Paint & materials (released on delivery),5200,2026-09,30132.79,30132.79,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-01,10636.54,10636.54,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-02,14436.04,14436.04,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-03,13037.97,13037.97,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-04,17280.48,17280.48,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-05,8712.2,8712.2,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-06,10328.04,10328.04,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-07,6089.55,6089.55,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-08,5076.08,5076.08,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-09,14997.07,14997.07,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-10,8279.17,8279.17,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-11,12930.21,12930.21,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2024-12,10563.67,10563.67,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-01,11604.39,11604.39,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-02,13501.79,13501.79,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-03,11984.87,11984.87,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-04,9745.36,9745.36,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-05,19672.16,19672.16,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-06,15315.44,15315.44,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-07,10252.04,10252.04,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-08,11636.0,11636.0,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-09,14623.88,14623.88,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-10,16300.7,16300.7,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-11,13427.54,13427.54,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2025-12,16128.47,16128.47,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-01,22299.46,22299.46,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-02,15159.68,15159.68,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-03,11174.66,11174.66,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-04,12871.67,12871.67,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-05,16060.85,16060.85,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-06,11717.72,11717.72,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-07,11469.74,11469.74,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-08,11797.8,11797.8,0.0,SIMULATED
+5300 Sublet (released on delivery),5300,2026-09,17473.1,17473.1,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-01,522.03,522.03,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-02,1923.35,1923.35,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-03,516.97,516.97,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-04,466.67,466.67,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-05,528.6,528.6,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-06,44.57,44.57,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-07,1205.22,1205.22,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-08,683.08,683.08,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-09,887.68,887.68,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-10,390.72,390.72,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-11,0.0,0.0,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2024-12,935.89,935.89,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-01,792.55,792.55,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-02,67.6,67.6,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-03,733.77,733.77,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-04,255.74,255.74,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-05,2163.01,2163.01,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-06,0.0,0.0,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-07,18.42,18.42,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-08,1428.25,1428.25,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-09,280.71,280.71,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-10,826.23,826.23,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-11,504.32,504.32,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2025-12,519.24,519.24,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-01,1237.06,1237.06,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-02,1283.49,1283.49,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-03,516.41,516.41,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-04,561.99,561.99,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-05,339.28,339.28,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-06,258.18,258.18,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-07,1883.26,1883.26,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-08,2815.51,2815.51,0.0,SIMULATED
+5400 Warranty rework parts & sublet,5400,2026-09,1731.77,1731.77,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-01,184665.84,184665.84,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-02,193295.91,193295.91,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-03,189178.51,189178.51,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-04,192140.21,192140.21,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-05,209583.72,209583.72,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-06,175669.4,175669.4,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-07,186308.75,186308.75,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-08,198237.28,198237.28,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-09,194715.88,194715.88,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-10,200562.87,200562.87,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-11,186447.4,186447.4,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2024-12,194208.37,194208.37,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-01,217523.26,217523.26,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-02,189598.76,189598.76,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-03,213934.54,213934.54,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-04,200480.19,200480.19,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-05,262485.37,262485.37,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-06,246148.51,246148.51,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-07,274533.12,274533.12,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-08,276595.87,276595.87,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-09,265937.89,265937.89,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-10,274955.86,274955.86,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-11,226633.95,226633.95,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2025-12,273070.77,273070.77,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-01,305536.52,305536.52,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-02,264113.63,264113.63,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-03,295322.5,295322.5,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-04,281149.44,281149.44,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-05,257540.24,257540.24,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-06,294083.74,294083.74,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-07,301668.59,301668.59,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-08,292708.23,292708.23,0.0,SIMULATED
+5000 Technician labour = timesheet payroll - change in labour WIP,5000,2026-09,286020.55,286020.55,0.0,SIMULATED

@@ -1,0 +1,11 @@
+insurer_id,insurer_name,insurer_category,payment_days_mean,payment_days_sd,approval_days_mean,approval_ratio_mean,share_of_claims,data_status
+INS-01,Chinook Mutual Insurance (fictional),DRP insurer (direct repair program),18,6,0.6,0.985,0.17,SYNTHETIC
+INS-02,Bow River General (fictional),DRP insurer (direct repair program),22,7,0.8,0.98,0.15,SYNTHETIC
+INS-03,Prairie Shield Insurance (fictional),DRP insurer (direct repair program),26,8,1.0,0.975,0.12,SYNTHETIC
+INS-04,Aspen Direct Insurance (fictional),DRP insurer (direct repair program),20,6,0.7,0.985,0.1,SYNTHETIC
+INS-05,Kananaskis Assurance (fictional),Non-DRP insurer (independent appraisal),34,10,3.5,0.955,0.11,SYNTHETIC
+INS-06,Northlight Insurance (fictional),Non-DRP insurer (independent appraisal),38,12,4.2,0.95,0.09,SYNTHETIC
+INS-07,Parkland Mutual (fictional),Non-DRP insurer (independent appraisal),42,14,4.8,0.945,0.08,SYNTHETIC
+INS-08,Elbow Valley General (fictional),Non-DRP insurer (independent appraisal),31,9,3.0,0.96,0.08,SYNTHETIC
+INS-09,Rundle Casualty (fictional),Non-DRP insurer (independent appraisal),47,15,5.5,0.94,0.05,SYNTHETIC
+INS-10,Fleet & self-insured accounts (fictional),Self-insured fleet / commercial,30,9,1.5,0.99,0.05,SYNTHETIC

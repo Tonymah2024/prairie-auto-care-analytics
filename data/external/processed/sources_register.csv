@@ -1,0 +1,7 @@
+source,url_or_reference,used_for,retrieved
+Public business-model facts,"public Calgary auto care group website (home, locations, about, services pages)","Locations' roles, hours, service menu, history, positioning",2026-10-09
+ECCC historical climate data,https://climate.weather.gc.ca/,"Environment and Climate Change Canada, Historical Climate Data, CALGARY INTL A (Climate ID 3031092, stationID 50430) - daily snowfall and temperature drive simulated collision and tire demand",2026-10-08
+Bank of Canada Valet API,https://www.bankofcanada.ca/valet/,V39079 policy rate (prime proxy for loan interest); V41690973 total CPI,2026-10-09
+Alberta statutory holidays,"python-holidays (Canada, Alberta)",Shop closures,2026-10-08
+Alberta corporate tax rates,Government of Alberta / CRA published rates,"CCPC: 11% on first $500K (9% federal + 2% AB), 23% above (15% + 8%)",2026-10-09
+GST,Canada Revenue Agency,5% GST in Alberta (no PST),2026-10-09

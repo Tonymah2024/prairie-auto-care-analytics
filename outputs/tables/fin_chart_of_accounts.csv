@@ -1,0 +1,59 @@
+code,name,type,normal_balance,statement_line,cash_flow_class,data_status
+1000,Cash - operating account,asset,D,Cash,cash,SIMULATED
+1100,Card & debit processor receivable,asset,D,Receivables,op_wc,SIMULATED
+1110,Insurer receivables (direct billing),asset,D,Receivables,op_wc,SIMULATED
+1120,Fleet & commercial account receivables,asset,D,Receivables,op_wc,SIMULATED
+1200,Parts inventory - stocked,asset,D,Inventory,op_wc,SIMULATED
+1210,Special-order parts received for open jobs,asset,D,Inventory,op_wc,SIMULATED
+1220,"Paint, refinish & detailing materials",asset,D,Inventory,op_wc,SIMULATED
+1250,Work in progress - unbilled repair jobs (at cost),asset,D,Work in progress,op_wc,SIMULATED
+1300,Prepaid expenses,asset,D,Prepaid expenses,op_wc,SIMULATED
+1400,GST input tax credits,asset,D,Sales tax,op_wc,SIMULATED
+1500,Leasehold improvements,asset,D,Fixed assets,ppe,SIMULATED
+1510,"Shop equipment (paint booths, frame machines, lifts)",asset,D,Fixed assets,ppe,SIMULATED
+1520,"Diagnostic, ADAS calibration & IT equipment",asset,D,Fixed assets,ppe,SIMULATED
+1530,Vehicles (shuttle & courtesy),asset,D,Fixed assets,ppe,SIMULATED
+1590,Accumulated depreciation,contra_asset,C,Accumulated depreciation,accdep,SIMULATED
+2000,Accounts payable - parts & materials suppliers,liability,C,Accounts payable,op_wc,SIMULATED
+2010,Accounts payable - sublet & operating vendors,liability,C,Accounts payable,op_wc,SIMULATED
+2100,Accrued payroll,liability,C,Accrued liabilities,op_wc,SIMULATED
+2300,GST collected,liability,C,Sales tax,op_wc,SIMULATED
+2400,Income tax payable,liability,C,Income tax payable,op_wc,SIMULATED
+2600,Revolving operating line of credit,liability,C,Revolver,fin_rev,SIMULATED
+2700,Term loans,liability,C,Term loans,fin_term,SIMULATED
+3000,Share capital,equity,C,Share capital,equity,SIMULATED
+3200,Retained earnings,equity,C,Retained earnings,re,SIMULATED
+3300,Dividends declared,equity,D,Retained earnings,equity,SIMULATED
+4000,Collision repair revenue,revenue,C,Revenue,pnl,SIMULATED
+4100,Mechanical service revenue,revenue,C,Revenue,pnl,SIMULATED
+4200,Detailing revenue,revenue,C,Revenue,pnl,SIMULATED
+4300,Glass repair revenue,revenue,C,Revenue,pnl,SIMULATED
+4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,C,Revenue,pnl,SIMULATED
+4900,"Discounts, insurer short-pays & adjustments",contra_revenue,D,Revenue adjustments,pnl,SIMULATED
+4950,Interbranch service revenue (eliminated on consolidation),revenue,C,Interbranch,pnl,SIMULATED
+5000,"Technician labour (wages, overtime & burden)",cogs,D,Cost of sales,pnl,SIMULATED
+5100,Parts cost,cogs,D,Cost of sales,pnl,SIMULATED
+5200,Paint & materials cost,cogs,D,Cost of sales,pnl,SIMULATED
+5300,Subcontracted (sublet) repairs & towing,cogs,D,Cost of sales,pnl,SIMULATED
+5400,Warranty rework - parts & sublet,cogs,D,Cost of sales,pnl,SIMULATED
+5450,Interbranch sublet cost (eliminated on consolidation),cogs,D,Interbranch,pnl,SIMULATED
+5500,Inventory adjustments & obsolescence,cogs,D,Cost of sales,pnl,SIMULATED
+6000,"Wages - branch management, estimators, advisors & parts",opex,D,Staff compensation,pnl,SIMULATED
+6010,Salaries - group management & administration,opex,D,Staff compensation,pnl,SIMULATED
+6100,Rent,opex,D,Occupancy,pnl,SIMULATED
+6105,Common-area & property tax charges,opex,D,Occupancy,pnl,SIMULATED
+6110,Utilities,opex,D,Occupancy,pnl,SIMULATED
+6200,Marketing & advertising,opex,D,Marketing,pnl,SIMULATED
+6300,Insurance (garage liability & property),opex,D,General & administrative,pnl,SIMULATED
+6310,Professional fees,opex,D,General & administrative,pnl,SIMULATED
+6320,"Software & IT (shop management, estimating)",opex,D,General & administrative,pnl,SIMULATED
+6330,Collision network & OEM certification fees,opex,D,General & administrative,pnl,SIMULATED
+6340,Training & certification,opex,D,General & administrative,pnl,SIMULATED
+6400,Shop supplies & equipment maintenance,opex,D,Shop operations,pnl,SIMULATED
+6410,"Courtesy vehicles, shuttle & concierge",opex,D,Shop operations,pnl,SIMULATED
+6420,Courier & waste disposal,opex,D,Shop operations,pnl,SIMULATED
+6430,Card processing fees,opex,D,Shop operations,pnl,SIMULATED
+6900,Depreciation,opex,D,Depreciation,pnl,SIMULATED
+7000,Interest - term loans,other_exp,D,Interest,pnl,SIMULATED
+7010,Interest - revolving line,other_exp,D,Interest,pnl,SIMULATED
+8000,Income tax expense,tax,D,Income taxes,pnl,SIMULATED

@@ -1,0 +1,8 @@
+account,driver,explanation,data_status
+6010,revenue,Group management & administration by share of external revenue,SIMULATED
+6200,revenue,Marketing by share of external revenue,SIMULATED
+6300,bays,Insurance by share of repair bays (exposure),SIMULATED
+6310,revenue,Professional fees by share of external revenue,SIMULATED
+6320,headcount,Group software & IT by share of technician headcount,SIMULATED
+6340,headcount,Training & certification by share of technician headcount,SIMULATED
+6900,direct,HO-held IT hardware depreciation by technician headcount,SIMULATED

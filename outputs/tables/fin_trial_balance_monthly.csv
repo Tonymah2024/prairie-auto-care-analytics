@@ -1,0 +1,1797 @@
+month,account,account_name,type,debit,credit,data_status
+2023-12,1000,Cash - operating account,asset,420000.0,0.0,SIMULATED
+2023-12,1100,Card & debit processor receivable,asset,3194.57,0.0,SIMULATED
+2023-12,1110,Insurer receivables (direct billing),asset,490451.26,0.0,SIMULATED
+2023-12,1120,Fleet & commercial account receivables,asset,32873.39,0.0,SIMULATED
+2023-12,1200,Parts inventory - stocked,asset,47419.06,0.0,SIMULATED
+2023-12,1210,Special-order parts received for open jobs,asset,84837.2,0.0,SIMULATED
+2023-12,1220,"Paint, refinish & detailing materials",asset,11507.4,0.0,SIMULATED
+2023-12,1250,Work in progress - unbilled repair jobs (at cost),asset,57150.99,0.0,SIMULATED
+2023-12,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2023-12,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2023-12,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2023-12,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2023-12,1590,Accumulated depreciation,contra_asset,0.0,958847.49,SIMULATED
+2023-12,2000,Accounts payable - parts & materials suppliers,liability,0.0,287206.12,SIMULATED
+2023-12,2010,Accounts payable - sublet & operating vendors,liability,0.0,79072.13,SIMULATED
+2023-12,2100,Accrued payroll,liability,0.0,138136.12,SIMULATED
+2023-12,2300,GST collected,liability,0.0,31253.1,SIMULATED
+2023-12,2400,Income tax payable,liability,0.0,62000.0,SIMULATED
+2023-12,2700,Term loans,liability,0.0,420000.0,SIMULATED
+2023-12,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2023-12,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-01,1000,Cash - operating account,asset,393720.32,0.0,SIMULATED
+2024-01,1100,Card & debit processor receivable,asset,43915.96,0.0,SIMULATED
+2024-01,1110,Insurer receivables (direct billing),asset,433861.48,0.0,SIMULATED
+2024-01,1120,Fleet & commercial account receivables,asset,32900.14,0.0,SIMULATED
+2024-01,1200,Parts inventory - stocked,asset,45026.45,0.0,SIMULATED
+2024-01,1210,Special-order parts received for open jobs,asset,86686.08,0.0,SIMULATED
+2024-01,1220,"Paint, refinish & detailing materials",asset,9219.79,0.0,SIMULATED
+2024-01,1250,Work in progress - unbilled repair jobs (at cost),asset,145139.37,0.0,SIMULATED
+2024-01,1300,Prepaid expenses,asset,81400.0,0.0,SIMULATED
+2024-01,1400,GST input tax credits,asset,26151.17,0.0,SIMULATED
+2024-01,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-01,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-01,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-01,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-01,1590,Accumulated depreciation,contra_asset,0.0,974472.49,SIMULATED
+2024-01,2000,Accounts payable - parts & materials suppliers,liability,0.0,402801.74,SIMULATED
+2024-01,2010,Accounts payable - sublet & operating vendors,liability,0.0,87569.19,SIMULATED
+2024-01,2100,Accrued payroll,liability,0.0,150143.15,SIMULATED
+2024-01,2300,GST collected,liability,0.0,38524.36,SIMULATED
+2024-01,2400,Income tax payable,liability,0.0,62037.5,SIMULATED
+2024-01,2700,Term loans,liability,0.0,411250.0,SIMULATED
+2024-01,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-01,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-01,4000,Collision repair revenue,revenue,0.0,535748.84,SIMULATED
+2024-01,4100,Mechanical service revenue,revenue,0.0,185909.12,SIMULATED
+2024-01,4200,Detailing revenue,revenue,0.0,6032.6,SIMULATED
+2024-01,4300,Glass repair revenue,revenue,0.0,36990.19,SIMULATED
+2024-01,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,8595.16,SIMULATED
+2024-01,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,3112.93,0.0,SIMULATED
+2024-01,5000,"Technician labour (wages, overtime & burden)",cogs,184665.84,0.0,SIMULATED
+2024-01,5100,Parts cost,cogs,293335.48,0.0,SIMULATED
+2024-01,5200,Paint & materials cost,cogs,19001.18,0.0,SIMULATED
+2024-01,5300,Subcontracted (sublet) repairs & towing,cogs,10636.54,0.0,SIMULATED
+2024-01,5400,Warranty rework - parts & sublet,cogs,522.03,0.0,SIMULATED
+2024-01,6000,"Wages - branch management, estimators, advisors & parts",opex,68365.0,0.0,SIMULATED
+2024-01,6010,Salaries - group management & administration,opex,32205.0,0.0,SIMULATED
+2024-01,6100,Rent,opex,51000.0,0.0,SIMULATED
+2024-01,6105,Common-area & property tax charges,opex,11800.0,0.0,SIMULATED
+2024-01,6110,Utilities,opex,10043.66,0.0,SIMULATED
+2024-01,6200,Marketing & advertising,opex,10139.31,0.0,SIMULATED
+2024-01,6300,Insurance (garage liability & property),opex,7400.0,0.0,SIMULATED
+2024-01,6310,Professional fees,opex,3352.59,0.0,SIMULATED
+2024-01,6320,"Software & IT (shop management, estimating)",opex,5200.0,0.0,SIMULATED
+2024-01,6330,Collision network & OEM certification fees,opex,5000.0,0.0,SIMULATED
+2024-01,6340,Training & certification,opex,6500.0,0.0,SIMULATED
+2024-01,6400,Shop supplies & equipment maintenance,opex,21012.16,0.0,SIMULATED
+2024-01,6410,"Courtesy vehicles, shuttle & concierge",opex,2100.0,0.0,SIMULATED
+2024-01,6420,Courier & waste disposal,opex,3268.59,0.0,SIMULATED
+2024-01,6430,Card processing fees,opex,5429.68,0.0,SIMULATED
+2024-01,6900,Depreciation,opex,15625.0,0.0,SIMULATED
+2024-01,7000,Interest - term loans,other_exp,3220.0,0.0,SIMULATED
+2024-01,8000,Income tax expense,tax,37.5,0.0,SIMULATED
+2024-02,1000,Cash - operating account,asset,372419.59,0.0,SIMULATED
+2024-02,1100,Card & debit processor receivable,asset,23916.32,0.0,SIMULATED
+2024-02,1110,Insurer receivables (direct billing),asset,603581.3,0.0,SIMULATED
+2024-02,1120,Fleet & commercial account receivables,asset,29309.36,0.0,SIMULATED
+2024-02,1200,Parts inventory - stocked,asset,43992.91,0.0,SIMULATED
+2024-02,1210,Special-order parts received for open jobs,asset,52809.7,0.0,SIMULATED
+2024-02,1220,"Paint, refinish & detailing materials",asset,9814.85,0.0,SIMULATED
+2024-02,1250,Work in progress - unbilled repair jobs (at cost),asset,125934.67,0.0,SIMULATED
+2024-02,1300,Prepaid expenses,asset,74000.0,0.0,SIMULATED
+2024-02,1400,GST input tax credits,asset,48759.11,0.0,SIMULATED
+2024-02,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-02,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-02,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-02,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-02,1590,Accumulated depreciation,contra_asset,0.0,990097.49,SIMULATED
+2024-02,2000,Accounts payable - parts & materials suppliers,liability,0.0,345476.99,SIMULATED
+2024-02,2010,Accounts payable - sublet & operating vendors,liability,0.0,89903.03,SIMULATED
+2024-02,2100,Accrued payroll,liability,0.0,145168.34,SIMULATED
+2024-02,2300,GST collected,liability,0.0,84587.98,SIMULATED
+2024-02,2400,Income tax payable,liability,0.0,72327.36,SIMULATED
+2024-02,2700,Term loans,liability,0.0,402500.0,SIMULATED
+2024-02,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-02,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-02,4000,Collision repair revenue,revenue,0.0,1232961.17,SIMULATED
+2024-02,4100,Mechanical service revenue,revenue,0.0,373155.64,SIMULATED
+2024-02,4200,Detailing revenue,revenue,0.0,11717.2,SIMULATED
+2024-02,4300,Glass repair revenue,revenue,0.0,65669.68,SIMULATED
+2024-02,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,15220.81,SIMULATED
+2024-02,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,7845.82,0.0,SIMULATED
+2024-02,5000,"Technician labour (wages, overtime & burden)",cogs,377961.75,0.0,SIMULATED
+2024-02,5100,Parts cost,cogs,626537.39,0.0,SIMULATED
+2024-02,5200,Paint & materials cost,cogs,44233.17,0.0,SIMULATED
+2024-02,5300,Subcontracted (sublet) repairs & towing,cogs,25072.58,0.0,SIMULATED
+2024-02,5400,Warranty rework - parts & sublet,cogs,2445.38,0.0,SIMULATED
+2024-02,6000,"Wages - branch management, estimators, advisors & parts",opex,136730.0,0.0,SIMULATED
+2024-02,6010,Salaries - group management & administration,opex,64410.0,0.0,SIMULATED
+2024-02,6100,Rent,opex,102000.0,0.0,SIMULATED
+2024-02,6105,Common-area & property tax charges,opex,23600.0,0.0,SIMULATED
+2024-02,6110,Utilities,opex,20678.83,0.0,SIMULATED
+2024-02,6200,Marketing & advertising,opex,19080.09,0.0,SIMULATED
+2024-02,6300,Insurance (garage liability & property),opex,14800.0,0.0,SIMULATED
+2024-02,6310,Professional fees,opex,7798.71,0.0,SIMULATED
+2024-02,6320,"Software & IT (shop management, estimating)",opex,10400.0,0.0,SIMULATED
+2024-02,6330,Collision network & OEM certification fees,opex,10000.0,0.0,SIMULATED
+2024-02,6340,Training & certification,opex,9100.0,0.0,SIMULATED
+2024-02,6400,Shop supplies & equipment maintenance,opex,43546.79,0.0,SIMULATED
+2024-02,6410,"Courtesy vehicles, shuttle & concierge",opex,4200.0,0.0,SIMULATED
+2024-02,6420,Courier & waste disposal,opex,6361.53,0.0,SIMULATED
+2024-02,6430,Card processing fees,opex,10414.47,0.0,SIMULATED
+2024-02,6900,Depreciation,opex,31250.0,0.0,SIMULATED
+2024-02,7000,Interest - term loans,other_exp,6372.92,0.0,SIMULATED
+2024-02,8000,Income tax expense,tax,10327.36,0.0,SIMULATED
+2024-03,1000,Cash - operating account,asset,460110.57,0.0,SIMULATED
+2024-03,1100,Card & debit processor receivable,asset,3231.93,0.0,SIMULATED
+2024-03,1110,Insurer receivables (direct billing),asset,505108.03,0.0,SIMULATED
+2024-03,1120,Fleet & commercial account receivables,asset,32521.53,0.0,SIMULATED
+2024-03,1200,Parts inventory - stocked,asset,46568.05,0.0,SIMULATED
+2024-03,1210,Special-order parts received for open jobs,asset,72559.63,0.0,SIMULATED
+2024-03,1220,"Paint, refinish & detailing materials",asset,9117.25,0.0,SIMULATED
+2024-03,1250,Work in progress - unbilled repair jobs (at cost),asset,101396.83,0.0,SIMULATED
+2024-03,1300,Prepaid expenses,asset,66600.0,0.0,SIMULATED
+2024-03,1400,GST input tax credits,asset,71828.31,0.0,SIMULATED
+2024-03,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-03,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-03,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-03,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-03,1590,Accumulated depreciation,contra_asset,0.0,1005722.49,SIMULATED
+2024-03,2000,Accounts payable - parts & materials suppliers,liability,0.0,322834.1,SIMULATED
+2024-03,2010,Accounts payable - sublet & operating vendors,liability,0.0,85773.14,SIMULATED
+2024-03,2100,Accrued payroll,liability,0.0,142336.91,SIMULATED
+2024-03,2300,GST collected,liability,0.0,125049.83,SIMULATED
+2024-03,2400,Income tax payable,liability,0.0,13492.24,SIMULATED
+2024-03,2700,Term loans,liability,0.0,393750.0,SIMULATED
+2024-03,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-03,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-03,4000,Collision repair revenue,revenue,0.0,1833061.67,SIMULATED
+2024-03,4100,Mechanical service revenue,revenue,0.0,527369.68,SIMULATED
+2024-03,4200,Detailing revenue,revenue,0.0,24187.2,SIMULATED
+2024-03,4300,Glass repair revenue,revenue,0.0,102785.91,SIMULATED
+2024-03,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,24295.16,SIMULATED
+2024-03,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,12302.02,0.0,SIMULATED
+2024-03,5000,"Technician labour (wages, overtime & burden)",cogs,567140.26,0.0,SIMULATED
+2024-03,5100,Parts cost,cogs,922502.26,0.0,SIMULATED
+2024-03,5200,Paint & materials cost,cogs,66111.14,0.0,SIMULATED
+2024-03,5300,Subcontracted (sublet) repairs & towing,cogs,38110.55,0.0,SIMULATED
+2024-03,5400,Warranty rework - parts & sublet,cogs,2962.35,0.0,SIMULATED
+2024-03,5500,Inventory adjustments & obsolescence,cogs,298.1,0.0,SIMULATED
+2024-03,6000,"Wages - branch management, estimators, advisors & parts",opex,205095.0,0.0,SIMULATED
+2024-03,6010,Salaries - group management & administration,opex,96615.0,0.0,SIMULATED
+2024-03,6100,Rent,opex,153000.0,0.0,SIMULATED
+2024-03,6105,Common-area & property tax charges,opex,35400.0,0.0,SIMULATED
+2024-03,6110,Utilities,opex,31583.2,0.0,SIMULATED
+2024-03,6200,Marketing & advertising,opex,28052.54,0.0,SIMULATED
+2024-03,6300,Insurance (garage liability & property),opex,22200.0,0.0,SIMULATED
+2024-03,6310,Professional fees,opex,11578.26,0.0,SIMULATED
+2024-03,6320,"Software & IT (shop management, estimating)",opex,15600.0,0.0,SIMULATED
+2024-03,6330,Collision network & OEM certification fees,opex,15000.0,0.0,SIMULATED
+2024-03,6340,Training & certification,opex,11700.0,0.0,SIMULATED
+2024-03,6400,Shop supplies & equipment maintenance,opex,66862.25,0.0,SIMULATED
+2024-03,6410,"Courtesy vehicles, shuttle & concierge",opex,6300.0,0.0,SIMULATED
+2024-03,6420,Courier & waste disposal,opex,9209.42,0.0,SIMULATED
+2024-03,6430,Card processing fees,opex,15086.77,0.0,SIMULATED
+2024-03,6900,Depreciation,opex,46875.0,0.0,SIMULATED
+2024-03,7000,Interest - term loans,other_exp,9458.75,0.0,SIMULATED
+2024-03,8000,Income tax expense,tax,13492.24,0.0,SIMULATED
+2024-04,1000,Cash - operating account,asset,615172.88,0.0,SIMULATED
+2024-04,1100,Card & debit processor receivable,asset,32226.05,0.0,SIMULATED
+2024-04,1110,Insurer receivables (direct billing),asset,496841.21,0.0,SIMULATED
+2024-04,1120,Fleet & commercial account receivables,asset,44543.71,0.0,SIMULATED
+2024-04,1200,Parts inventory - stocked,asset,33742.94,0.0,SIMULATED
+2024-04,1210,Special-order parts received for open jobs,asset,40181.77,0.0,SIMULATED
+2024-04,1220,"Paint, refinish & detailing materials",asset,9516.73,0.0,SIMULATED
+2024-04,1250,Work in progress - unbilled repair jobs (at cost),asset,150033.5,0.0,SIMULATED
+2024-04,1300,Prepaid expenses,asset,59200.0,0.0,SIMULATED
+2024-04,1400,GST input tax credits,asset,26663.98,0.0,SIMULATED
+2024-04,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-04,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-04,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-04,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-04,1590,Accumulated depreciation,contra_asset,0.0,1021347.49,SIMULATED
+2024-04,2000,Accounts payable - parts & materials suppliers,liability,0.0,415542.49,SIMULATED
+2024-04,2010,Accounts payable - sublet & operating vendors,liability,0.0,85336.48,SIMULATED
+2024-04,2100,Accrued payroll,liability,0.0,150553.24,SIMULATED
+2024-04,2300,GST collected,liability,0.0,48580.51,SIMULATED
+2024-04,2400,Income tax payable,liability,0.0,25392.8,SIMULATED
+2024-04,2700,Term loans,liability,0.0,385000.0,SIMULATED
+2024-04,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-04,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-04,4000,Collision repair revenue,revenue,0.0,2469055.42,SIMULATED
+2024-04,4100,Mechanical service revenue,revenue,0.0,793618.08,SIMULATED
+2024-04,4200,Detailing revenue,revenue,0.0,40080.0,SIMULATED
+2024-04,4300,Glass repair revenue,revenue,0.0,152598.05,SIMULATED
+2024-04,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,32964.16,SIMULATED
+2024-04,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,17671.0,0.0,SIMULATED
+2024-04,5000,"Technician labour (wages, overtime & burden)",cogs,759280.47,0.0,SIMULATED
+2024-04,5100,Parts cost,cogs,1296436.13,0.0,SIMULATED
+2024-04,5200,Paint & materials cost,cogs,89165.58,0.0,SIMULATED
+2024-04,5300,Subcontracted (sublet) repairs & towing,cogs,55391.03,0.0,SIMULATED
+2024-04,5400,Warranty rework - parts & sublet,cogs,3429.02,0.0,SIMULATED
+2024-04,5500,Inventory adjustments & obsolescence,cogs,298.1,0.0,SIMULATED
+2024-04,6000,"Wages - branch management, estimators, advisors & parts",opex,273460.0,0.0,SIMULATED
+2024-04,6010,Salaries - group management & administration,opex,128820.0,0.0,SIMULATED
+2024-04,6100,Rent,opex,204000.0,0.0,SIMULATED
+2024-04,6105,Common-area & property tax charges,opex,47200.0,0.0,SIMULATED
+2024-04,6110,Utilities,opex,37831.05,0.0,SIMULATED
+2024-04,6200,Marketing & advertising,opex,38333.88,0.0,SIMULATED
+2024-04,6300,Insurance (garage liability & property),opex,29600.0,0.0,SIMULATED
+2024-04,6310,Professional fees,opex,14900.72,0.0,SIMULATED
+2024-04,6320,"Software & IT (shop management, estimating)",opex,20800.0,0.0,SIMULATED
+2024-04,6330,Collision network & OEM certification fees,opex,20000.0,0.0,SIMULATED
+2024-04,6340,Training & certification,opex,14300.0,0.0,SIMULATED
+2024-04,6400,Shop supplies & equipment maintenance,opex,89262.85,0.0,SIMULATED
+2024-04,6410,"Courtesy vehicles, shuttle & concierge",opex,8400.0,0.0,SIMULATED
+2024-04,6420,Courier & waste disposal,opex,12360.09,0.0,SIMULATED
+2024-04,6430,Card processing fees,opex,21554.64,0.0,SIMULATED
+2024-04,6900,Depreciation,opex,62500.0,0.0,SIMULATED
+2024-04,7000,Interest - term loans,other_exp,12477.5,0.0,SIMULATED
+2024-04,8000,Income tax expense,tax,25392.8,0.0,SIMULATED
+2024-05,1000,Cash - operating account,asset,789119.67,0.0,SIMULATED
+2024-05,1100,Card & debit processor receivable,asset,28170.23,0.0,SIMULATED
+2024-05,1110,Insurer receivables (direct billing),asset,504740.0,0.0,SIMULATED
+2024-05,1120,Fleet & commercial account receivables,asset,42862.78,0.0,SIMULATED
+2024-05,1200,Parts inventory - stocked,asset,40982.67,0.0,SIMULATED
+2024-05,1210,Special-order parts received for open jobs,asset,36676.56,0.0,SIMULATED
+2024-05,1220,"Paint, refinish & detailing materials",asset,9222.49,0.0,SIMULATED
+2024-05,1250,Work in progress - unbilled repair jobs (at cost),asset,69436.59,0.0,SIMULATED
+2024-05,1300,Prepaid expenses,asset,51800.0,0.0,SIMULATED
+2024-05,1400,GST input tax credits,asset,50778.36,0.0,SIMULATED
+2024-05,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-05,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-05,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-05,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-05,1590,Accumulated depreciation,contra_asset,0.0,1036972.49,SIMULATED
+2024-05,2000,Accounts payable - parts & materials suppliers,liability,0.0,351991.15,SIMULATED
+2024-05,2010,Accounts payable - sublet & operating vendors,liability,0.0,79090.66,SIMULATED
+2024-05,2100,Accrued payroll,liability,0.0,149610.73,SIMULATED
+2024-05,2300,GST collected,liability,0.0,99606.99,SIMULATED
+2024-05,2400,Income tax payable,liability,0.0,39528.33,SIMULATED
+2024-05,2700,Term loans,liability,0.0,376250.0,SIMULATED
+2024-05,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-05,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-05,4000,Collision repair revenue,revenue,0.0,3110908.1,SIMULATED
+2024-05,4100,Mechanical service revenue,revenue,0.0,1107219.66,SIMULATED
+2024-05,4200,Detailing revenue,revenue,0.0,54055.0,SIMULATED
+2024-05,4300,Glass repair revenue,revenue,0.0,198977.6,SIMULATED
+2024-05,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,42227.13,SIMULATED
+2024-05,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,22885.14,0.0,SIMULATED
+2024-05,5000,"Technician labour (wages, overtime & burden)",cogs,968864.19,0.0,SIMULATED
+2024-05,5100,Parts cost,cogs,1689310.33,0.0,SIMULATED
+2024-05,5200,Paint & materials cost,cogs,112889.17,0.0,SIMULATED
+2024-05,5300,Subcontracted (sublet) repairs & towing,cogs,64103.23,0.0,SIMULATED
+2024-05,5400,Warranty rework - parts & sublet,cogs,3957.62,0.0,SIMULATED
+2024-05,5500,Inventory adjustments & obsolescence,cogs,298.1,0.0,SIMULATED
+2024-05,6000,"Wages - branch management, estimators, advisors & parts",opex,341825.0,0.0,SIMULATED
+2024-05,6010,Salaries - group management & administration,opex,161025.0,0.0,SIMULATED
+2024-05,6100,Rent,opex,255000.0,0.0,SIMULATED
+2024-05,6105,Common-area & property tax charges,opex,59000.0,0.0,SIMULATED
+2024-05,6110,Utilities,opex,43976.99,0.0,SIMULATED
+2024-05,6200,Marketing & advertising,opex,47354.82,0.0,SIMULATED
+2024-05,6300,Insurance (garage liability & property),opex,37000.0,0.0,SIMULATED
+2024-05,6310,Professional fees,opex,18446.07,0.0,SIMULATED
+2024-05,6320,"Software & IT (shop management, estimating)",opex,26000.0,0.0,SIMULATED
+2024-05,6330,Collision network & OEM certification fees,opex,25000.0,0.0,SIMULATED
+2024-05,6340,Training & certification,opex,16900.0,0.0,SIMULATED
+2024-05,6400,Shop supplies & equipment maintenance,opex,112457.26,0.0,SIMULATED
+2024-05,6410,"Courtesy vehicles, shuttle & concierge",opex,10500.0,0.0,SIMULATED
+2024-05,6420,Courier & waste disposal,opex,15422.93,0.0,SIMULATED
+2024-05,6430,Card processing fees,opex,28269.05,0.0,SIMULATED
+2024-05,6900,Depreciation,opex,78125.0,0.0,SIMULATED
+2024-05,7000,Interest - term loans,other_exp,15429.17,0.0,SIMULATED
+2024-05,8000,Income tax expense,tax,39528.33,0.0,SIMULATED
+2024-06,1000,Cash - operating account,asset,878504.97,0.0,SIMULATED
+2024-06,1100,Card & debit processor receivable,asset,2922.87,0.0,SIMULATED
+2024-06,1110,Insurer receivables (direct billing),asset,344074.43,0.0,SIMULATED
+2024-06,1120,Fleet & commercial account receivables,asset,27303.56,0.0,SIMULATED
+2024-06,1200,Parts inventory - stocked,asset,45501.75,0.0,SIMULATED
+2024-06,1210,Special-order parts received for open jobs,asset,34960.93,0.0,SIMULATED
+2024-06,1220,"Paint, refinish & detailing materials",asset,5586.78,0.0,SIMULATED
+2024-06,1250,Work in progress - unbilled repair jobs (at cost),asset,48288.58,0.0,SIMULATED
+2024-06,1300,Prepaid expenses,asset,44400.0,0.0,SIMULATED
+2024-06,1400,GST input tax credits,asset,68774.93,0.0,SIMULATED
+2024-06,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-06,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-06,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-06,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-06,1590,Accumulated depreciation,contra_asset,0.0,1052597.49,SIMULATED
+2024-06,2000,Accounts payable - parts & materials suppliers,liability,0.0,239087.62,SIMULATED
+2024-06,2010,Accounts payable - sublet & operating vendors,liability,0.0,77598.0,SIMULATED
+2024-06,2100,Accrued payroll,liability,0.0,137532.62,SIMULATED
+2024-06,2300,GST collected,liability,0.0,132183.85,SIMULATED
+2024-06,2400,Income tax payable,liability,0.0,35519.03,SIMULATED
+2024-06,2700,Term loans,liability,0.0,367500.0,SIMULATED
+2024-06,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-06,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-06,4000,Collision repair revenue,revenue,0.0,3496252.2,SIMULATED
+2024-06,4100,Mechanical service revenue,revenue,0.0,1315494.49,SIMULATED
+2024-06,4200,Detailing revenue,revenue,0.0,69294.2,SIMULATED
+2024-06,4300,Glass repair revenue,revenue,0.0,236302.97,SIMULATED
+2024-06,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,50564.6,SIMULATED
+2024-06,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,26616.07,0.0,SIMULATED
+2024-06,5000,"Technician labour (wages, overtime & burden)",cogs,1144533.59,0.0,SIMULATED
+2024-06,5100,Parts cost,cogs,1921786.8,0.0,SIMULATED
+2024-06,5200,Paint & materials cost,cogs,127204.3,0.0,SIMULATED
+2024-06,5300,Subcontracted (sublet) repairs & towing,cogs,74431.27,0.0,SIMULATED
+2024-06,5400,Warranty rework - parts & sublet,cogs,4002.19,0.0,SIMULATED
+2024-06,5500,Inventory adjustments & obsolescence,cogs,280.35,0.0,SIMULATED
+2024-06,6000,"Wages - branch management, estimators, advisors & parts",opex,410190.0,0.0,SIMULATED
+2024-06,6010,Salaries - group management & administration,opex,193230.0,0.0,SIMULATED
+2024-06,6100,Rent,opex,306000.0,0.0,SIMULATED
+2024-06,6105,Common-area & property tax charges,opex,70800.0,0.0,SIMULATED
+2024-06,6110,Utilities,opex,49915.91,0.0,SIMULATED
+2024-06,6200,Marketing & advertising,opex,56979.42,0.0,SIMULATED
+2024-06,6300,Insurance (garage liability & property),opex,44400.0,0.0,SIMULATED
+2024-06,6310,Professional fees,opex,22196.95,0.0,SIMULATED
+2024-06,6320,"Software & IT (shop management, estimating)",opex,31200.0,0.0,SIMULATED
+2024-06,6330,Collision network & OEM certification fees,opex,30000.0,0.0,SIMULATED
+2024-06,6340,Training & certification,opex,19500.0,0.0,SIMULATED
+2024-06,6400,Shop supplies & equipment maintenance,opex,135629.18,0.0,SIMULATED
+2024-06,6410,"Courtesy vehicles, shuttle & concierge",opex,12600.0,0.0,SIMULATED
+2024-06,6420,Courier & waste disposal,opex,18820.99,0.0,SIMULATED
+2024-06,6430,Card processing fees,opex,32705.76,0.0,SIMULATED
+2024-06,6900,Depreciation,opex,93750.0,0.0,SIMULATED
+2024-06,7000,Interest - term loans,other_exp,18235.37,0.0,SIMULATED
+2024-06,8000,Income tax expense,tax,35519.03,0.0,SIMULATED
+2024-07,1000,Cash - operating account,asset,816261.3,0.0,SIMULATED
+2024-07,1100,Card & debit processor receivable,asset,19522.1,0.0,SIMULATED
+2024-07,1110,Insurer receivables (direct billing),asset,271127.44,0.0,SIMULATED
+2024-07,1120,Fleet & commercial account receivables,asset,42169.94,0.0,SIMULATED
+2024-07,1200,Parts inventory - stocked,asset,45358.58,0.0,SIMULATED
+2024-07,1210,Special-order parts received for open jobs,asset,40863.94,0.0,SIMULATED
+2024-07,1220,"Paint, refinish & detailing materials",asset,8171.94,0.0,SIMULATED
+2024-07,1250,Work in progress - unbilled repair jobs (at cost),asset,64596.25,0.0,SIMULATED
+2024-07,1300,Prepaid expenses,asset,37000.0,0.0,SIMULATED
+2024-07,1400,GST input tax credits,asset,18920.92,0.0,SIMULATED
+2024-07,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-07,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-07,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-07,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-07,1590,Accumulated depreciation,contra_asset,0.0,1068222.49,SIMULATED
+2024-07,2000,Accounts payable - parts & materials suppliers,liability,0.0,260025.31,SIMULATED
+2024-07,2010,Accounts payable - sublet & operating vendors,liability,0.0,72768.5,SIMULATED
+2024-07,2100,Accrued payroll,liability,0.0,143783.69,SIMULATED
+2024-07,2300,GST collected,liability,0.0,30386.15,SIMULATED
+2024-07,2400,Income tax payable,liability,0.0,28505.11,SIMULATED
+2024-07,2700,Term loans,liability,0.0,358750.0,SIMULATED
+2024-07,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-07,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-07,4000,Collision repair revenue,revenue,0.0,3878165.37,SIMULATED
+2024-07,4100,Mechanical service revenue,revenue,0.0,1484592.49,SIMULATED
+2024-07,4200,Detailing revenue,revenue,0.0,85642.8,SIMULATED
+2024-07,4300,Glass repair revenue,revenue,0.0,273048.54,SIMULATED
+2024-07,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,57989.31,SIMULATED
+2024-07,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,30535.38,0.0,SIMULATED
+2024-07,5000,"Technician labour (wages, overtime & burden)",cogs,1330842.34,0.0,SIMULATED
+2024-07,5100,Parts cost,cogs,2131456.34,0.0,SIMULATED
+2024-07,5200,Paint & materials cost,cogs,142697.93,0.0,SIMULATED
+2024-07,5300,Subcontracted (sublet) repairs & towing,cogs,80520.82,0.0,SIMULATED
+2024-07,5400,Warranty rework - parts & sublet,cogs,5207.41,0.0,SIMULATED
+2024-07,5500,Inventory adjustments & obsolescence,cogs,280.35,0.0,SIMULATED
+2024-07,6000,"Wages - branch management, estimators, advisors & parts",opex,478555.0,0.0,SIMULATED
+2024-07,6010,Salaries - group management & administration,opex,225435.0,0.0,SIMULATED
+2024-07,6100,Rent,opex,357000.0,0.0,SIMULATED
+2024-07,6105,Common-area & property tax charges,opex,82600.0,0.0,SIMULATED
+2024-07,6110,Utilities,opex,55943.63,0.0,SIMULATED
+2024-07,6200,Marketing & advertising,opex,66470.09,0.0,SIMULATED
+2024-07,6300,Insurance (garage liability & property),opex,51800.0,0.0,SIMULATED
+2024-07,6310,Professional fees,opex,25430.32,0.0,SIMULATED
+2024-07,6320,"Software & IT (shop management, estimating)",opex,36400.0,0.0,SIMULATED
+2024-07,6330,Collision network & OEM certification fees,opex,35000.0,0.0,SIMULATED
+2024-07,6340,Training & certification,opex,22100.0,0.0,SIMULATED
+2024-07,6400,Shop supplies & equipment maintenance,opex,158286.72,0.0,SIMULATED
+2024-07,6410,"Courtesy vehicles, shuttle & concierge",opex,14700.0,0.0,SIMULATED
+2024-07,6420,Courier & waste disposal,opex,21704.19,0.0,SIMULATED
+2024-07,6430,Card processing fees,opex,37060.88,0.0,SIMULATED
+2024-07,6900,Depreciation,opex,109375.0,0.0,SIMULATED
+2024-07,7000,Interest - term loans,other_exp,20899.75,0.0,SIMULATED
+2024-07,8000,Income tax expense,tax,28505.11,0.0,SIMULATED
+2024-08,1000,Cash - operating account,asset,739018.59,0.0,SIMULATED
+2024-08,1100,Card & debit processor receivable,asset,12791.81,0.0,SIMULATED
+2024-08,1110,Insurer receivables (direct billing),asset,358310.92,0.0,SIMULATED
+2024-08,1120,Fleet & commercial account receivables,asset,49437.83,0.0,SIMULATED
+2024-08,1200,Parts inventory - stocked,asset,45007.68,0.0,SIMULATED
+2024-08,1210,Special-order parts received for open jobs,asset,111834.28,0.0,SIMULATED
+2024-08,1220,"Paint, refinish & detailing materials",asset,3839.27,0.0,SIMULATED
+2024-08,1250,Work in progress - unbilled repair jobs (at cost),asset,125518.22,0.0,SIMULATED
+2024-08,1300,Prepaid expenses,asset,29600.0,0.0,SIMULATED
+2024-08,1400,GST input tax credits,asset,43635.64,0.0,SIMULATED
+2024-08,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-08,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-08,1520,"Diagnostic, ADAS calibration & IT equipment",asset,143000.0,0.0,SIMULATED
+2024-08,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-08,1590,Accumulated depreciation,contra_asset,0.0,1083847.49,SIMULATED
+2024-08,2000,Accounts payable - parts & materials suppliers,liability,0.0,369504.11,SIMULATED
+2024-08,2010,Accounts payable - sublet & operating vendors,liability,0.0,76136.6,SIMULATED
+2024-08,2100,Accrued payroll,liability,0.0,153301.58,SIMULATED
+2024-08,2300,GST collected,liability,0.0,65201.81,SIMULATED
+2024-08,2400,Income tax payable,liability,0.0,27509.21,SIMULATED
+2024-08,2700,Term loans,liability,0.0,350000.0,SIMULATED
+2024-08,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-08,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-08,4000,Collision repair revenue,revenue,0.0,4295118.65,SIMULATED
+2024-08,4100,Mechanical service revenue,revenue,0.0,1662940.9,SIMULATED
+2024-08,4200,Detailing revenue,revenue,0.0,104992.8,SIMULATED
+2024-08,4300,Glass repair revenue,revenue,0.0,312187.25,SIMULATED
+2024-08,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,106407.93,SIMULATED
+2024-08,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,37585.9,0.0,SIMULATED
+2024-08,5000,"Technician labour (wages, overtime & burden)",cogs,1529079.62,0.0,SIMULATED
+2024-08,5100,Parts cost,cogs,2359774.55,0.0,SIMULATED
+2024-08,5200,Paint & materials cost,cogs,160045.26,0.0,SIMULATED
+2024-08,5300,Subcontracted (sublet) repairs & towing,cogs,85596.9,0.0,SIMULATED
+2024-08,5400,Warranty rework - parts & sublet,cogs,5890.49,0.0,SIMULATED
+2024-08,5500,Inventory adjustments & obsolescence,cogs,280.35,0.0,SIMULATED
+2024-08,6000,"Wages - branch management, estimators, advisors & parts",opex,546920.0,0.0,SIMULATED
+2024-08,6010,Salaries - group management & administration,opex,257640.0,0.0,SIMULATED
+2024-08,6100,Rent,opex,408000.0,0.0,SIMULATED
+2024-08,6105,Common-area & property tax charges,opex,94400.0,0.0,SIMULATED
+2024-08,6110,Utilities,opex,62353.44,0.0,SIMULATED
+2024-08,6200,Marketing & advertising,opex,76404.93,0.0,SIMULATED
+2024-08,6300,Insurance (garage liability & property),opex,59200.0,0.0,SIMULATED
+2024-08,6310,Professional fees,opex,29096.33,0.0,SIMULATED
+2024-08,6320,"Software & IT (shop management, estimating)",opex,41600.0,0.0,SIMULATED
+2024-08,6330,Collision network & OEM certification fees,opex,40000.0,0.0,SIMULATED
+2024-08,6340,Training & certification,opex,24700.0,0.0,SIMULATED
+2024-08,6400,Shop supplies & equipment maintenance,opex,180944.14,0.0,SIMULATED
+2024-08,6410,"Courtesy vehicles, shuttle & concierge",opex,16800.0,0.0,SIMULATED
+2024-08,6420,Courier & waste disposal,opex,24786.38,0.0,SIMULATED
+2024-08,6430,Card processing fees,opex,41964.81,0.0,SIMULATED
+2024-08,6900,Depreciation,opex,125000.0,0.0,SIMULATED
+2024-08,7000,Interest - term loans,other_exp,23500.69,0.0,SIMULATED
+2024-08,8000,Income tax expense,tax,27509.21,0.0,SIMULATED
+2024-09,1000,Cash - operating account,asset,540268.22,0.0,SIMULATED
+2024-09,1100,Card & debit processor receivable,asset,12065.48,0.0,SIMULATED
+2024-09,1110,Insurer receivables (direct billing),asset,622300.62,0.0,SIMULATED
+2024-09,1120,Fleet & commercial account receivables,asset,19809.35,0.0,SIMULATED
+2024-09,1200,Parts inventory - stocked,asset,43061.37,0.0,SIMULATED
+2024-09,1210,Special-order parts received for open jobs,asset,49956.78,0.0,SIMULATED
+2024-09,1220,"Paint, refinish & detailing materials",asset,14243.84,0.0,SIMULATED
+2024-09,1250,Work in progress - unbilled repair jobs (at cost),asset,119095.45,0.0,SIMULATED
+2024-09,1300,Prepaid expenses,asset,22200.0,0.0,SIMULATED
+2024-09,1400,GST input tax credits,asset,68743.52,0.0,SIMULATED
+2024-09,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-09,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-09,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2024-09,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-09,1590,Accumulated depreciation,contra_asset,0.0,1099472.49,SIMULATED
+2024-09,2000,Accounts payable - parts & materials suppliers,liability,0.0,310747.74,SIMULATED
+2024-09,2010,Accounts payable - sublet & operating vendors,liability,0.0,84361.47,SIMULATED
+2024-09,2100,Accrued payroll,liability,0.0,146839.55,SIMULATED
+2024-09,2300,GST collected,liability,0.0,109469.92,SIMULATED
+2024-09,2400,Income tax payable,liability,0.0,34835.3,SIMULATED
+2024-09,2700,Term loans,liability,0.0,341250.0,SIMULATED
+2024-09,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-09,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-09,4000,Collision repair revenue,revenue,0.0,4941480.24,SIMULATED
+2024-09,4100,Mechanical service revenue,revenue,0.0,1852999.4,SIMULATED
+2024-09,4200,Detailing revenue,revenue,0.0,115932.0,SIMULATED
+2024-09,4300,Glass repair revenue,revenue,0.0,337780.76,SIMULATED
+2024-09,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,124179.13,SIMULATED
+2024-09,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,43904.33,0.0,SIMULATED
+2024-09,5000,"Technician labour (wages, overtime & burden)",cogs,1723795.5,0.0,SIMULATED
+2024-09,5100,Parts cost,cogs,2686978.15,0.0,SIMULATED
+2024-09,5200,Paint & materials cost,cogs,184308.45,0.0,SIMULATED
+2024-09,5300,Subcontracted (sublet) repairs & towing,cogs,100593.97,0.0,SIMULATED
+2024-09,5400,Warranty rework - parts & sublet,cogs,6778.17,0.0,SIMULATED
+2024-09,5500,Inventory adjustments & obsolescence,cogs,583.69,0.0,SIMULATED
+2024-09,6000,"Wages - branch management, estimators, advisors & parts",opex,615285.0,0.0,SIMULATED
+2024-09,6010,Salaries - group management & administration,opex,289845.0,0.0,SIMULATED
+2024-09,6100,Rent,opex,459000.0,0.0,SIMULATED
+2024-09,6105,Common-area & property tax charges,opex,106200.0,0.0,SIMULATED
+2024-09,6110,Utilities,opex,68662.83,0.0,SIMULATED
+2024-09,6200,Marketing & advertising,opex,85623.76,0.0,SIMULATED
+2024-09,6300,Insurance (garage liability & property),opex,66600.0,0.0,SIMULATED
+2024-09,6310,Professional fees,opex,33510.46,0.0,SIMULATED
+2024-09,6320,"Software & IT (shop management, estimating)",opex,46800.0,0.0,SIMULATED
+2024-09,6330,Collision network & OEM certification fees,opex,45000.0,0.0,SIMULATED
+2024-09,6340,Training & certification,opex,27300.0,0.0,SIMULATED
+2024-09,6400,Shop supplies & equipment maintenance,opex,204792.92,0.0,SIMULATED
+2024-09,6410,"Courtesy vehicles, shuttle & concierge",opex,18900.0,0.0,SIMULATED
+2024-09,6420,Courier & waste disposal,opex,28029.12,0.0,SIMULATED
+2024-09,6430,Card processing fees,opex,46605.36,0.0,SIMULATED
+2024-09,6900,Depreciation,opex,140625.0,0.0,SIMULATED
+2024-09,7000,Interest - term loans,other_exp,25965.27,0.0,SIMULATED
+2024-09,8000,Income tax expense,tax,34835.3,0.0,SIMULATED
+2024-10,1000,Cash - operating account,asset,903226.19,0.0,SIMULATED
+2024-10,1100,Card & debit processor receivable,asset,20038.54,0.0,SIMULATED
+2024-10,1110,Insurer receivables (direct billing),asset,417249.48,0.0,SIMULATED
+2024-10,1120,Fleet & commercial account receivables,asset,42077.21,0.0,SIMULATED
+2024-10,1200,Parts inventory - stocked,asset,41166.38,0.0,SIMULATED
+2024-10,1210,Special-order parts received for open jobs,asset,43051.52,0.0,SIMULATED
+2024-10,1220,"Paint, refinish & detailing materials",asset,5223.29,0.0,SIMULATED
+2024-10,1250,Work in progress - unbilled repair jobs (at cost),asset,108777.83,0.0,SIMULATED
+2024-10,1300,Prepaid expenses,asset,14800.0,0.0,SIMULATED
+2024-10,1400,GST input tax credits,asset,25097.51,0.0,SIMULATED
+2024-10,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-10,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-10,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2024-10,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-10,1590,Accumulated depreciation,contra_asset,0.0,1116230.82,SIMULATED
+2024-10,2000,Accounts payable - parts & materials suppliers,liability,0.0,371295.62,SIMULATED
+2024-10,2010,Accounts payable - sublet & operating vendors,liability,0.0,79708.1,SIMULATED
+2024-10,2100,Accrued payroll,liability,0.0,151006.51,SIMULATED
+2024-10,2300,GST collected,liability,0.0,48399.54,SIMULATED
+2024-10,2400,Income tax payable,liability,0.0,46051.33,SIMULATED
+2024-10,2700,Term loans,liability,0.0,332500.0,SIMULATED
+2024-10,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-10,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-10,4000,Collision repair revenue,revenue,0.0,5480300.78,SIMULATED
+2024-10,4100,Mechanical service revenue,revenue,0.0,2222088.3,SIMULATED
+2024-10,4200,Detailing revenue,revenue,0.0,129124.4,SIMULATED
+2024-10,4300,Glass repair revenue,revenue,0.0,376445.64,SIMULATED
+2024-10,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,136828.89,SIMULATED
+2024-10,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,48563.42,0.0,SIMULATED
+2024-10,5000,"Technician labour (wages, overtime & burden)",cogs,1924358.37,0.0,SIMULATED
+2024-10,5100,Parts cost,cogs,3068105.85,0.0,SIMULATED
+2024-10,5200,Paint & materials cost,cogs,204445.16,0.0,SIMULATED
+2024-10,5300,Subcontracted (sublet) repairs & towing,cogs,108873.14,0.0,SIMULATED
+2024-10,5400,Warranty rework - parts & sublet,cogs,7168.89,0.0,SIMULATED
+2024-10,5500,Inventory adjustments & obsolescence,cogs,583.69,0.0,SIMULATED
+2024-10,6000,"Wages - branch management, estimators, advisors & parts",opex,683650.0,0.0,SIMULATED
+2024-10,6010,Salaries - group management & administration,opex,322050.0,0.0,SIMULATED
+2024-10,6100,Rent,opex,510000.0,0.0,SIMULATED
+2024-10,6105,Common-area & property tax charges,opex,118000.0,0.0,SIMULATED
+2024-10,6110,Utilities,opex,74725.2,0.0,SIMULATED
+2024-10,6200,Marketing & advertising,opex,94310.91,0.0,SIMULATED
+2024-10,6300,Insurance (garage liability & property),opex,74000.0,0.0,SIMULATED
+2024-10,6310,Professional fees,opex,36916.41,0.0,SIMULATED
+2024-10,6320,"Software & IT (shop management, estimating)",opex,52000.0,0.0,SIMULATED
+2024-10,6330,Collision network & OEM certification fees,opex,50000.0,0.0,SIMULATED
+2024-10,6340,Training & certification,opex,29900.0,0.0,SIMULATED
+2024-10,6400,Shop supplies & equipment maintenance,opex,226473.4,0.0,SIMULATED
+2024-10,6410,"Courtesy vehicles, shuttle & concierge",opex,21000.0,0.0,SIMULATED
+2024-10,6420,Courier & waste disposal,opex,31522.32,0.0,SIMULATED
+2024-10,6430,Card processing fees,opex,53883.42,0.0,SIMULATED
+2024-10,6900,Depreciation,opex,157383.33,0.0,SIMULATED
+2024-10,7000,Interest - term loans,other_exp,28226.05,0.0,SIMULATED
+2024-10,8000,Income tax expense,tax,46051.33,0.0,SIMULATED
+2024-11,1000,Cash - operating account,asset,1083658.78,0.0,SIMULATED
+2024-11,1100,Card & debit processor receivable,asset,19609.27,0.0,SIMULATED
+2024-11,1110,Insurer receivables (direct billing),asset,428467.66,0.0,SIMULATED
+2024-11,1120,Fleet & commercial account receivables,asset,48209.5,0.0,SIMULATED
+2024-11,1200,Parts inventory - stocked,asset,45357.37,0.0,SIMULATED
+2024-11,1210,Special-order parts received for open jobs,asset,78153.71,0.0,SIMULATED
+2024-11,1220,"Paint, refinish & detailing materials",asset,6409.11,0.0,SIMULATED
+2024-11,1250,Work in progress - unbilled repair jobs (at cost),asset,107786.61,0.0,SIMULATED
+2024-11,1300,Prepaid expenses,asset,7400.0,0.0,SIMULATED
+2024-11,1400,GST input tax credits,asset,53880.7,0.0,SIMULATED
+2024-11,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-11,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-11,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2024-11,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-11,1590,Accumulated depreciation,contra_asset,0.0,1132989.15,SIMULATED
+2024-11,2000,Accounts payable - parts & materials suppliers,liability,0.0,457377.51,SIMULATED
+2024-11,2010,Accounts payable - sublet & operating vendors,liability,0.0,88569.75,SIMULATED
+2024-11,2100,Accrued payroll,liability,0.0,143394.72,SIMULATED
+2024-11,2300,GST collected,liability,0.0,96998.67,SIMULATED
+2024-11,2400,Income tax payable,liability,0.0,62574.82,SIMULATED
+2024-11,2700,Term loans,liability,0.0,323750.0,SIMULATED
+2024-11,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-11,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-11,4000,Collision repair revenue,revenue,0.0,6057121.91,SIMULATED
+2024-11,4100,Mechanical service revenue,revenue,0.0,2569956.94,SIMULATED
+2024-11,4200,Detailing revenue,revenue,0.0,138386.6,SIMULATED
+2024-11,4300,Glass repair revenue,revenue,0.0,409742.92,SIMULATED
+2024-11,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,146480.33,SIMULATED
+2024-11,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,54411.68,0.0,SIMULATED
+2024-11,5000,"Technician labour (wages, overtime & burden)",cogs,2110805.77,0.0,SIMULATED
+2024-11,5100,Parts cost,cogs,3441530.9,0.0,SIMULATED
+2024-11,5200,Paint & materials cost,cogs,225718.46,0.0,SIMULATED
+2024-11,5300,Subcontracted (sublet) repairs & towing,cogs,121803.35,0.0,SIMULATED
+2024-11,5400,Warranty rework - parts & sublet,cogs,7168.89,0.0,SIMULATED
+2024-11,5500,Inventory adjustments & obsolescence,cogs,583.69,0.0,SIMULATED
+2024-11,6000,"Wages - branch management, estimators, advisors & parts",opex,752015.0,0.0,SIMULATED
+2024-11,6010,Salaries - group management & administration,opex,354255.0,0.0,SIMULATED
+2024-11,6100,Rent,opex,561000.0,0.0,SIMULATED
+2024-11,6105,Common-area & property tax charges,opex,129800.0,0.0,SIMULATED
+2024-11,6110,Utilities,opex,84691.85,0.0,SIMULATED
+2024-11,6200,Marketing & advertising,opex,104173.47,0.0,SIMULATED
+2024-11,6300,Insurance (garage liability & property),opex,81400.0,0.0,SIMULATED
+2024-11,6310,Professional fees,opex,41302.4,0.0,SIMULATED
+2024-11,6320,"Software & IT (shop management, estimating)",opex,57200.0,0.0,SIMULATED
+2024-11,6330,Collision network & OEM certification fees,opex,55000.0,0.0,SIMULATED
+2024-11,6340,Training & certification,opex,32500.0,0.0,SIMULATED
+2024-11,6400,Shop supplies & equipment maintenance,opex,249748.74,0.0,SIMULATED
+2024-11,6410,"Courtesy vehicles, shuttle & concierge",opex,23100.0,0.0,SIMULATED
+2024-11,6420,Courier & waste disposal,opex,34644.84,0.0,SIMULATED
+2024-11,6430,Card processing fees,opex,61330.14,0.0,SIMULATED
+2024-11,6900,Depreciation,opex,174141.66,0.0,SIMULATED
+2024-11,7000,Interest - term loans,other_exp,30428.86,0.0,SIMULATED
+2024-11,8000,Income tax expense,tax,62574.82,0.0,SIMULATED
+2024-12,1000,Cash - operating account,asset,846954.72,0.0,SIMULATED
+2024-12,1100,Card & debit processor receivable,asset,14747.24,0.0,SIMULATED
+2024-12,1110,Insurer receivables (direct billing),asset,363070.71,0.0,SIMULATED
+2024-12,1120,Fleet & commercial account receivables,asset,36457.43,0.0,SIMULATED
+2024-12,1200,Parts inventory - stocked,asset,46654.42,0.0,SIMULATED
+2024-12,1210,Special-order parts received for open jobs,asset,86056.63,0.0,SIMULATED
+2024-12,1220,"Paint, refinish & detailing materials",asset,13477.03,0.0,SIMULATED
+2024-12,1250,Work in progress - unbilled repair jobs (at cost),asset,115167.66,0.0,SIMULATED
+2024-12,1400,GST input tax credits,asset,76908.0,0.0,SIMULATED
+2024-12,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2024-12,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2024-12,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2024-12,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2024-12,1590,Accumulated depreciation,contra_asset,0.0,1149747.48,SIMULATED
+2024-12,2000,Accounts payable - parts & materials suppliers,liability,0.0,341936.74,SIMULATED
+2024-12,2010,Accounts payable - sublet & operating vendors,liability,0.0,82720.63,SIMULATED
+2024-12,2100,Accrued payroll,liability,0.0,147092.05,SIMULATED
+2024-12,2300,GST collected,liability,0.0,133798.71,SIMULATED
+2024-12,2400,Income tax payable,liability,0.0,56214.24,SIMULATED
+2024-12,2700,Term loans,liability,0.0,315000.0,SIMULATED
+2024-12,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2024-12,3200,Retained earnings,equity,0.0,1040918.91,SIMULATED
+2024-12,3300,Dividends declared,equity,179000.0,0.0,SIMULATED
+2024-12,4000,Collision repair revenue,revenue,0.0,6589833.39,SIMULATED
+2024-12,4100,Mechanical service revenue,revenue,0.0,2741700.02,SIMULATED
+2024-12,4200,Detailing revenue,revenue,0.0,146204.0,SIMULATED
+2024-12,4300,Glass repair revenue,revenue,0.0,429995.99,SIMULATED
+2024-12,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,156605.29,SIMULATED
+2024-12,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,61867.44,0.0,SIMULATED
+2024-12,5000,"Technician labour (wages, overtime & burden)",cogs,2305014.14,0.0,SIMULATED
+2024-12,5100,Parts cost,cogs,3719164.87,0.0,SIMULATED
+2024-12,5200,Paint & materials cost,cogs,244902.28,0.0,SIMULATED
+2024-12,5300,Subcontracted (sublet) repairs & towing,cogs,132367.02,0.0,SIMULATED
+2024-12,5400,Warranty rework - parts & sublet,cogs,8104.78,0.0,SIMULATED
+2024-12,5500,Inventory adjustments & obsolescence,cogs,770.06,0.0,SIMULATED
+2024-12,6000,"Wages - branch management, estimators, advisors & parts",opex,820380.0,0.0,SIMULATED
+2024-12,6010,Salaries - group management & administration,opex,386460.0,0.0,SIMULATED
+2024-12,6100,Rent,opex,612000.0,0.0,SIMULATED
+2024-12,6105,Common-area & property tax charges,opex,141600.0,0.0,SIMULATED
+2024-12,6110,Utilities,opex,95234.34,0.0,SIMULATED
+2024-12,6200,Marketing & advertising,opex,113867.95,0.0,SIMULATED
+2024-12,6300,Insurance (garage liability & property),opex,88800.0,0.0,SIMULATED
+2024-12,6310,Professional fees,opex,45518.5,0.0,SIMULATED
+2024-12,6320,"Software & IT (shop management, estimating)",opex,62400.0,0.0,SIMULATED
+2024-12,6330,Collision network & OEM certification fees,opex,60000.0,0.0,SIMULATED
+2024-12,6340,Training & certification,opex,35100.0,0.0,SIMULATED
+2024-12,6400,Shop supplies & equipment maintenance,opex,272203.8,0.0,SIMULATED
+2024-12,6410,"Courtesy vehicles, shuttle & concierge",opex,25200.0,0.0,SIMULATED
+2024-12,6420,Courier & waste disposal,opex,37833.15,0.0,SIMULATED
+2024-12,6430,Card processing fees,opex,66932.24,0.0,SIMULATED
+2024-12,6900,Depreciation,opex,190899.99,0.0,SIMULATED
+2024-12,7000,Interest - term loans,other_exp,32438.81,0.0,SIMULATED
+2024-12,8000,Income tax expense,tax,56214.24,0.0,SIMULATED
+2025-01,1000,Cash - operating account,asset,691324.08,0.0,SIMULATED
+2025-01,1100,Card & debit processor receivable,asset,22357.5,0.0,SIMULATED
+2025-01,1110,Insurer receivables (direct billing),asset,519555.24,0.0,SIMULATED
+2025-01,1120,Fleet & commercial account receivables,asset,39418.16,0.0,SIMULATED
+2025-01,1200,Parts inventory - stocked,asset,45361.44,0.0,SIMULATED
+2025-01,1210,Special-order parts received for open jobs,asset,63033.84,0.0,SIMULATED
+2025-01,1220,"Paint, refinish & detailing materials",asset,8975.83,0.0,SIMULATED
+2025-01,1250,Work in progress - unbilled repair jobs (at cost),asset,87527.68,0.0,SIMULATED
+2025-01,1300,Prepaid expenses,asset,92988.4,0.0,SIMULATED
+2025-01,1400,GST input tax credits,asset,22879.52,0.0,SIMULATED
+2025-01,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2025-01,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2025-01,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-01,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2025-01,1590,Accumulated depreciation,contra_asset,0.0,1166505.81,SIMULATED
+2025-01,2000,Accounts payable - parts & materials suppliers,liability,0.0,324831.74,SIMULATED
+2025-01,2010,Accounts payable - sublet & operating vendors,liability,0.0,93560.59,SIMULATED
+2025-01,2100,Accrued payroll,liability,0.0,161740.08,SIMULATED
+2025-01,2300,GST collected,liability,0.0,46684.55,SIMULATED
+2025-01,2400,Income tax payable,liability,0.0,63325.82,SIMULATED
+2025-01,2700,Term loans,liability,0.0,306250.0,SIMULATED
+2025-01,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-01,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-01,4000,Collision repair revenue,revenue,0.0,699721.5,SIMULATED
+2025-01,4100,Mechanical service revenue,revenue,0.0,186033.77,SIMULATED
+2025-01,4200,Detailing revenue,revenue,0.0,10414.8,SIMULATED
+2025-01,4300,Glass repair revenue,revenue,0.0,34216.23,SIMULATED
+2025-01,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,9919.63,SIMULATED
+2025-01,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,7003.99,0.0,SIMULATED
+2025-01,5000,"Technician labour (wages, overtime & burden)",cogs,217523.26,0.0,SIMULATED
+2025-01,5100,Parts cost,cogs,334414.74,0.0,SIMULATED
+2025-01,5200,Paint & materials cost,cogs,27463.93,0.0,SIMULATED
+2025-01,5300,Subcontracted (sublet) repairs & towing,cogs,11604.39,0.0,SIMULATED
+2025-01,5400,Warranty rework - parts & sublet,cogs,792.55,0.0,SIMULATED
+2025-01,6000,"Wages - branch management, estimators, advisors & parts",opex,70415.95,0.0,SIMULATED
+2025-01,6010,Salaries - group management & administration,opex,39339.82,0.0,SIMULATED
+2025-01,6100,Rent,opex,52530.0,0.0,SIMULATED
+2025-01,6105,Common-area & property tax charges,opex,12154.0,0.0,SIMULATED
+2025-01,6110,Utilities,opex,11377.55,0.0,SIMULATED
+2025-01,6200,Marketing & advertising,opex,9283.52,0.0,SIMULATED
+2025-01,6300,Insurance (garage liability & property),opex,7622.0,0.0,SIMULATED
+2025-01,6310,Professional fees,opex,4624.16,0.0,SIMULATED
+2025-01,6320,"Software & IT (shop management, estimating)",opex,5356.0,0.0,SIMULATED
+2025-01,6330,Collision network & OEM certification fees,opex,5150.0,0.0,SIMULATED
+2025-01,6340,Training & certification,opex,6695.0,0.0,SIMULATED
+2025-01,6400,Shop supplies & equipment maintenance,opex,23102.42,0.0,SIMULATED
+2025-01,6410,"Courtesy vehicles, shuttle & concierge",opex,2163.0,0.0,SIMULATED
+2025-01,6420,Courier & waste disposal,opex,3534.08,0.0,SIMULATED
+2025-01,6430,Card processing fees,opex,4856.55,0.0,SIMULATED
+2025-01,6900,Depreciation,opex,16758.33,0.0,SIMULATED
+2025-01,7000,Interest - term loans,other_exp,1890.0,0.0,SIMULATED
+2025-01,8000,Income tax expense,tax,7111.58,0.0,SIMULATED
+2025-02,1000,Cash - operating account,asset,729463.65,0.0,SIMULATED
+2025-02,1100,Card & debit processor receivable,asset,41579.5,0.0,SIMULATED
+2025-02,1110,Insurer receivables (direct billing),asset,579289.91,0.0,SIMULATED
+2025-02,1120,Fleet & commercial account receivables,asset,30312.5,0.0,SIMULATED
+2025-02,1200,Parts inventory - stocked,asset,48026.26,0.0,SIMULATED
+2025-02,1210,Special-order parts received for open jobs,asset,41651.38,0.0,SIMULATED
+2025-02,1220,"Paint, refinish & detailing materials",asset,9892.63,0.0,SIMULATED
+2025-02,1250,Work in progress - unbilled repair jobs (at cost),asset,113290.25,0.0,SIMULATED
+2025-02,1300,Prepaid expenses,asset,85366.4,0.0,SIMULATED
+2025-02,1400,GST input tax credits,asset,48609.0,0.0,SIMULATED
+2025-02,1500,Leasehold improvements,asset,880000.0,0.0,SIMULATED
+2025-02,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2025-02,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-02,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2025-02,1590,Accumulated depreciation,contra_asset,0.0,1183264.14,SIMULATED
+2025-02,2000,Accounts payable - parts & materials suppliers,liability,0.0,380771.64,SIMULATED
+2025-02,2010,Accounts payable - sublet & operating vendors,liability,0.0,94799.73,SIMULATED
+2025-02,2100,Accrued payroll,liability,0.0,150990.22,SIMULATED
+2025-02,2300,GST collected,liability,0.0,90556.69,SIMULATED
+2025-02,2400,Income tax payable,liability,0.0,67258.33,SIMULATED
+2025-02,2700,Term loans,liability,0.0,297500.0,SIMULATED
+2025-02,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-02,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-02,4000,Collision repair revenue,revenue,0.0,1316810.25,SIMULATED
+2025-02,4100,Mechanical service revenue,revenue,0.0,404822.68,SIMULATED
+2025-02,4200,Detailing revenue,revenue,0.0,17686.8,SIMULATED
+2025-02,4300,Glass repair revenue,revenue,0.0,63371.95,SIMULATED
+2025-02,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,19332.53,SIMULATED
+2025-02,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,12732.48,0.0,SIMULATED
+2025-02,5000,"Technician labour (wages, overtime & burden)",cogs,407122.02,0.0,SIMULATED
+2025-02,5100,Parts cost,cogs,648718.62,0.0,SIMULATED
+2025-02,5200,Paint & materials cost,cogs,50531.23,0.0,SIMULATED
+2025-02,5300,Subcontracted (sublet) repairs & towing,cogs,25106.18,0.0,SIMULATED
+2025-02,5400,Warranty rework - parts & sublet,cogs,860.15,0.0,SIMULATED
+2025-02,6000,"Wages - branch management, estimators, advisors & parts",opex,140831.9,0.0,SIMULATED
+2025-02,6010,Salaries - group management & administration,opex,78679.64,0.0,SIMULATED
+2025-02,6100,Rent,opex,124115.0,0.0,SIMULATED
+2025-02,6105,Common-area & property tax charges,opex,29046.0,0.0,SIMULATED
+2025-02,6110,Utilities,opex,23322.07,0.0,SIMULATED
+2025-02,6200,Marketing & advertising,opex,19154.72,0.0,SIMULATED
+2025-02,6300,Insurance (garage liability & property),opex,15244.0,0.0,SIMULATED
+2025-02,6310,Professional fees,opex,9148.0,0.0,SIMULATED
+2025-02,6320,"Software & IT (shop management, estimating)",opex,11381.5,0.0,SIMULATED
+2025-02,6330,Collision network & OEM certification fees,opex,10300.0,0.0,SIMULATED
+2025-02,6340,Training & certification,opex,9373.0,0.0,SIMULATED
+2025-02,6400,Shop supplies & equipment maintenance,opex,47214.44,0.0,SIMULATED
+2025-02,6410,"Courtesy vehicles, shuttle & concierge",opex,4326.0,0.0,SIMULATED
+2025-02,6420,Courier & waste disposal,opex,6897.95,0.0,SIMULATED
+2025-02,6430,Card processing fees,opex,10274.32,0.0,SIMULATED
+2025-02,6900,Depreciation,opex,33516.66,0.0,SIMULATED
+2025-02,7000,Interest - term loans,other_exp,3727.5,0.0,SIMULATED
+2025-02,8000,Income tax expense,tax,11044.09,0.0,SIMULATED
+2025-03,1000,Cash - operating account,asset,772353.79,0.0,SIMULATED
+2025-03,1100,Card & debit processor receivable,asset,14466.09,0.0,SIMULATED
+2025-03,1110,Insurer receivables (direct billing),asset,590551.85,0.0,SIMULATED
+2025-03,1120,Fleet & commercial account receivables,asset,39864.83,0.0,SIMULATED
+2025-03,1200,Parts inventory - stocked,asset,46823.72,0.0,SIMULATED
+2025-03,1210,Special-order parts received for open jobs,asset,48103.04,0.0,SIMULATED
+2025-03,1220,"Paint, refinish & detailing materials",asset,12972.28,0.0,SIMULATED
+2025-03,1250,Work in progress - unbilled repair jobs (at cost),asset,84190.62,0.0,SIMULATED
+2025-03,1300,Prepaid expenses,asset,77744.4,0.0,SIMULATED
+2025-03,1400,GST input tax credits,asset,94618.84,0.0,SIMULATED
+2025-03,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-03,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,995000.0,0.0,SIMULATED
+2025-03,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-03,1530,Vehicles (shuttle & courtesy),asset,52000.0,0.0,SIMULATED
+2025-03,1590,Accumulated depreciation,contra_asset,0.0,1200022.47,SIMULATED
+2025-03,2000,Accounts payable - parts & materials suppliers,liability,0.0,348554.53,SIMULATED
+2025-03,2010,Accounts payable - sublet & operating vendors,liability,0.0,95131.14,SIMULATED
+2025-03,2100,Accrued payroll,liability,0.0,161320.69,SIMULATED
+2025-03,2300,GST collected,liability,0.0,136844.84,SIMULATED
+2025-03,2400,Income tax payable,liability,0.0,15189.0,SIMULATED
+2025-03,2700,Term loans,liability,0.0,738750.0,SIMULATED
+2025-03,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-03,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-03,4000,Collision repair revenue,revenue,0.0,1965262.14,SIMULATED
+2025-03,4100,Mechanical service revenue,revenue,0.0,608144.86,SIMULATED
+2025-03,4200,Detailing revenue,revenue,0.0,28054.8,SIMULATED
+2025-03,4300,Glass repair revenue,revenue,0.0,118011.57,SIMULATED
+2025-03,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,31912.02,SIMULATED
+2025-03,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,16554.83,0.0,SIMULATED
+2025-03,5000,"Technician labour (wages, overtime & burden)",cogs,621056.56,0.0,SIMULATED
+2025-03,5100,Parts cost,cogs,981851.37,0.0,SIMULATED
+2025-03,5200,Paint & materials cost,cogs,74483.32,0.0,SIMULATED
+2025-03,5300,Subcontracted (sublet) repairs & towing,cogs,37091.05,0.0,SIMULATED
+2025-03,5400,Warranty rework - parts & sublet,cogs,1593.92,0.0,SIMULATED
+2025-03,5500,Inventory adjustments & obsolescence,cogs,87.29,0.0,SIMULATED
+2025-03,6000,"Wages - branch management, estimators, advisors & parts",opex,211247.85,0.0,SIMULATED
+2025-03,6010,Salaries - group management & administration,opex,118019.46,0.0,SIMULATED
+2025-03,6100,Rent,opex,195700.0,0.0,SIMULATED
+2025-03,6105,Common-area & property tax charges,opex,45938.0,0.0,SIMULATED
+2025-03,6110,Utilities,opex,35921.57,0.0,SIMULATED
+2025-03,6200,Marketing & advertising,opex,29893.94,0.0,SIMULATED
+2025-03,6300,Insurance (garage liability & property),opex,22866.0,0.0,SIMULATED
+2025-03,6310,Professional fees,opex,13069.43,0.0,SIMULATED
+2025-03,6320,"Software & IT (shop management, estimating)",opex,17407.0,0.0,SIMULATED
+2025-03,6330,Collision network & OEM certification fees,opex,15450.0,0.0,SIMULATED
+2025-03,6340,Training & certification,opex,12051.0,0.0,SIMULATED
+2025-03,6400,Shop supplies & equipment maintenance,opex,71966.58,0.0,SIMULATED
+2025-03,6410,"Courtesy vehicles, shuttle & concierge",opex,6489.0,0.0,SIMULATED
+2025-03,6420,Courier & waste disposal,opex,10414.56,0.0,SIMULATED
+2025-03,6430,Card processing fees,opex,15725.35,0.0,SIMULATED
+2025-03,6900,Depreciation,opex,50274.99,0.0,SIMULATED
+2025-03,7000,Interest - term loans,other_exp,8150.52,0.0,SIMULATED
+2025-03,8000,Income tax expense,tax,15189.0,0.0,SIMULATED
+2025-04,1000,Cash - operating account,asset,602823.51,0.0,SIMULATED
+2025-04,1100,Card & debit processor receivable,asset,28474.78,0.0,SIMULATED
+2025-04,1110,Insurer receivables (direct billing),asset,411207.64,0.0,SIMULATED
+2025-04,1120,Fleet & commercial account receivables,asset,28555.61,0.0,SIMULATED
+2025-04,1200,Parts inventory - stocked,asset,39752.62,0.0,SIMULATED
+2025-04,1210,Special-order parts received for open jobs,asset,73914.72,0.0,SIMULATED
+2025-04,1220,"Paint, refinish & detailing materials",asset,6493.03,0.0,SIMULATED
+2025-04,1250,Work in progress - unbilled repair jobs (at cost),asset,134003.79,0.0,SIMULATED
+2025-04,1300,Prepaid expenses,asset,70122.4,0.0,SIMULATED
+2025-04,1400,GST input tax credits,asset,41904.93,0.0,SIMULATED
+2025-04,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-04,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-04,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-04,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-04,1590,Accumulated depreciation,contra_asset,0.0,1220197.47,SIMULATED
+2025-04,2000,Accounts payable - parts & materials suppliers,liability,0.0,398250.7,SIMULATED
+2025-04,2010,Accounts payable - sublet & operating vendors,liability,0.0,119530.75,SIMULATED
+2025-04,2100,Accrued payroll,liability,0.0,171142.4,SIMULATED
+2025-04,2300,GST collected,liability,0.0,41131.84,SIMULATED
+2025-04,2400,Income tax payable,liability,0.0,7096.75,SIMULATED
+2025-04,2700,Term loans,liability,0.0,722500.0,SIMULATED
+2025-04,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-04,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-04,4000,Collision repair revenue,revenue,0.0,2464613.98,SIMULATED
+2025-04,4100,Mechanical service revenue,revenue,0.0,869068.35,SIMULATED
+2025-04,4200,Detailing revenue,revenue,0.0,45172.8,SIMULATED
+2025-04,4300,Glass repair revenue,revenue,0.0,158939.43,SIMULATED
+2025-04,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,40834.8,SIMULATED
+2025-04,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,23580.09,0.0,SIMULATED
+2025-04,5000,"Technician labour (wages, overtime & burden)",cogs,821536.75,0.0,SIMULATED
+2025-04,5100,Parts cost,cogs,1287179.52,0.0,SIMULATED
+2025-04,5200,Paint & materials cost,cogs,93752.66,0.0,SIMULATED
+2025-04,5300,Subcontracted (sublet) repairs & towing,cogs,46836.41,0.0,SIMULATED
+2025-04,5400,Warranty rework - parts & sublet,cogs,1849.66,0.0,SIMULATED
+2025-04,5500,Inventory adjustments & obsolescence,cogs,87.29,0.0,SIMULATED
+2025-04,6000,"Wages - branch management, estimators, advisors & parts",opex,309015.45,0.0,SIMULATED
+2025-04,6010,Salaries - group management & administration,opex,157359.28,0.0,SIMULATED
+2025-04,6100,Rent,opex,267285.0,0.0,SIMULATED
+2025-04,6105,Common-area & property tax charges,opex,62830.0,0.0,SIMULATED
+2025-04,6110,Utilities,opex,43341.03,0.0,SIMULATED
+2025-04,6200,Marketing & advertising,opex,68760.26,0.0,SIMULATED
+2025-04,6300,Insurance (garage liability & property),opex,30488.0,0.0,SIMULATED
+2025-04,6310,Professional fees,opex,17015.53,0.0,SIMULATED
+2025-04,6320,"Software & IT (shop management, estimating)",opex,23432.5,0.0,SIMULATED
+2025-04,6330,Collision network & OEM certification fees,opex,20600.0,0.0,SIMULATED
+2025-04,6340,Training & certification,opex,14729.0,0.0,SIMULATED
+2025-04,6400,Shop supplies & equipment maintenance,opex,97001.64,0.0,SIMULATED
+2025-04,6410,"Courtesy vehicles, shuttle & concierge",opex,8652.0,0.0,SIMULATED
+2025-04,6420,Courier & waste disposal,opex,13772.88,0.0,SIMULATED
+2025-04,6430,Card processing fees,opex,22035.68,0.0,SIMULATED
+2025-04,6900,Depreciation,opex,70449.99,0.0,SIMULATED
+2025-04,7000,Interest - term loans,other_exp,12522.86,0.0,SIMULATED
+2025-04,8000,Income tax expense,tax,7096.75,0.0,SIMULATED
+2025-05,1000,Cash - operating account,asset,661000.43,0.0,SIMULATED
+2025-05,1100,Card & debit processor receivable,asset,18904.91,0.0,SIMULATED
+2025-05,1110,Insurer receivables (direct billing),asset,501139.62,0.0,SIMULATED
+2025-05,1120,Fleet & commercial account receivables,asset,36881.84,0.0,SIMULATED
+2025-05,1200,Parts inventory - stocked,asset,63987.11,0.0,SIMULATED
+2025-05,1210,Special-order parts received for open jobs,asset,47958.24,0.0,SIMULATED
+2025-05,1220,"Paint, refinish & detailing materials",asset,9445.3,0.0,SIMULATED
+2025-05,1250,Work in progress - unbilled repair jobs (at cost),asset,110064.14,0.0,SIMULATED
+2025-05,1300,Prepaid expenses,asset,61357.1,0.0,SIMULATED
+2025-05,1400,GST input tax credits,asset,73952.78,0.0,SIMULATED
+2025-05,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-05,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-05,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-05,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-05,1590,Accumulated depreciation,contra_asset,0.0,1243214.14,SIMULATED
+2025-05,2000,Accounts payable - parts & materials suppliers,liability,0.0,434211.52,SIMULATED
+2025-05,2010,Accounts payable - sublet & operating vendors,liability,0.0,129837.82,SIMULATED
+2025-05,2100,Accrued payroll,liability,0.0,197321.89,SIMULATED
+2025-05,2300,GST collected,liability,0.0,96872.9,SIMULATED
+2025-05,2400,Income tax payable,liability,0.0,8469.91,SIMULATED
+2025-05,2700,Term loans,liability,0.0,706250.0,SIMULATED
+2025-05,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-05,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-05,4000,Collision repair revenue,revenue,0.0,3133030.43,SIMULATED
+2025-05,4100,Mechanical service revenue,revenue,0.0,1212145.63,SIMULATED
+2025-05,4200,Detailing revenue,revenue,0.0,75529.8,SIMULATED
+2025-05,4300,Glass repair revenue,revenue,0.0,217752.67,SIMULATED
+2025-05,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,59670.03,SIMULATED
+2025-05,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,28604.67,0.0,SIMULATED
+2025-05,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,2133.3,SIMULATED
+2025-05,5000,"Technician labour (wages, overtime & burden)",cogs,1084022.12,0.0,SIMULATED
+2025-05,5100,Parts cost,cogs,1708570.01,0.0,SIMULATED
+2025-05,5200,Paint & materials cost,cogs,119143.36,0.0,SIMULATED
+2025-05,5300,Subcontracted (sublet) repairs & towing,cogs,66508.57,0.0,SIMULATED
+2025-05,5400,Warranty rework - parts & sublet,cogs,4012.67,0.0,SIMULATED
+2025-05,5450,Interbranch sublet cost (eliminated on consolidation),cogs,2133.3,0.0,SIMULATED
+2025-05,5500,Inventory adjustments & obsolescence,cogs,87.29,0.0,SIMULATED
+2025-05,6000,"Wages - branch management, estimators, advisors & parts",opex,406783.05,0.0,SIMULATED
+2025-05,6010,Salaries - group management & administration,opex,196699.1,0.0,SIMULATED
+2025-05,6100,Rent,opex,338870.0,0.0,SIMULATED
+2025-05,6105,Common-area & property tax charges,opex,79722.0,0.0,SIMULATED
+2025-05,6110,Utilities,opex,51879.34,0.0,SIMULATED
+2025-05,6200,Marketing & advertising,opex,101265.2,0.0,SIMULATED
+2025-05,6300,Insurance (garage liability & property),opex,39253.3,0.0,SIMULATED
+2025-05,6310,Professional fees,opex,20765.11,0.0,SIMULATED
+2025-05,6320,"Software & IT (shop management, estimating)",opex,30127.5,0.0,SIMULATED
+2025-05,6330,Collision network & OEM certification fees,opex,27707.0,0.0,SIMULATED
+2025-05,6340,Training & certification,opex,17407.0,0.0,SIMULATED
+2025-05,6400,Shop supplies & equipment maintenance,opex,126550.99,0.0,SIMULATED
+2025-05,6410,"Courtesy vehicles, shuttle & concierge",opex,15141.0,0.0,SIMULATED
+2025-05,6420,Courier & waste disposal,opex,18080.43,0.0,SIMULATED
+2025-05,6430,Card processing fees,opex,29663.45,0.0,SIMULATED
+2025-05,6900,Depreciation,opex,93466.66,0.0,SIMULATED
+2025-05,7000,Interest - term loans,other_exp,16799.53,0.0,SIMULATED
+2025-05,8000,Income tax expense,tax,8469.91,0.0,SIMULATED
+2025-06,1000,Cash - operating account,asset,628697.79,0.0,SIMULATED
+2025-06,1100,Card & debit processor receivable,asset,19040.42,0.0,SIMULATED
+2025-06,1110,Insurer receivables (direct billing),asset,410705.57,0.0,SIMULATED
+2025-06,1120,Fleet & commercial account receivables,asset,22851.74,0.0,SIMULATED
+2025-06,1200,Parts inventory - stocked,asset,64076.25,0.0,SIMULATED
+2025-06,1210,Special-order parts received for open jobs,asset,49604.57,0.0,SIMULATED
+2025-06,1220,"Paint, refinish & detailing materials",asset,14425.66,0.0,SIMULATED
+2025-06,1250,Work in progress - unbilled repair jobs (at cost),asset,123413.89,0.0,SIMULATED
+2025-06,1300,Prepaid expenses,asset,52591.8,0.0,SIMULATED
+2025-06,1400,GST input tax credits,asset,100647.71,0.0,SIMULATED
+2025-06,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-06,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-06,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-06,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-06,1590,Accumulated depreciation,contra_asset,0.0,1266230.81,SIMULATED
+2025-06,2000,Accounts payable - parts & materials suppliers,liability,0.0,372190.99,SIMULATED
+2025-06,2010,Accounts payable - sublet & operating vendors,liability,0.0,105363.58,SIMULATED
+2025-06,2100,Accrued payroll,liability,0.0,195120.66,SIMULATED
+2025-06,2300,GST collected,liability,0.0,141170.2,SIMULATED
+2025-06,2400,Income tax payable,liability,0.0,1759.47,SIMULATED
+2025-06,2700,Term loans,liability,0.0,690000.0,SIMULATED
+2025-06,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-06,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-06,4000,Collision repair revenue,revenue,0.0,3681717.23,SIMULATED
+2025-06,4100,Mechanical service revenue,revenue,0.0,1440963.41,SIMULATED
+2025-06,4200,Detailing revenue,revenue,0.0,113194.8,SIMULATED
+2025-06,4300,Glass repair revenue,revenue,0.0,264254.51,SIMULATED
+2025-06,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,89961.61,SIMULATED
+2025-06,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,35314.37,0.0,SIMULATED
+2025-06,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,6918.08,SIMULATED
+2025-06,5000,"Technician labour (wages, overtime & burden)",cogs,1330170.63,0.0,SIMULATED
+2025-06,5100,Parts cost,cogs,2022137.04,0.0,SIMULATED
+2025-06,5200,Paint & materials cost,cogs,141885.68,0.0,SIMULATED
+2025-06,5300,Subcontracted (sublet) repairs & towing,cogs,81824.01,0.0,SIMULATED
+2025-06,5400,Warranty rework - parts & sublet,cogs,4012.67,0.0,SIMULATED
+2025-06,5450,Interbranch sublet cost (eliminated on consolidation),cogs,6918.08,0.0,SIMULATED
+2025-06,5500,Inventory adjustments & obsolescence,cogs,311.06,0.0,SIMULATED
+2025-06,6000,"Wages - branch management, estimators, advisors & parts",opex,504550.65,0.0,SIMULATED
+2025-06,6010,Salaries - group management & administration,opex,236038.92,0.0,SIMULATED
+2025-06,6100,Rent,opex,410455.0,0.0,SIMULATED
+2025-06,6105,Common-area & property tax charges,opex,96614.0,0.0,SIMULATED
+2025-06,6110,Utilities,opex,60095.14,0.0,SIMULATED
+2025-06,6200,Marketing & advertising,opex,111421.01,0.0,SIMULATED
+2025-06,6300,Insurance (garage liability & property),opex,48018.6,0.0,SIMULATED
+2025-06,6310,Professional fees,opex,25094.22,0.0,SIMULATED
+2025-06,6320,"Software & IT (shop management, estimating)",opex,36822.5,0.0,SIMULATED
+2025-06,6330,Collision network & OEM certification fees,opex,34814.0,0.0,SIMULATED
+2025-06,6340,Training & certification,opex,20085.0,0.0,SIMULATED
+2025-06,6400,Shop supplies & equipment maintenance,opex,157493.81,0.0,SIMULATED
+2025-06,6410,"Courtesy vehicles, shuttle & concierge",opex,21630.0,0.0,SIMULATED
+2025-06,6420,Courier & waste disposal,opex,21956.01,0.0,SIMULATED
+2025-06,6430,Card processing fees,opex,35888.22,0.0,SIMULATED
+2025-06,6900,Depreciation,opex,116483.33,0.0,SIMULATED
+2025-06,7000,Interest - term loans,other_exp,20980.52,0.0,SIMULATED
+2025-06,8000,Income tax expense,tax,1759.47,0.0,SIMULATED
+2025-07,1000,Cash - operating account,asset,433184.42,0.0,SIMULATED
+2025-07,1100,Card & debit processor receivable,asset,41463.18,0.0,SIMULATED
+2025-07,1110,Insurer receivables (direct billing),asset,547488.23,0.0,SIMULATED
+2025-07,1120,Fleet & commercial account receivables,asset,43564.28,0.0,SIMULATED
+2025-07,1200,Parts inventory - stocked,asset,59968.76,0.0,SIMULATED
+2025-07,1210,Special-order parts received for open jobs,asset,58473.01,0.0,SIMULATED
+2025-07,1220,"Paint, refinish & detailing materials",asset,7039.89,0.0,SIMULATED
+2025-07,1250,Work in progress - unbilled repair jobs (at cost),asset,171056.65,0.0,SIMULATED
+2025-07,1300,Prepaid expenses,asset,43826.5,0.0,SIMULATED
+2025-07,1400,GST input tax credits,asset,29410.17,0.0,SIMULATED
+2025-07,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-07,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-07,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-07,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-07,1590,Accumulated depreciation,contra_asset,0.0,1289247.48,SIMULATED
+2025-07,2000,Accounts payable - parts & materials suppliers,liability,0.0,431523.18,SIMULATED
+2025-07,2010,Accounts payable - sublet & operating vendors,liability,0.0,101071.26,SIMULATED
+2025-07,2100,Accrued payroll,liability,0.0,206390.83,SIMULATED
+2025-07,2300,GST collected,liability,0.0,48373.53,SIMULATED
+2025-07,2700,Term loans,liability,0.0,673750.0,SIMULATED
+2025-07,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-07,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-07,4000,Collision repair revenue,revenue,0.0,4306383.81,SIMULATED
+2025-07,4100,Mechanical service revenue,revenue,0.0,1665337.93,SIMULATED
+2025-07,4200,Detailing revenue,revenue,0.0,147943.8,SIMULATED
+2025-07,4300,Glass repair revenue,revenue,0.0,300437.2,SIMULATED
+2025-07,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,146317.86,SIMULATED
+2025-07,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,44703.13,0.0,SIMULATED
+2025-07,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,25207.16,SIMULATED
+2025-07,5000,"Technician labour (wages, overtime & burden)",cogs,1604703.75,0.0,SIMULATED
+2025-07,5100,Parts cost,cogs,2362643.58,0.0,SIMULATED
+2025-07,5200,Paint & materials cost,cogs,167520.87,0.0,SIMULATED
+2025-07,5300,Subcontracted (sublet) repairs & towing,cogs,92076.05,0.0,SIMULATED
+2025-07,5400,Warranty rework - parts & sublet,cogs,4031.09,0.0,SIMULATED
+2025-07,5450,Interbranch sublet cost (eliminated on consolidation),cogs,25207.16,0.0,SIMULATED
+2025-07,5500,Inventory adjustments & obsolescence,cogs,311.06,0.0,SIMULATED
+2025-07,6000,"Wages - branch management, estimators, advisors & parts",opex,602318.25,0.0,SIMULATED
+2025-07,6010,Salaries - group management & administration,opex,275378.74,0.0,SIMULATED
+2025-07,6100,Rent,opex,482040.0,0.0,SIMULATED
+2025-07,6105,Common-area & property tax charges,opex,113506.0,0.0,SIMULATED
+2025-07,6110,Utilities,opex,68479.56,0.0,SIMULATED
+2025-07,6200,Marketing & advertising,opex,122097.65,0.0,SIMULATED
+2025-07,6300,Insurance (garage liability & property),opex,56783.9,0.0,SIMULATED
+2025-07,6310,Professional fees,opex,29478.8,0.0,SIMULATED
+2025-07,6320,"Software & IT (shop management, estimating)",opex,43517.5,0.0,SIMULATED
+2025-07,6330,Collision network & OEM certification fees,opex,41921.0,0.0,SIMULATED
+2025-07,6340,Training & certification,opex,22763.0,0.0,SIMULATED
+2025-07,6400,Shop supplies & equipment maintenance,opex,186433.75,0.0,SIMULATED
+2025-07,6410,"Courtesy vehicles, shuttle & concierge",opex,28119.0,0.0,SIMULATED
+2025-07,6420,Courier & waste disposal,opex,26032.09,0.0,SIMULATED
+2025-07,6430,Card processing fees,opex,41861.18,0.0,SIMULATED
+2025-07,6900,Depreciation,opex,139500.0,0.0,SIMULATED
+2025-07,7000,Interest - term loans,other_exp,25065.83,0.0,SIMULATED
+2025-08,1000,Cash - operating account,asset,517582.44,0.0,SIMULATED
+2025-08,1100,Card & debit processor receivable,asset,2913.11,0.0,SIMULATED
+2025-08,1110,Insurer receivables (direct billing),asset,616272.2,0.0,SIMULATED
+2025-08,1120,Fleet & commercial account receivables,asset,50096.74,0.0,SIMULATED
+2025-08,1200,Parts inventory - stocked,asset,67045.6,0.0,SIMULATED
+2025-08,1210,Special-order parts received for open jobs,asset,60216.92,0.0,SIMULATED
+2025-08,1220,"Paint, refinish & detailing materials",asset,10552.93,0.0,SIMULATED
+2025-08,1250,Work in progress - unbilled repair jobs (at cost),asset,105185.77,0.0,SIMULATED
+2025-08,1300,Prepaid expenses,asset,35061.2,0.0,SIMULATED
+2025-08,1400,GST input tax credits,asset,58020.1,0.0,SIMULATED
+2025-08,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-08,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-08,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-08,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-08,1590,Accumulated depreciation,contra_asset,0.0,1312264.15,SIMULATED
+2025-08,2000,Accounts payable - parts & materials suppliers,liability,0.0,394198.51,SIMULATED
+2025-08,2010,Accounts payable - sublet & operating vendors,liability,0.0,106905.13,SIMULATED
+2025-08,2100,Accrued payroll,liability,0.0,203528.52,SIMULATED
+2025-08,2300,GST collected,liability,0.0,105073.42,SIMULATED
+2025-08,2400,Income tax payable,liability,0.0,4784.26,SIMULATED
+2025-08,2700,Term loans,liability,0.0,657500.0,SIMULATED
+2025-08,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-08,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-08,4000,Collision repair revenue,revenue,0.0,5072111.35,SIMULATED
+2025-08,4100,Mechanical service revenue,revenue,0.0,1879882.2,SIMULATED
+2025-08,4200,Detailing revenue,revenue,0.0,178741.8,SIMULATED
+2025-08,4300,Glass repair revenue,revenue,0.0,350950.76,SIMULATED
+2025-08,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,226618.37,SIMULATED
+2025-08,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,52824.75,0.0,SIMULATED
+2025-08,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,43946.02,SIMULATED
+2025-08,5000,"Technician labour (wages, overtime & burden)",cogs,1881299.62,0.0,SIMULATED
+2025-08,5100,Parts cost,cogs,2768195.44,0.0,SIMULATED
+2025-08,5200,Paint & materials cost,cogs,198128.59,0.0,SIMULATED
+2025-08,5300,Subcontracted (sublet) repairs & towing,cogs,103712.05,0.0,SIMULATED
+2025-08,5400,Warranty rework - parts & sublet,cogs,5459.34,0.0,SIMULATED
+2025-08,5450,Interbranch sublet cost (eliminated on consolidation),cogs,43946.02,0.0,SIMULATED
+2025-08,5500,Inventory adjustments & obsolescence,cogs,311.06,0.0,SIMULATED
+2025-08,6000,"Wages - branch management, estimators, advisors & parts",opex,700085.85,0.0,SIMULATED
+2025-08,6010,Salaries - group management & administration,opex,314718.56,0.0,SIMULATED
+2025-08,6100,Rent,opex,553625.0,0.0,SIMULATED
+2025-08,6105,Common-area & property tax charges,opex,130398.0,0.0,SIMULATED
+2025-08,6110,Utilities,opex,77385.67,0.0,SIMULATED
+2025-08,6200,Marketing & advertising,opex,132344.45,0.0,SIMULATED
+2025-08,6300,Insurance (garage liability & property),opex,65549.2,0.0,SIMULATED
+2025-08,6310,Professional fees,opex,33856.53,0.0,SIMULATED
+2025-08,6320,"Software & IT (shop management, estimating)",opex,50212.5,0.0,SIMULATED
+2025-08,6330,Collision network & OEM certification fees,opex,49028.0,0.0,SIMULATED
+2025-08,6340,Training & certification,opex,25441.0,0.0,SIMULATED
+2025-08,6400,Shop supplies & equipment maintenance,opex,217271.73,0.0,SIMULATED
+2025-08,6410,"Courtesy vehicles, shuttle & concierge",opex,34608.0,0.0,SIMULATED
+2025-08,6420,Courier & waste disposal,opex,30078.49,0.0,SIMULATED
+2025-08,6430,Card processing fees,opex,48705.22,0.0,SIMULATED
+2025-08,6900,Depreciation,opex,162516.67,0.0,SIMULATED
+2025-08,7000,Interest - term loans,other_exp,29055.47,0.0,SIMULATED
+2025-08,8000,Income tax expense,tax,4784.26,0.0,SIMULATED
+2025-09,1000,Cash - operating account,asset,493927.6,0.0,SIMULATED
+2025-09,1100,Card & debit processor receivable,asset,36090.41,0.0,SIMULATED
+2025-09,1110,Insurer receivables (direct billing),asset,633976.19,0.0,SIMULATED
+2025-09,1120,Fleet & commercial account receivables,asset,38364.26,0.0,SIMULATED
+2025-09,1200,Parts inventory - stocked,asset,66610.3,0.0,SIMULATED
+2025-09,1210,Special-order parts received for open jobs,asset,36790.02,0.0,SIMULATED
+2025-09,1220,"Paint, refinish & detailing materials",asset,12471.51,0.0,SIMULATED
+2025-09,1250,Work in progress - unbilled repair jobs (at cost),asset,115310.77,0.0,SIMULATED
+2025-09,1300,Prepaid expenses,asset,26295.9,0.0,SIMULATED
+2025-09,1400,GST input tax credits,asset,84166.8,0.0,SIMULATED
+2025-09,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-09,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-09,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-09,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-09,1590,Accumulated depreciation,contra_asset,0.0,1335280.82,SIMULATED
+2025-09,2000,Accounts payable - parts & materials suppliers,liability,0.0,363498.66,SIMULATED
+2025-09,2010,Accounts payable - sublet & operating vendors,liability,0.0,101333.75,SIMULATED
+2025-09,2100,Accrued payroll,liability,0.0,202537.98,SIMULATED
+2025-09,2300,GST collected,liability,0.0,154307.66,SIMULATED
+2025-09,2400,Income tax payable,liability,0.0,5039.2,SIMULATED
+2025-09,2700,Term loans,liability,0.0,641250.0,SIMULATED
+2025-09,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-09,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-09,4000,Collision repair revenue,revenue,0.0,5730097.66,SIMULATED
+2025-09,4100,Mechanical service revenue,revenue,0.0,2093391.96,SIMULATED
+2025-09,4200,Detailing revenue,revenue,0.0,214966.8,SIMULATED
+2025-09,4300,Glass repair revenue,revenue,0.0,378481.48,SIMULATED
+2025-09,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,281322.58,SIMULATED
+2025-09,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,58829.96,0.0,SIMULATED
+2025-09,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,45938.9,SIMULATED
+2025-09,5000,"Technician labour (wages, overtime & burden)",cogs,2147237.51,0.0,SIMULATED
+2025-09,5100,Parts cost,cogs,3095130.22,0.0,SIMULATED
+2025-09,5200,Paint & materials cost,cogs,226457.31,0.0,SIMULATED
+2025-09,5300,Subcontracted (sublet) repairs & towing,cogs,118335.93,0.0,SIMULATED
+2025-09,5400,Warranty rework - parts & sublet,cogs,5740.05,0.0,SIMULATED
+2025-09,5450,Interbranch sublet cost (eliminated on consolidation),cogs,45938.9,0.0,SIMULATED
+2025-09,5500,Inventory adjustments & obsolescence,cogs,320.8,0.0,SIMULATED
+2025-09,6000,"Wages - branch management, estimators, advisors & parts",opex,797853.45,0.0,SIMULATED
+2025-09,6010,Salaries - group management & administration,opex,354058.38,0.0,SIMULATED
+2025-09,6100,Rent,opex,625210.0,0.0,SIMULATED
+2025-09,6105,Common-area & property tax charges,opex,147290.0,0.0,SIMULATED
+2025-09,6110,Utilities,opex,85846.56,0.0,SIMULATED
+2025-09,6200,Marketing & advertising,opex,142392.73,0.0,SIMULATED
+2025-09,6300,Insurance (garage liability & property),opex,74314.5,0.0,SIMULATED
+2025-09,6310,Professional fees,opex,37774.39,0.0,SIMULATED
+2025-09,6320,"Software & IT (shop management, estimating)",opex,56907.5,0.0,SIMULATED
+2025-09,6330,Collision network & OEM certification fees,opex,56135.0,0.0,SIMULATED
+2025-09,6340,Training & certification,opex,28119.0,0.0,SIMULATED
+2025-09,6400,Shop supplies & equipment maintenance,opex,245805.24,0.0,SIMULATED
+2025-09,6410,"Courtesy vehicles, shuttle & concierge",opex,41097.0,0.0,SIMULATED
+2025-09,6420,Courier & waste disposal,opex,34271.73,0.0,SIMULATED
+2025-09,6430,Card processing fees,opex,54976.53,0.0,SIMULATED
+2025-09,6900,Depreciation,opex,185533.34,0.0,SIMULATED
+2025-09,7000,Interest - term loans,other_exp,32812.45,0.0,SIMULATED
+2025-09,8000,Income tax expense,tax,5039.2,0.0,SIMULATED
+2025-10,1000,Cash - operating account,asset,683095.21,0.0,SIMULATED
+2025-10,1100,Card & debit processor receivable,asset,37706.34,0.0,SIMULATED
+2025-10,1110,Insurer receivables (direct billing),asset,585491.41,0.0,SIMULATED
+2025-10,1120,Fleet & commercial account receivables,asset,59712.82,0.0,SIMULATED
+2025-10,1200,Parts inventory - stocked,asset,51836.89,0.0,SIMULATED
+2025-10,1210,Special-order parts received for open jobs,asset,83631.62,0.0,SIMULATED
+2025-10,1220,"Paint, refinish & detailing materials",asset,6874.1,0.0,SIMULATED
+2025-10,1250,Work in progress - unbilled repair jobs (at cost),asset,85917.28,0.0,SIMULATED
+2025-10,1300,Prepaid expenses,asset,17530.6,0.0,SIMULATED
+2025-10,1400,GST input tax credits,asset,32192.82,0.0,SIMULATED
+2025-10,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-10,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-10,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-10,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-10,1590,Accumulated depreciation,contra_asset,0.0,1357297.49,SIMULATED
+2025-10,2000,Accounts payable - parts & materials suppliers,liability,0.0,463916.38,SIMULATED
+2025-10,2010,Accounts payable - sublet & operating vendors,liability,0.0,112077.66,SIMULATED
+2025-10,2100,Accrued payroll,liability,0.0,202427.34,SIMULATED
+2025-10,2300,GST collected,liability,0.0,58667.07,SIMULATED
+2025-10,2400,Income tax payable,liability,0.0,13708.11,SIMULATED
+2025-10,2700,Term loans,liability,0.0,625000.0,SIMULATED
+2025-10,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-10,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-10,4000,Collision repair revenue,revenue,0.0,6387254.74,SIMULATED
+2025-10,4100,Mechanical service revenue,revenue,0.0,2498464.37,SIMULATED
+2025-10,4200,Detailing revenue,revenue,0.0,248635.8,SIMULATED
+2025-10,4300,Glass repair revenue,revenue,0.0,416270.87,SIMULATED
+2025-10,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,326167.52,SIMULATED
+2025-10,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,64030.71,0.0,SIMULATED
+2025-10,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,78680.61,SIMULATED
+2025-10,5000,"Technician labour (wages, overtime & burden)",cogs,2422193.37,0.0,SIMULATED
+2025-10,5100,Parts cost,cogs,3522102.5,0.0,SIMULATED
+2025-10,5200,Paint & materials cost,cogs,253878.63,0.0,SIMULATED
+2025-10,5300,Subcontracted (sublet) repairs & towing,cogs,134636.63,0.0,SIMULATED
+2025-10,5400,Warranty rework - parts & sublet,cogs,6566.28,0.0,SIMULATED
+2025-10,5450,Interbranch sublet cost (eliminated on consolidation),cogs,78680.61,0.0,SIMULATED
+2025-10,5500,Inventory adjustments & obsolescence,cogs,320.8,0.0,SIMULATED
+2025-10,6000,"Wages - branch management, estimators, advisors & parts",opex,895621.05,0.0,SIMULATED
+2025-10,6010,Salaries - group management & administration,opex,393398.2,0.0,SIMULATED
+2025-10,6100,Rent,opex,696795.0,0.0,SIMULATED
+2025-10,6105,Common-area & property tax charges,opex,164182.0,0.0,SIMULATED
+2025-10,6110,Utilities,opex,94208.81,0.0,SIMULATED
+2025-10,6200,Marketing & advertising,opex,152929.31,0.0,SIMULATED
+2025-10,6300,Insurance (garage liability & property),opex,83079.8,0.0,SIMULATED
+2025-10,6310,Professional fees,opex,42013.96,0.0,SIMULATED
+2025-10,6320,"Software & IT (shop management, estimating)",opex,63602.5,0.0,SIMULATED
+2025-10,6330,Collision network & OEM certification fees,opex,63242.0,0.0,SIMULATED
+2025-10,6340,Training & certification,opex,30797.0,0.0,SIMULATED
+2025-10,6400,Shop supplies & equipment maintenance,opex,274931.22,0.0,SIMULATED
+2025-10,6410,"Courtesy vehicles, shuttle & concierge",opex,47586.0,0.0,SIMULATED
+2025-10,6420,Courier & waste disposal,opex,38603.66,0.0,SIMULATED
+2025-10,6430,Card processing fees,opex,63561.16,0.0,SIMULATED
+2025-10,6900,Depreciation,opex,207550.01,0.0,SIMULATED
+2025-10,7000,Interest - term loans,other_exp,36343.54,0.0,SIMULATED
+2025-10,8000,Income tax expense,tax,13708.11,0.0,SIMULATED
+2025-11,1000,Cash - operating account,asset,864574.46,0.0,SIMULATED
+2025-11,1100,Card & debit processor receivable,asset,6949.82,0.0,SIMULATED
+2025-11,1110,Insurer receivables (direct billing),asset,502017.27,0.0,SIMULATED
+2025-11,1120,Fleet & commercial account receivables,asset,67143.73,0.0,SIMULATED
+2025-11,1200,Parts inventory - stocked,asset,55946.35,0.0,SIMULATED
+2025-11,1210,Special-order parts received for open jobs,asset,108780.73,0.0,SIMULATED
+2025-11,1220,"Paint, refinish & detailing materials",asset,6840.3,0.0,SIMULATED
+2025-11,1250,Work in progress - unbilled repair jobs (at cost),asset,171006.61,0.0,SIMULATED
+2025-11,1300,Prepaid expenses,asset,8765.3,0.0,SIMULATED
+2025-11,1400,GST input tax credits,asset,69410.91,0.0,SIMULATED
+2025-11,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-11,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-11,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-11,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-11,1590,Accumulated depreciation,contra_asset,0.0,1379314.16,SIMULATED
+2025-11,2000,Accounts payable - parts & materials suppliers,liability,0.0,588965.62,SIMULATED
+2025-11,2010,Accounts payable - sublet & operating vendors,liability,0.0,114766.72,SIMULATED
+2025-11,2100,Accrued payroll,liability,0.0,187868.53,SIMULATED
+2025-11,2300,GST collected,liability,0.0,113359.62,SIMULATED
+2025-11,2400,Income tax payable,liability,0.0,18526.95,SIMULATED
+2025-11,2700,Term loans,liability,0.0,608750.0,SIMULATED
+2025-11,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-11,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-11,4000,Collision repair revenue,revenue,0.0,6950950.22,SIMULATED
+2025-11,4100,Mechanical service revenue,revenue,0.0,2939127.52,SIMULATED
+2025-11,4200,Detailing revenue,revenue,0.0,266239.8,SIMULATED
+2025-11,4300,Glass repair revenue,revenue,0.0,455355.03,SIMULATED
+2025-11,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,364224.26,SIMULATED
+2025-11,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,69868.46,0.0,SIMULATED
+2025-11,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,101491.83,SIMULATED
+2025-11,5000,"Technician labour (wages, overtime & burden)",cogs,2648827.32,0.0,SIMULATED
+2025-11,5100,Parts cost,cogs,3956961.56,0.0,SIMULATED
+2025-11,5200,Paint & materials cost,cogs,274783.64,0.0,SIMULATED
+2025-11,5300,Subcontracted (sublet) repairs & towing,cogs,148064.17,0.0,SIMULATED
+2025-11,5400,Warranty rework - parts & sublet,cogs,7070.6,0.0,SIMULATED
+2025-11,5450,Interbranch sublet cost (eliminated on consolidation),cogs,101491.83,0.0,SIMULATED
+2025-11,5500,Inventory adjustments & obsolescence,cogs,320.8,0.0,SIMULATED
+2025-11,6000,"Wages - branch management, estimators, advisors & parts",opex,993388.65,0.0,SIMULATED
+2025-11,6010,Salaries - group management & administration,opex,432738.02,0.0,SIMULATED
+2025-11,6100,Rent,opex,768380.0,0.0,SIMULATED
+2025-11,6105,Common-area & property tax charges,opex,181074.0,0.0,SIMULATED
+2025-11,6110,Utilities,opex,107707.18,0.0,SIMULATED
+2025-11,6200,Marketing & advertising,opex,163355.33,0.0,SIMULATED
+2025-11,6300,Insurance (garage liability & property),opex,91845.1,0.0,SIMULATED
+2025-11,6310,Professional fees,opex,46382.95,0.0,SIMULATED
+2025-11,6320,"Software & IT (shop management, estimating)",opex,70297.5,0.0,SIMULATED
+2025-11,6330,Collision network & OEM certification fees,opex,70349.0,0.0,SIMULATED
+2025-11,6340,Training & certification,opex,33475.0,0.0,SIMULATED
+2025-11,6400,Shop supplies & equipment maintenance,opex,303452.11,0.0,SIMULATED
+2025-11,6410,"Courtesy vehicles, shuttle & concierge",opex,54075.0,0.0,SIMULATED
+2025-11,6420,Courier & waste disposal,opex,42682.61,0.0,SIMULATED
+2025-11,6430,Card processing fees,opex,73018.58,0.0,SIMULATED
+2025-11,6900,Depreciation,opex,229566.68,0.0,SIMULATED
+2025-11,7000,Interest - term loans,other_exp,39785.73,0.0,SIMULATED
+2025-11,8000,Income tax expense,tax,18526.95,0.0,SIMULATED
+2025-12,1000,Cash - operating account,asset,643396.37,0.0,SIMULATED
+2025-12,1100,Card & debit processor receivable,asset,13180.93,0.0,SIMULATED
+2025-12,1110,Insurer receivables (direct billing),asset,515688.02,0.0,SIMULATED
+2025-12,1120,Fleet & commercial account receivables,asset,33731.06,0.0,SIMULATED
+2025-12,1200,Parts inventory - stocked,asset,70128.9,0.0,SIMULATED
+2025-12,1210,Special-order parts received for open jobs,asset,183079.12,0.0,SIMULATED
+2025-12,1220,"Paint, refinish & detailing materials",asset,19198.39,0.0,SIMULATED
+2025-12,1250,Work in progress - unbilled repair jobs (at cost),asset,215178.21,0.0,SIMULATED
+2025-12,1400,GST input tax credits,asset,105752.71,0.0,SIMULATED
+2025-12,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2025-12,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2025-12,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2025-12,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2025-12,1590,Accumulated depreciation,contra_asset,0.0,1401330.83,SIMULATED
+2025-12,2000,Accounts payable - parts & materials suppliers,liability,0.0,531371.57,SIMULATED
+2025-12,2010,Accounts payable - sublet & operating vendors,liability,0.0,108266.31,SIMULATED
+2025-12,2100,Accrued payroll,liability,0.0,209720.11,SIMULATED
+2025-12,2300,GST collected,liability,0.0,164150.38,SIMULATED
+2025-12,2400,Income tax payable,liability,0.0,15621.16,SIMULATED
+2025-12,2700,Term loans,liability,0.0,592500.0,SIMULATED
+2025-12,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2025-12,3200,Retained earnings,equity,0.0,1310983.99,SIMULATED
+2025-12,3300,Dividends declared,equity,50000.0,0.0,SIMULATED
+2025-12,4000,Collision repair revenue,revenue,0.0,7680612.37,SIMULATED
+2025-12,4100,Mechanical service revenue,revenue,0.0,3154373.23,SIMULATED
+2025-12,4200,Detailing revenue,revenue,0.0,288568.8,SIMULATED
+2025-12,4300,Glass repair revenue,revenue,0.0,487070.38,SIMULATED
+2025-12,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,386951.05,SIMULATED
+2025-12,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,76494.57,0.0,SIMULATED
+2025-12,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,150470.01,SIMULATED
+2025-12,5000,"Technician labour (wages, overtime & burden)",cogs,2921898.09,0.0,SIMULATED
+2025-12,5100,Parts cost,cogs,4332509.96,0.0,SIMULATED
+2025-12,5200,Paint & materials cost,cogs,301831.43,0.0,SIMULATED
+2025-12,5300,Subcontracted (sublet) repairs & towing,cogs,164192.64,0.0,SIMULATED
+2025-12,5400,Warranty rework - parts & sublet,cogs,7589.84,0.0,SIMULATED
+2025-12,5450,Interbranch sublet cost (eliminated on consolidation),cogs,150470.01,0.0,SIMULATED
+2025-12,5500,Inventory adjustments & obsolescence,cogs,301.76,0.0,SIMULATED
+2025-12,6000,"Wages - branch management, estimators, advisors & parts",opex,1091156.25,0.0,SIMULATED
+2025-12,6010,Salaries - group management & administration,opex,472077.84,0.0,SIMULATED
+2025-12,6100,Rent,opex,839965.0,0.0,SIMULATED
+2025-12,6105,Common-area & property tax charges,opex,197966.0,0.0,SIMULATED
+2025-12,6110,Utilities,opex,121644.25,0.0,SIMULATED
+2025-12,6200,Marketing & advertising,opex,173461.95,0.0,SIMULATED
+2025-12,6300,Insurance (garage liability & property),opex,100610.4,0.0,SIMULATED
+2025-12,6310,Professional fees,opex,49874.53,0.0,SIMULATED
+2025-12,6320,"Software & IT (shop management, estimating)",opex,76992.5,0.0,SIMULATED
+2025-12,6330,Collision network & OEM certification fees,opex,77456.0,0.0,SIMULATED
+2025-12,6340,Training & certification,opex,36153.0,0.0,SIMULATED
+2025-12,6400,Shop supplies & equipment maintenance,opex,332110.49,0.0,SIMULATED
+2025-12,6410,"Courtesy vehicles, shuttle & concierge",opex,60564.0,0.0,SIMULATED
+2025-12,6420,Courier & waste disposal,opex,46896.24,0.0,SIMULATED
+2025-12,6430,Card processing fees,opex,79096.21,0.0,SIMULATED
+2025-12,6900,Depreciation,opex,251583.35,0.0,SIMULATED
+2025-12,7000,Interest - term loans,other_exp,43139.01,0.0,SIMULATED
+2025-12,8000,Income tax expense,tax,15621.16,0.0,SIMULATED
+2026-01,1000,Cash - operating account,asset,510492.61,0.0,SIMULATED
+2026-01,1100,Card & debit processor receivable,asset,15871.03,0.0,SIMULATED
+2026-01,1110,Insurer receivables (direct billing),asset,830843.66,0.0,SIMULATED
+2026-01,1120,Fleet & commercial account receivables,asset,54150.61,0.0,SIMULATED
+2026-01,1200,Parts inventory - stocked,asset,63867.84,0.0,SIMULATED
+2026-01,1210,Special-order parts received for open jobs,asset,95691.95,0.0,SIMULATED
+2026-01,1220,"Paint, refinish & detailing materials",asset,13289.17,0.0,SIMULATED
+2026-01,1250,Work in progress - unbilled repair jobs (at cost),asset,162719.57,0.0,SIMULATED
+2026-01,1300,Prepaid expenses,asset,99310.86,0.0,SIMULATED
+2026-01,1400,GST input tax credits,asset,33114.5,0.0,SIMULATED
+2026-01,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-01,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1180000.0,0.0,SIMULATED
+2026-01,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-01,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-01,1590,Accumulated depreciation,contra_asset,0.0,1423347.5,SIMULATED
+2026-01,2000,Accounts payable - parts & materials suppliers,liability,0.0,491352.18,SIMULATED
+2026-01,2010,Accounts payable - sublet & operating vendors,liability,0.0,119342.32,SIMULATED
+2026-01,2100,Accrued payroll,liability,0.0,218477.03,SIMULATED
+2026-01,2300,GST collected,liability,0.0,73997.51,SIMULATED
+2026-01,2400,Income tax payable,liability,0.0,35926.14,SIMULATED
+2026-01,2700,Term loans,liability,0.0,576250.0,SIMULATED
+2026-01,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-01,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-01,4000,Collision repair revenue,revenue,0.0,1115733.07,SIMULATED
+2026-01,4100,Mechanical service revenue,revenue,0.0,270709.69,SIMULATED
+2026-01,4200,Detailing revenue,revenue,0.0,22839.8,SIMULATED
+2026-01,4300,Glass repair revenue,revenue,0.0,37113.25,SIMULATED
+2026-01,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,46911.53,SIMULATED
+2026-01,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,15377.53,0.0,SIMULATED
+2026-01,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,25250.9,SIMULATED
+2026-01,5000,"Technician labour (wages, overtime & burden)",cogs,305536.52,0.0,SIMULATED
+2026-01,5100,Parts cost,cogs,560347.42,0.0,SIMULATED
+2026-01,5200,Paint & materials cost,cogs,40205.08,0.0,SIMULATED
+2026-01,5300,Subcontracted (sublet) repairs & towing,cogs,22299.46,0.0,SIMULATED
+2026-01,5400,Warranty rework - parts & sublet,cogs,1237.06,0.0,SIMULATED
+2026-01,5450,Interbranch sublet cost (eliminated on consolidation),cogs,25250.9,0.0,SIMULATED
+2026-01,6000,"Wages - branch management, estimators, advisors & parts",opex,100700.63,0.0,SIMULATED
+2026-01,6010,Salaries - group management & administration,opex,40520.01,0.0,SIMULATED
+2026-01,6100,Rent,opex,73732.55,0.0,SIMULATED
+2026-01,6105,Common-area & property tax charges,opex,17398.76,0.0,SIMULATED
+2026-01,6110,Utilities,opex,14689.11,0.0,SIMULATED
+2026-01,6200,Marketing & advertising,opex,9467.28,0.0,SIMULATED
+2026-01,6300,Insurance (garage liability & property),opex,9028.26,0.0,SIMULATED
+2026-01,6310,Professional fees,opex,3337.55,0.0,SIMULATED
+2026-01,6320,"Software & IT (shop management, estimating)",opex,6895.85,0.0,SIMULATED
+2026-01,6330,Collision network & OEM certification fees,opex,7320.21,0.0,SIMULATED
+2026-01,6340,Training & certification,opex,6895.85,0.0,SIMULATED
+2026-01,6400,Shop supplies & equipment maintenance,opex,29580.02,0.0,SIMULATED
+2026-01,6410,"Courtesy vehicles, shuttle & concierge",opex,6683.67,0.0,SIMULATED
+2026-01,6420,Courier & waste disposal,opex,4406.94,0.0,SIMULATED
+2026-01,6430,Card processing fees,opex,7775.78,0.0,SIMULATED
+2026-01,6900,Depreciation,opex,22016.67,0.0,SIMULATED
+2026-01,7000,Interest - term loans,other_exp,3264.38,0.0,SIMULATED
+2026-01,8000,Income tax expense,tax,20304.98,0.0,SIMULATED
+2026-02,1000,Cash - operating account,asset,633407.78,0.0,SIMULATED
+2026-02,1100,Card & debit processor receivable,asset,15710.83,0.0,SIMULATED
+2026-02,1110,Insurer receivables (direct billing),asset,720229.64,0.0,SIMULATED
+2026-02,1120,Fleet & commercial account receivables,asset,64048.5,0.0,SIMULATED
+2026-02,1200,Parts inventory - stocked,asset,65406.11,0.0,SIMULATED
+2026-02,1210,Special-order parts received for open jobs,asset,78234.82,0.0,SIMULATED
+2026-02,1220,"Paint, refinish & detailing materials",asset,13361.61,0.0,SIMULATED
+2026-02,1250,Work in progress - unbilled repair jobs (at cost),asset,132913.06,0.0,SIMULATED
+2026-02,1300,Prepaid expenses,asset,90282.6,0.0,SIMULATED
+2026-02,1400,GST input tax credits,asset,65227.72,0.0,SIMULATED
+2026-02,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-02,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1222000.0,0.0,SIMULATED
+2026-02,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-02,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-02,1590,Accumulated depreciation,contra_asset,0.0,1445364.17,SIMULATED
+2026-02,2000,Accounts payable - parts & materials suppliers,liability,0.0,457041.33,SIMULATED
+2026-02,2010,Accounts payable - sublet & operating vendors,liability,0.0,111799.25,SIMULATED
+2026-02,2100,Accrued payroll,liability,0.0,199435.62,SIMULATED
+2026-02,2300,GST collected,liability,0.0,130327.25,SIMULATED
+2026-02,2400,Income tax payable,liability,0.0,40355.82,SIMULATED
+2026-02,2700,Term loans,liability,0.0,560000.0,SIMULATED
+2026-02,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-02,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-02,4000,Collision repair revenue,revenue,0.0,1947372.99,SIMULATED
+2026-02,4100,Mechanical service revenue,revenue,0.0,484544.74,SIMULATED
+2026-02,4200,Detailing revenue,revenue,0.0,47035.4,SIMULATED
+2026-02,4300,Glass repair revenue,revenue,0.0,75744.01,SIMULATED
+2026-02,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,76129.78,SIMULATED
+2026-02,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,26323.24,0.0,SIMULATED
+2026-02,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,60363.62,SIMULATED
+2026-02,5000,"Technician labour (wages, overtime & burden)",cogs,569650.15,0.0,SIMULATED
+2026-02,5100,Parts cost,cogs,977271.28,0.0,SIMULATED
+2026-02,5200,Paint & materials cost,cogs,72195.01,0.0,SIMULATED
+2026-02,5300,Subcontracted (sublet) repairs & towing,cogs,37459.14,0.0,SIMULATED
+2026-02,5400,Warranty rework - parts & sublet,cogs,2520.55,0.0,SIMULATED
+2026-02,5450,Interbranch sublet cost (eliminated on consolidation),cogs,60363.62,0.0,SIMULATED
+2026-02,6000,"Wages - branch management, estimators, advisors & parts",opex,201401.26,0.0,SIMULATED
+2026-02,6010,Salaries - group management & administration,opex,81040.02,0.0,SIMULATED
+2026-02,6100,Rent,opex,147465.1,0.0,SIMULATED
+2026-02,6105,Common-area & property tax charges,opex,34797.52,0.0,SIMULATED
+2026-02,6110,Utilities,opex,28732.23,0.0,SIMULATED
+2026-02,6200,Marketing & advertising,opex,19799.83,0.0,SIMULATED
+2026-02,6300,Insurance (garage liability & property),opex,18056.52,0.0,SIMULATED
+2026-02,6310,Professional fees,opex,7141.16,0.0,SIMULATED
+2026-02,6320,"Software & IT (shop management, estimating)",opex,13791.7,0.0,SIMULATED
+2026-02,6330,Collision network & OEM certification fees,opex,14640.42,0.0,SIMULATED
+2026-02,6340,Training & certification,opex,9654.19,0.0,SIMULATED
+2026-02,6400,Shop supplies & equipment maintenance,opex,56325.61,0.0,SIMULATED
+2026-02,6410,"Courtesy vehicles, shuttle & concierge",opex,13367.34,0.0,SIMULATED
+2026-02,6420,Courier & waste disposal,opex,8785.04,0.0,SIMULATED
+2026-02,6430,Card processing fees,opex,15075.88,0.0,SIMULATED
+2026-02,6900,Depreciation,opex,44033.34,0.0,SIMULATED
+2026-02,7000,Interest - term loans,other_exp,6439.85,0.0,SIMULATED
+2026-02,8000,Income tax expense,tax,24734.66,0.0,SIMULATED
+2026-03,1000,Cash - operating account,asset,930312.83,0.0,SIMULATED
+2026-03,1100,Card & debit processor receivable,asset,35867.18,0.0,SIMULATED
+2026-03,1110,Insurer receivables (direct billing),asset,545393.95,0.0,SIMULATED
+2026-03,1120,Fleet & commercial account receivables,asset,68655.47,0.0,SIMULATED
+2026-03,1200,Parts inventory - stocked,asset,62730.29,0.0,SIMULATED
+2026-03,1210,Special-order parts received for open jobs,asset,68474.35,0.0,SIMULATED
+2026-03,1220,"Paint, refinish & detailing materials",asset,16296.93,0.0,SIMULATED
+2026-03,1250,Work in progress - unbilled repair jobs (at cost),asset,113978.6,0.0,SIMULATED
+2026-03,1300,Prepaid expenses,asset,81254.34,0.0,SIMULATED
+2026-03,1400,GST input tax credits,asset,95466.87,0.0,SIMULATED
+2026-03,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-03,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1222000.0,0.0,SIMULATED
+2026-03,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-03,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-03,1590,Accumulated depreciation,contra_asset,0.0,1467818.34,SIMULATED
+2026-03,2000,Accounts payable - parts & materials suppliers,liability,0.0,444145.91,SIMULATED
+2026-03,2010,Accounts payable - sublet & operating vendors,liability,0.0,108061.96,SIMULATED
+2026-03,2100,Accrued payroll,liability,0.0,221103.3,SIMULATED
+2026-03,2300,GST collected,liability,0.0,190456.82,SIMULATED
+2026-03,2400,Income tax payable,liability,0.0,33959.32,SIMULATED
+2026-03,2700,Term loans,liability,0.0,543750.0,SIMULATED
+2026-03,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-03,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-03,4000,Collision repair revenue,revenue,0.0,2767176.77,SIMULATED
+2026-03,4100,Mechanical service revenue,revenue,0.0,722563.68,SIMULATED
+2026-03,4200,Detailing revenue,revenue,0.0,85331.0,SIMULATED
+2026-03,4300,Glass repair revenue,revenue,0.0,126222.4,SIMULATED
+2026-03,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,139111.31,SIMULATED
+2026-03,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,33449.51,0.0,SIMULATED
+2026-03,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,94323.42,SIMULATED
+2026-03,5000,"Technician labour (wages, overtime & burden)",cogs,864972.65,0.0,SIMULATED
+2026-03,5100,Parts cost,cogs,1393679.78,0.0,SIMULATED
+2026-03,5200,Paint & materials cost,cogs,106490.57,0.0,SIMULATED
+2026-03,5300,Subcontracted (sublet) repairs & towing,cogs,48633.8,0.0,SIMULATED
+2026-03,5400,Warranty rework - parts & sublet,cogs,3036.96,0.0,SIMULATED
+2026-03,5450,Interbranch sublet cost (eliminated on consolidation),cogs,94323.42,0.0,SIMULATED
+2026-03,5500,Inventory adjustments & obsolescence,cogs,201.31,0.0,SIMULATED
+2026-03,6000,"Wages - branch management, estimators, advisors & parts",opex,302101.89,0.0,SIMULATED
+2026-03,6010,Salaries - group management & administration,opex,121560.03,0.0,SIMULATED
+2026-03,6100,Rent,opex,221197.65,0.0,SIMULATED
+2026-03,6105,Common-area & property tax charges,opex,52196.28,0.0,SIMULATED
+2026-03,6110,Utilities,opex,43253.01,0.0,SIMULATED
+2026-03,6200,Marketing & advertising,opex,28995.04,0.0,SIMULATED
+2026-03,6300,Insurance (garage liability & property),opex,27084.78,0.0,SIMULATED
+2026-03,6310,Professional fees,opex,11383.65,0.0,SIMULATED
+2026-03,6320,"Software & IT (shop management, estimating)",opex,20687.55,0.0,SIMULATED
+2026-03,6330,Collision network & OEM certification fees,opex,21960.63,0.0,SIMULATED
+2026-03,6340,Training & certification,opex,12412.53,0.0,SIMULATED
+2026-03,6400,Shop supplies & equipment maintenance,opex,85313.26,0.0,SIMULATED
+2026-03,6410,"Courtesy vehicles, shuttle & concierge",opex,20051.01,0.0,SIMULATED
+2026-03,6420,Courier & waste disposal,opex,13327.84,0.0,SIMULATED
+2026-03,6430,Card processing fees,opex,23680.37,0.0,SIMULATED
+2026-03,6900,Depreciation,opex,66487.51,0.0,SIMULATED
+2026-03,7000,Interest - term loans,other_exp,9526.42,0.0,SIMULATED
+2026-03,8000,Income tax expense,tax,33959.32,0.0,SIMULATED
+2026-04,1000,Cash - operating account,asset,1079663.65,0.0,SIMULATED
+2026-04,1100,Card & debit processor receivable,asset,57971.42,0.0,SIMULATED
+2026-04,1110,Insurer receivables (direct billing),asset,623573.87,0.0,SIMULATED
+2026-04,1120,Fleet & commercial account receivables,asset,65040.83,0.0,SIMULATED
+2026-04,1200,Parts inventory - stocked,asset,56051.64,0.0,SIMULATED
+2026-04,1210,Special-order parts received for open jobs,asset,57089.29,0.0,SIMULATED
+2026-04,1220,"Paint, refinish & detailing materials",asset,16053.93,0.0,SIMULATED
+2026-04,1250,Work in progress - unbilled repair jobs (at cost),asset,138398.07,0.0,SIMULATED
+2026-04,1300,Prepaid expenses,asset,72226.08,0.0,SIMULATED
+2026-04,1400,GST input tax credits,asset,35657.83,0.0,SIMULATED
+2026-04,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-04,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1222000.0,0.0,SIMULATED
+2026-04,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-04,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-04,1590,Accumulated depreciation,contra_asset,0.0,1490272.51,SIMULATED
+2026-04,2000,Accounts payable - parts & materials suppliers,liability,0.0,563960.4,SIMULATED
+2026-04,2010,Accounts payable - sublet & operating vendors,liability,0.0,109698.61,SIMULATED
+2026-04,2100,Accrued payroll,liability,0.0,208991.81,SIMULATED
+2026-04,2300,GST collected,liability,0.0,68118.59,SIMULATED
+2026-04,2400,Income tax payable,liability,0.0,54869.25,SIMULATED
+2026-04,2700,Term loans,liability,0.0,527500.0,SIMULATED
+2026-04,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-04,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-04,4000,Collision repair revenue,revenue,0.0,3563932.62,SIMULATED
+2026-04,4100,Mechanical service revenue,revenue,0.0,1105661.92,SIMULATED
+2026-04,4200,Detailing revenue,revenue,0.0,146844.6,SIMULATED
+2026-04,4300,Glass repair revenue,revenue,0.0,178483.2,SIMULATED
+2026-04,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,216386.2,SIMULATED
+2026-04,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,43751.96,0.0,SIMULATED
+2026-04,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,178945.8,SIMULATED
+2026-04,5000,"Technician labour (wages, overtime & burden)",cogs,1146122.09,0.0,SIMULATED
+2026-04,5100,Parts cost,cogs,1875707.43,0.0,SIMULATED
+2026-04,5200,Paint & materials cost,cogs,141573.06,0.0,SIMULATED
+2026-04,5300,Subcontracted (sublet) repairs & towing,cogs,61505.47,0.0,SIMULATED
+2026-04,5400,Warranty rework - parts & sublet,cogs,3598.95,0.0,SIMULATED
+2026-04,5450,Interbranch sublet cost (eliminated on consolidation),cogs,178945.8,0.0,SIMULATED
+2026-04,5500,Inventory adjustments & obsolescence,cogs,201.31,0.0,SIMULATED
+2026-04,6000,"Wages - branch management, estimators, advisors & parts",opex,402802.52,0.0,SIMULATED
+2026-04,6010,Salaries - group management & administration,opex,162080.04,0.0,SIMULATED
+2026-04,6100,Rent,opex,294930.2,0.0,SIMULATED
+2026-04,6105,Common-area & property tax charges,opex,69595.04,0.0,SIMULATED
+2026-04,6110,Utilities,opex,51552.04,0.0,SIMULATED
+2026-04,6200,Marketing & advertising,opex,38277.56,0.0,SIMULATED
+2026-04,6300,Insurance (garage liability & property),opex,36113.04,0.0,SIMULATED
+2026-04,6310,Professional fees,opex,16116.42,0.0,SIMULATED
+2026-04,6320,"Software & IT (shop management, estimating)",opex,27583.4,0.0,SIMULATED
+2026-04,6330,Collision network & OEM certification fees,opex,29280.84,0.0,SIMULATED
+2026-04,6340,Training & certification,opex,15170.87,0.0,SIMULATED
+2026-04,6400,Shop supplies & equipment maintenance,opex,116115.36,0.0,SIMULATED
+2026-04,6410,"Courtesy vehicles, shuttle & concierge",opex,26734.68,0.0,SIMULATED
+2026-04,6420,Courier & waste disposal,opex,17524.28,0.0,SIMULATED
+2026-04,6430,Card processing fees,opex,34694.88,0.0,SIMULATED
+2026-04,6900,Depreciation,opex,88941.68,0.0,SIMULATED
+2026-04,7000,Interest - term loans,other_exp,12524.08,0.0,SIMULATED
+2026-04,8000,Income tax expense,tax,54869.25,0.0,SIMULATED
+2026-05,1000,Cash - operating account,asset,1191103.76,0.0,SIMULATED
+2026-05,1100,Card & debit processor receivable,asset,6513.0,0.0,SIMULATED
+2026-05,1110,Insurer receivables (direct billing),asset,532091.1,0.0,SIMULATED
+2026-05,1120,Fleet & commercial account receivables,asset,72860.03,0.0,SIMULATED
+2026-05,1200,Parts inventory - stocked,asset,56058.69,0.0,SIMULATED
+2026-05,1210,Special-order parts received for open jobs,asset,53166.16,0.0,SIMULATED
+2026-05,1220,"Paint, refinish & detailing materials",asset,7849.79,0.0,SIMULATED
+2026-05,1250,Work in progress - unbilled repair jobs (at cost),asset,107857.56,0.0,SIMULATED
+2026-05,1300,Prepaid expenses,asset,63197.82,0.0,SIMULATED
+2026-05,1400,GST input tax credits,asset,72372.25,0.0,SIMULATED
+2026-05,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-05,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1317000.0,0.0,SIMULATED
+2026-05,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-05,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-05,1590,Accumulated depreciation,contra_asset,0.0,1512726.68,SIMULATED
+2026-05,2000,Accounts payable - parts & materials suppliers,liability,0.0,462655.45,SIMULATED
+2026-05,2010,Accounts payable - sublet & operating vendors,liability,0.0,110085.22,SIMULATED
+2026-05,2100,Accrued payroll,liability,0.0,199642.31,SIMULATED
+2026-05,2300,GST collected,liability,0.0,129372.53,SIMULATED
+2026-05,2400,Income tax payable,liability,0.0,77531.86,SIMULATED
+2026-05,2700,Term loans,liability,0.0,511250.0,SIMULATED
+2026-05,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-05,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-05,4000,Collision repair revenue,revenue,0.0,4192456.0,SIMULATED
+2026-05,4100,Mechanical service revenue,revenue,0.0,1545242.28,SIMULATED
+2026-05,4200,Detailing revenue,revenue,0.0,204504.2,SIMULATED
+2026-05,4300,Glass repair revenue,revenue,0.0,231325.89,SIMULATED
+2026-05,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,270437.57,SIMULATED
+2026-05,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,51738.23,0.0,SIMULATED
+2026-05,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,215817.24,SIMULATED
+2026-05,5000,"Technician labour (wages, overtime & burden)",cogs,1403662.33,0.0,SIMULATED
+2026-05,5100,Parts cost,cogs,2343072.39,0.0,SIMULATED
+2026-05,5200,Paint & materials cost,cogs,167243.75,0.0,SIMULATED
+2026-05,5300,Subcontracted (sublet) repairs & towing,cogs,77566.32,0.0,SIMULATED
+2026-05,5400,Warranty rework - parts & sublet,cogs,3938.23,0.0,SIMULATED
+2026-05,5450,Interbranch sublet cost (eliminated on consolidation),cogs,215817.24,0.0,SIMULATED
+2026-05,5500,Inventory adjustments & obsolescence,cogs,201.31,0.0,SIMULATED
+2026-05,6000,"Wages - branch management, estimators, advisors & parts",opex,503503.15,0.0,SIMULATED
+2026-05,6010,Salaries - group management & administration,opex,202600.05,0.0,SIMULATED
+2026-05,6100,Rent,opex,368662.75,0.0,SIMULATED
+2026-05,6105,Common-area & property tax charges,opex,86993.8,0.0,SIMULATED
+2026-05,6110,Utilities,opex,60033.7,0.0,SIMULATED
+2026-05,6200,Marketing & advertising,opex,47909.64,0.0,SIMULATED
+2026-05,6300,Insurance (garage liability & property),opex,45141.3,0.0,SIMULATED
+2026-05,6310,Professional fees,opex,20266.75,0.0,SIMULATED
+2026-05,6320,"Software & IT (shop management, estimating)",opex,34479.25,0.0,SIMULATED
+2026-05,6330,Collision network & OEM certification fees,opex,36601.05,0.0,SIMULATED
+2026-05,6340,Training & certification,opex,17929.21,0.0,SIMULATED
+2026-05,6400,Shop supplies & equipment maintenance,opex,148199.9,0.0,SIMULATED
+2026-05,6410,"Courtesy vehicles, shuttle & concierge",opex,33418.35,0.0,SIMULATED
+2026-05,6420,Courier & waste disposal,opex,21419.23,0.0,SIMULATED
+2026-05,6430,Card processing fees,opex,44591.94,0.0,SIMULATED
+2026-05,6900,Depreciation,opex,111395.85,0.0,SIMULATED
+2026-05,7000,Interest - term loans,other_exp,15432.84,0.0,SIMULATED
+2026-05,8000,Income tax expense,tax,77531.86,0.0,SIMULATED
+2026-06,1000,Cash - operating account,asset,1342769.35,0.0,SIMULATED
+2026-06,1100,Card & debit processor receivable,asset,35159.21,0.0,SIMULATED
+2026-06,1110,Insurer receivables (direct billing),asset,468813.23,0.0,SIMULATED
+2026-06,1120,Fleet & commercial account receivables,asset,55342.77,0.0,SIMULATED
+2026-06,1200,Parts inventory - stocked,asset,61856.32,0.0,SIMULATED
+2026-06,1210,Special-order parts received for open jobs,asset,90227.42,0.0,SIMULATED
+2026-06,1220,"Paint, refinish & detailing materials",asset,14236.71,0.0,SIMULATED
+2026-06,1250,Work in progress - unbilled repair jobs (at cost),asset,91617.59,0.0,SIMULATED
+2026-06,1300,Prepaid expenses,asset,54169.56,0.0,SIMULATED
+2026-06,1400,GST input tax credits,asset,104133.11,0.0,SIMULATED
+2026-06,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-06,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1317000.0,0.0,SIMULATED
+2026-06,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-06,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-06,1590,Accumulated depreciation,contra_asset,0.0,1535972.52,SIMULATED
+2026-06,2000,Accounts payable - parts & materials suppliers,liability,0.0,477750.47,SIMULATED
+2026-06,2010,Accounts payable - sublet & operating vendors,liability,0.0,106825.87,SIMULATED
+2026-06,2100,Accrued payroll,liability,0.0,216983.13,SIMULATED
+2026-06,2300,GST collected,liability,0.0,186524.41,SIMULATED
+2026-06,2400,Income tax payable,liability,0.0,91775.97,SIMULATED
+2026-06,2700,Term loans,liability,0.0,495000.0,SIMULATED
+2026-06,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-06,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-06,4000,Collision repair revenue,revenue,0.0,4835535.8,SIMULATED
+2026-06,4100,Mechanical service revenue,revenue,0.0,1856251.24,SIMULATED
+2026-06,4200,Detailing revenue,revenue,0.0,270708.4,SIMULATED
+2026-06,4300,Glass repair revenue,revenue,0.0,276079.87,SIMULATED
+2026-06,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,356963.36,SIMULATED
+2026-06,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,60751.75,0.0,SIMULATED
+2026-06,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,261502.38,SIMULATED
+2026-06,5000,"Technician labour (wages, overtime & burden)",cogs,1697746.07,0.0,SIMULATED
+2026-06,5100,Parts cost,cogs,2730483.31,0.0,SIMULATED
+2026-06,5200,Paint & materials cost,cogs,197395.34,0.0,SIMULATED
+2026-06,5300,Subcontracted (sublet) repairs & towing,cogs,89284.04,0.0,SIMULATED
+2026-06,5400,Warranty rework - parts & sublet,cogs,4196.41,0.0,SIMULATED
+2026-06,5450,Interbranch sublet cost (eliminated on consolidation),cogs,261502.38,0.0,SIMULATED
+2026-06,5500,Inventory adjustments & obsolescence,cogs,210.76,0.0,SIMULATED
+2026-06,6000,"Wages - branch management, estimators, advisors & parts",opex,604203.78,0.0,SIMULATED
+2026-06,6010,Salaries - group management & administration,opex,243120.06,0.0,SIMULATED
+2026-06,6100,Rent,opex,442395.3,0.0,SIMULATED
+2026-06,6105,Common-area & property tax charges,opex,104392.56,0.0,SIMULATED
+2026-06,6110,Utilities,opex,68652.72,0.0,SIMULATED
+2026-06,6200,Marketing & advertising,opex,58844.75,0.0,SIMULATED
+2026-06,6300,Insurance (garage liability & property),opex,54169.56,0.0,SIMULATED
+2026-06,6310,Professional fees,opex,24639.46,0.0,SIMULATED
+2026-06,6320,"Software & IT (shop management, estimating)",opex,41375.1,0.0,SIMULATED
+2026-06,6330,Collision network & OEM certification fees,opex,43921.26,0.0,SIMULATED
+2026-06,6340,Training & certification,opex,20687.55,0.0,SIMULATED
+2026-06,6400,Shop supplies & equipment maintenance,opex,176702.0,0.0,SIMULATED
+2026-06,6410,"Courtesy vehicles, shuttle & concierge",opex,40102.02,0.0,SIMULATED
+2026-06,6420,Courier & waste disposal,opex,25516.67,0.0,SIMULATED
+2026-06,6430,Card processing fees,opex,53958.31,0.0,SIMULATED
+2026-06,6900,Depreciation,opex,134641.69,0.0,SIMULATED
+2026-06,7000,Interest - term loans,other_exp,18252.68,0.0,SIMULATED
+2026-06,8000,Income tax expense,tax,91775.97,0.0,SIMULATED
+2026-07,1000,Cash - operating account,asset,1129345.97,0.0,SIMULATED
+2026-07,1100,Card & debit processor receivable,asset,33836.79,0.0,SIMULATED
+2026-07,1110,Insurer receivables (direct billing),asset,661457.7,0.0,SIMULATED
+2026-07,1120,Fleet & commercial account receivables,asset,47783.2,0.0,SIMULATED
+2026-07,1200,Parts inventory - stocked,asset,63125.52,0.0,SIMULATED
+2026-07,1210,Special-order parts received for open jobs,asset,63691.29,0.0,SIMULATED
+2026-07,1220,"Paint, refinish & detailing materials",asset,10889.36,0.0,SIMULATED
+2026-07,1250,Work in progress - unbilled repair jobs (at cost),asset,149798.85,0.0,SIMULATED
+2026-07,1300,Prepaid expenses,asset,45141.3,0.0,SIMULATED
+2026-07,1400,GST input tax credits,asset,30633.78,0.0,SIMULATED
+2026-07,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-07,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1317000.0,0.0,SIMULATED
+2026-07,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-07,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-07,1590,Accumulated depreciation,contra_asset,0.0,1559218.36,SIMULATED
+2026-07,2000,Accounts payable - parts & materials suppliers,liability,0.0,453526.89,SIMULATED
+2026-07,2010,Accounts payable - sublet & operating vendors,liability,0.0,106748.06,SIMULATED
+2026-07,2100,Accrued payroll,liability,0.0,223795.3,SIMULATED
+2026-07,2300,GST collected,liability,0.0,56651.53,SIMULATED
+2026-07,2400,Income tax payable,liability,0.0,105057.26,SIMULATED
+2026-07,2700,Term loans,liability,0.0,478750.0,SIMULATED
+2026-07,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-07,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-07,4000,Collision repair revenue,revenue,0.0,5509893.54,SIMULATED
+2026-07,4100,Mechanical service revenue,revenue,0.0,2092621.47,SIMULATED
+2026-07,4200,Detailing revenue,revenue,0.0,312829.8,SIMULATED
+2026-07,4300,Glass repair revenue,revenue,0.0,321281.81,SIMULATED
+2026-07,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,498274.01,SIMULATED
+2026-07,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,69370.48,0.0,SIMULATED
+2026-07,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,297181.76,SIMULATED
+2026-07,5000,"Technician labour (wages, overtime & burden)",cogs,1999414.66,0.0,SIMULATED
+2026-07,5100,Parts cost,cogs,3100685.66,0.0,SIMULATED
+2026-07,5200,Paint & materials cost,cogs,228069.09,0.0,SIMULATED
+2026-07,5300,Subcontracted (sublet) repairs & towing,cogs,100753.78,0.0,SIMULATED
+2026-07,5400,Warranty rework - parts & sublet,cogs,6079.67,0.0,SIMULATED
+2026-07,5450,Interbranch sublet cost (eliminated on consolidation),cogs,297181.76,0.0,SIMULATED
+2026-07,5500,Inventory adjustments & obsolescence,cogs,210.76,0.0,SIMULATED
+2026-07,6000,"Wages - branch management, estimators, advisors & parts",opex,704904.41,0.0,SIMULATED
+2026-07,6010,Salaries - group management & administration,opex,283640.07,0.0,SIMULATED
+2026-07,6100,Rent,opex,516127.85,0.0,SIMULATED
+2026-07,6105,Common-area & property tax charges,opex,121791.32,0.0,SIMULATED
+2026-07,6110,Utilities,opex,77231.64,0.0,SIMULATED
+2026-07,6200,Marketing & advertising,opex,69369.59,0.0,SIMULATED
+2026-07,6300,Insurance (garage liability & property),opex,63197.82,0.0,SIMULATED
+2026-07,6310,Professional fees,opex,28477.86,0.0,SIMULATED
+2026-07,6320,"Software & IT (shop management, estimating)",opex,48270.95,0.0,SIMULATED
+2026-07,6330,Collision network & OEM certification fees,opex,51241.47,0.0,SIMULATED
+2026-07,6340,Training & certification,opex,23445.89,0.0,SIMULATED
+2026-07,6400,Shop supplies & equipment maintenance,opex,208253.49,0.0,SIMULATED
+2026-07,6410,"Courtesy vehicles, shuttle & concierge",opex,46785.69,0.0,SIMULATED
+2026-07,6420,Courier & waste disposal,opex,29809.05,0.0,SIMULATED
+2026-07,6430,Card processing fees,opex,61258.01,0.0,SIMULATED
+2026-07,6900,Depreciation,opex,157887.53,0.0,SIMULATED
+2026-07,7000,Interest - term loans,other_exp,20983.62,0.0,SIMULATED
+2026-07,8000,Income tax expense,tax,105057.26,0.0,SIMULATED
+2026-08,1000,Cash - operating account,asset,1300367.5,0.0,SIMULATED
+2026-08,1100,Card & debit processor receivable,asset,23457.45,0.0,SIMULATED
+2026-08,1110,Insurer receivables (direct billing),asset,647790.93,0.0,SIMULATED
+2026-08,1120,Fleet & commercial account receivables,asset,41631.27,0.0,SIMULATED
+2026-08,1200,Parts inventory - stocked,asset,68943.76,0.0,SIMULATED
+2026-08,1210,Special-order parts received for open jobs,asset,61147.68,0.0,SIMULATED
+2026-08,1220,"Paint, refinish & detailing materials",asset,18852.56,0.0,SIMULATED
+2026-08,1250,Work in progress - unbilled repair jobs (at cost),asset,131430.98,0.0,SIMULATED
+2026-08,1300,Prepaid expenses,asset,36113.04,0.0,SIMULATED
+2026-08,1400,GST input tax credits,asset,62300.34,0.0,SIMULATED
+2026-08,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-08,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1317000.0,0.0,SIMULATED
+2026-08,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-08,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-08,1590,Accumulated depreciation,contra_asset,0.0,1582464.2,SIMULATED
+2026-08,2000,Accounts payable - parts & materials suppliers,liability,0.0,475598.81,SIMULATED
+2026-08,2010,Accounts payable - sublet & operating vendors,liability,0.0,105098.39,SIMULATED
+2026-08,2100,Accrued payroll,liability,0.0,216752.45,SIMULATED
+2026-08,2300,GST collected,liability,0.0,116408.24,SIMULATED
+2026-08,2400,Income tax payable,liability,0.0,122583.22,SIMULATED
+2026-08,2700,Term loans,liability,0.0,462500.0,SIMULATED
+2026-08,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-08,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-08,4000,Collision repair revenue,revenue,0.0,6267350.47,SIMULATED
+2026-08,4100,Mechanical service revenue,revenue,0.0,2340925.82,SIMULATED
+2026-08,4200,Detailing revenue,revenue,0.0,366165.4,SIMULATED
+2026-08,4300,Glass repair revenue,revenue,0.0,390833.37,SIMULATED
+2026-08,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,572614.64,SIMULATED
+2026-08,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,79076.71,0.0,SIMULATED
+2026-08,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,366287.21,SIMULATED
+2026-08,5000,"Technician labour (wages, overtime & burden)",cogs,2292122.89,0.0,SIMULATED
+2026-08,5100,Parts cost,cogs,3522924.67,0.0,SIMULATED
+2026-08,5200,Paint & materials cost,cogs,260140.13,0.0,SIMULATED
+2026-08,5300,Subcontracted (sublet) repairs & towing,cogs,112551.58,0.0,SIMULATED
+2026-08,5400,Warranty rework - parts & sublet,cogs,8895.18,0.0,SIMULATED
+2026-08,5450,Interbranch sublet cost (eliminated on consolidation),cogs,366287.21,0.0,SIMULATED
+2026-08,5500,Inventory adjustments & obsolescence,cogs,210.76,0.0,SIMULATED
+2026-08,6000,"Wages - branch management, estimators, advisors & parts",opex,805605.04,0.0,SIMULATED
+2026-08,6010,Salaries - group management & administration,opex,324160.08,0.0,SIMULATED
+2026-08,6100,Rent,opex,589860.4,0.0,SIMULATED
+2026-08,6105,Common-area & property tax charges,opex,139190.08,0.0,SIMULATED
+2026-08,6110,Utilities,opex,85687.76,0.0,SIMULATED
+2026-08,6200,Marketing & advertising,opex,78894.42,0.0,SIMULATED
+2026-08,6300,Insurance (garage liability & property),opex,72226.08,0.0,SIMULATED
+2026-08,6310,Professional fees,opex,32988.85,0.0,SIMULATED
+2026-08,6320,"Software & IT (shop management, estimating)",opex,55166.8,0.0,SIMULATED
+2026-08,6330,Collision network & OEM certification fees,opex,58561.68,0.0,SIMULATED
+2026-08,6340,Training & certification,opex,26204.23,0.0,SIMULATED
+2026-08,6400,Shop supplies & equipment maintenance,opex,237848.99,0.0,SIMULATED
+2026-08,6410,"Courtesy vehicles, shuttle & concierge",opex,53469.36,0.0,SIMULATED
+2026-08,6420,Courier & waste disposal,opex,34041.52,0.0,SIMULATED
+2026-08,6430,Card processing fees,opex,69463.4,0.0,SIMULATED
+2026-08,6900,Depreciation,opex,181133.37,0.0,SIMULATED
+2026-08,7000,Interest - term loans,other_exp,23625.65,0.0,SIMULATED
+2026-08,8000,Income tax expense,tax,122583.22,0.0,SIMULATED
+2026-09,1000,Cash - operating account,asset,1390234.0,0.0,SIMULATED
+2026-09,1100,Card & debit processor receivable,asset,57024.67,0.0,SIMULATED
+2026-09,1110,Insurer receivables (direct billing),asset,573560.54,0.0,SIMULATED
+2026-09,1120,Fleet & commercial account receivables,asset,53108.15,0.0,SIMULATED
+2026-09,1200,Parts inventory - stocked,asset,61247.14,0.0,SIMULATED
+2026-09,1210,Special-order parts received for open jobs,asset,65151.63,0.0,SIMULATED
+2026-09,1220,"Paint, refinish & detailing materials",asset,11736.47,0.0,SIMULATED
+2026-09,1250,Work in progress - unbilled repair jobs (at cost),asset,115918.75,0.0,SIMULATED
+2026-09,1300,Prepaid expenses,asset,27084.78,0.0,SIMULATED
+2026-09,1400,GST input tax credits,asset,91131.52,0.0,SIMULATED
+2026-09,1500,Leasehold improvements,asset,1290000.0,0.0,SIMULATED
+2026-09,1510,"Shop equipment (paint booths, frame machines, lifts)",asset,1317000.0,0.0,SIMULATED
+2026-09,1520,"Diagnostic, ADAS calibration & IT equipment",asset,211000.0,0.0,SIMULATED
+2026-09,1530,Vehicles (shuttle & courtesy),asset,130000.0,0.0,SIMULATED
+2026-09,1590,Accumulated depreciation,contra_asset,0.0,1605710.04,SIMULATED
+2026-09,2000,Accounts payable - parts & materials suppliers,liability,0.0,418107.2,SIMULATED
+2026-09,2010,Accounts payable - sublet & operating vendors,liability,0.0,108548.74,SIMULATED
+2026-09,2100,Accrued payroll,liability,0.0,211225.52,SIMULATED
+2026-09,2300,GST collected,liability,0.0,172417.44,SIMULATED
+2026-09,2400,Income tax payable,liability,0.0,134250.03,SIMULATED
+2026-09,2700,Term loans,liability,0.0,446250.0,SIMULATED
+2026-09,3000,Share capital,equity,0.0,200000.0,SIMULATED
+2026-09,3200,Retained earnings,equity,0.0,1387373.35,SIMULATED
+2026-09,4000,Collision repair revenue,revenue,0.0,6935225.07,SIMULATED
+2026-09,4100,Mechanical service revenue,revenue,0.0,2601799.3,SIMULATED
+2026-09,4200,Detailing revenue,revenue,0.0,421992.0,SIMULATED
+2026-09,4300,Glass repair revenue,revenue,0.0,444535.72,SIMULATED
+2026-09,4400,"Other service revenue (PDR, paint protection, ADAS, fees)",revenue,0.0,662943.19,SIMULATED
+2026-09,4900,"Discounts, insurer short-pays & adjustments",contra_revenue,87927.8,0.0,SIMULATED
+2026-09,4950,Interbranch service revenue (eliminated on consolidation),revenue,0.0,390840.42,SIMULATED
+2026-09,5000,"Technician labour (wages, overtime & burden)",cogs,2578143.44,0.0,SIMULATED
+2026-09,5100,Parts cost,cogs,3900168.65,0.0,SIMULATED
+2026-09,5200,Paint & materials cost,cogs,290272.92,0.0,SIMULATED
+2026-09,5300,Subcontracted (sublet) repairs & towing,cogs,130024.68,0.0,SIMULATED
+2026-09,5400,Warranty rework - parts & sublet,cogs,10626.95,0.0,SIMULATED
+2026-09,5450,Interbranch sublet cost (eliminated on consolidation),cogs,390840.42,0.0,SIMULATED
+2026-09,5500,Inventory adjustments & obsolescence,cogs,376.27,0.0,SIMULATED
+2026-09,6000,"Wages - branch management, estimators, advisors & parts",opex,906305.67,0.0,SIMULATED
+2026-09,6010,Salaries - group management & administration,opex,364680.09,0.0,SIMULATED
+2026-09,6100,Rent,opex,663592.95,0.0,SIMULATED
+2026-09,6105,Common-area & property tax charges,opex,156588.84,0.0,SIMULATED
+2026-09,6110,Utilities,opex,94274.34,0.0,SIMULATED
+2026-09,6200,Marketing & advertising,opex,88297.07,0.0,SIMULATED
+2026-09,6300,Insurance (garage liability & property),opex,81254.34,0.0,SIMULATED
+2026-09,6310,Professional fees,opex,36534.63,0.0,SIMULATED
+2026-09,6320,"Software & IT (shop management, estimating)",opex,62062.65,0.0,SIMULATED
+2026-09,6330,Collision network & OEM certification fees,opex,65881.89,0.0,SIMULATED
+2026-09,6340,Training & certification,opex,28962.57,0.0,SIMULATED
+2026-09,6400,Shop supplies & equipment maintenance,opex,268352.24,0.0,SIMULATED
+2026-09,6410,"Courtesy vehicles, shuttle & concierge",opex,60153.03,0.0,SIMULATED
+2026-09,6420,Courier & waste disposal,opex,38615.69,0.0,SIMULATED
+2026-09,6430,Card processing fees,opex,78275.22,0.0,SIMULATED
+2026-09,6900,Depreciation,opex,204379.21,0.0,SIMULATED
+2026-09,7000,Interest - term loans,other_exp,26178.78,0.0,SIMULATED
+2026-09,8000,Income tax expense,tax,134250.03,0.0,SIMULATED

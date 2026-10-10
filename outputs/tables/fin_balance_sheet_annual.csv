@@ -1,0 +1,29 @@
+key,2024,2025,2026,label,data_status
+cash,846954.72,643396.37,1390234.0,Cash,SIMULATED
+ar_insurer,363070.71,515688.02,573560.54,Insurer receivables (direct billing),SIMULATED
+ar_other,51204.67,46911.99,110132.82,Card settlements & fleet receivables,SIMULATED
+inventory,132711.05,253208.02,126398.77,Parts inventory (stocked & special-order),SIMULATED
+materials,13477.03,19198.39,11736.47,Paint & detailing materials,SIMULATED
+wip,115167.66,215178.21,115918.75,Work in progress - unbilled repair jobs (at cost),SIMULATED
+prepaid,0.0,-0.0,27084.78,Prepaid expenses,SIMULATED
+gst_rec,0.0,0.0,0.0,GST recoverable,SIMULATED
+current_assets,1522585.84,1693581.0,2355066.13,Total current assets,SIMULATED
+ppe_gross,2138000.0,2811000.0,2948000.0,Fixed assets at cost,SIMULATED
+acc_dep,-1149747.48,-1401330.83,-1605710.04,Accumulated depreciation,SIMULATED
+ppe_net,988252.52,1409669.17,1342289.96,Net fixed assets,SIMULATED
+total_assets,2510838.36,3103250.17,3697356.09,TOTAL ASSETS,SIMULATED
+ap,424657.37,639637.88,526655.94,"Accounts payable (suppliers, sublet & vendors)",SIMULATED
+accrued,147092.05,209720.11,211225.52,Accrued payroll,SIMULATED
+gst_pay,56890.71,58397.67,81285.92,GST payable,SIMULATED
+tax_payable,56214.24,15621.16,134250.03,Income taxes payable,SIMULATED
+revolver,-0.0,-0.0,-0.0,Revolving line of credit,SIMULATED
+term_current,172500.0,195000.0,195000.0,Current portion of term loans,SIMULATED
+current_liabilities,857354.37,1118376.82,1148417.41,Total current liabilities,SIMULATED
+term_lt,142500.0,397500.0,251250.0,Term loans (non-current),SIMULATED
+total_liabilities,999854.37,1515876.82,1399667.41,TOTAL LIABILITIES,SIMULATED
+share_capital,200000.0,200000.0,200000.0,Share capital,SIMULATED
+retained,1310983.99,1387373.35,1387373.35,Retained earnings,SIMULATED
+cpe,-0.0,-0.0,710315.33,Current-year earnings,SIMULATED
+total_equity,1510983.99,1587373.35,2297688.68,TOTAL EQUITY,SIMULATED
+total_le,2510838.36,3103250.17,3697356.09,TOTAL LIABILITIES AND EQUITY,SIMULATED
+check,0.0,0.0,-0.0,Check: assets - liabilities - equity,SIMULATED

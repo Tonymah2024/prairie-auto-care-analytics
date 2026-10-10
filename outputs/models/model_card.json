@@ -1,0 +1,65 @@
+{
+ "models": [
+  [
+   "revenue_total",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "revenue_collision",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "revenue_mechanical",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "revenue_detailing",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "revenue_glass",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "revenue_other",
+   "Seasonal naive"
+  ],
+  [
+   "ros_collision",
+   "SARIMAX"
+  ],
+  [
+   "ros_mechanical",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "ros_detailing",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "ros_glass",
+   "XGBoost"
+  ],
+  [
+   "ros_other",
+   "Recent level x seasonal index"
+  ],
+  [
+   "billed_hours_collision",
+   "Seasonal naive"
+  ],
+  [
+   "billed_hours_mechanical",
+   "Holt-Winters (damped)"
+  ],
+  [
+   "tech_available_hours_collision",
+   "Headcount x seasonal hours (model)"
+  ],
+  [
+   "tech_available_hours_mechanical",
+   "Headcount x seasonal hours (model)"
+  ]
+ ],
+ "disclaimer": "Model performance measured on SYNTHETIC data; it does not establish real-world prediction accuracy."
+}

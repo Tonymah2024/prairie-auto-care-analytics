@@ -1,0 +1,30 @@
+key,2024,2025,2026,label,data_status
+rev_collision,6589833.39,7680612.37,6935225.07,Collision repair revenue,SIMULATED
+rev_mech,2741700.02,3154373.23,2601799.3,Mechanical service revenue,SIMULATED
+rev_detail,146204.0,288568.8,421992.0,Detailing revenue,SIMULATED
+rev_glass,429995.99,487070.38,444535.72,Glass repair revenue,SIMULATED
+rev_other,156605.29,386951.05,662943.19,"Other service revenue (PDR, paint protection, ADAS, fees)",SIMULATED
+gross_rev,10064338.69,11997575.83,11066495.28,Service revenue,SIMULATED
+adjustments,-61867.44,-76494.57,-87927.8,"Less: discounts, insurer short-pays & adjustments",SIMULATED
+net_rev,10002471.25,11921081.26,10978567.48,Total net revenue,SIMULATED
+labour,-2305014.14,-2921898.09,-2578143.44,"Technician labour (wages, overtime & burden)",SIMULATED
+parts,-3719164.87,-4332509.96,-3900168.65,Parts,SIMULATED
+materials,-244902.28,-301831.43,-290272.92,Paint & materials,SIMULATED
+sublet,-132367.02,-164192.64,-130024.68,Subcontractor costs (sublet repairs & towing),SIMULATED
+warranty,-8104.78,-7589.84,-10626.95,Warranty rework - parts & sublet,SIMULATED
+inv_adj,-770.06,-301.76,-376.27,Inventory adjustments & obsolescence,SIMULATED
+cogs,-6410323.15,-7728323.72,-6909612.91,Cost of sales,SIMULATED
+gross_profit,3592148.1,4192757.54,4068954.57,Gross profit,SIMULATED
+staff,-1206840.0,-1563234.09,-1270985.76,Staff compensation (branch & group),SIMULATED
+occupancy,-848834.34,-1159575.25,-914456.13,"Occupancy (rent, CAM & property tax, utilities)",SIMULATED
+marketing,-113867.95,-173461.95,-88297.07,Marketing & advertising,SIMULATED
+g_and_a,-291818.5,-341086.43,-274696.08,"General & administrative (insurance, professional, software, network, training)",SIMULATED
+shop_ops,-402169.19,-518666.94,-445396.18,"Shop operations (supplies, maintenance, courtesy vehicles, courier & waste, card fees)",SIMULATED
+opex,-2863529.98,-3756024.66,-2993831.22,Operating expenses (before depreciation),SIMULATED
+ebitda,728618.12,436732.88,1075123.35,EBITDA,SIMULATED
+da,-190899.99,-251583.35,-204379.21,Depreciation,SIMULATED
+ebit,537718.13,185149.53,870744.14,Operating income (EBIT),SIMULATED
+interest,-32438.81,-43139.01,-26178.78,Interest expense,SIMULATED
+pbt,505279.32,142010.52,844565.36,Income before tax,SIMULATED
+tax,-56214.24,-15621.16,-134250.03,Income taxes,SIMULATED
+net_income,449065.08,126389.36,710315.33,Net income,SIMULATED

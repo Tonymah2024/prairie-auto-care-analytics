@@ -1,0 +1,447 @@
+part_id,part_number,description,part_category,part_type,oem_or_aftermarket,make,standard_unit_cost_2024,unit_list_price_2024,default_supplier_id,stocked_at,data_status
+PRT-00001,STK-00001,Clips & fasteners kit,clips,Stocked,Aftermarket / supplier brand,,18.0,39.6,SUP-02,BR-CCC|BR-NFS|BR-SEC,SYNTHETIC
+PRT-00002,STK-00002,Windshield urethane & primer kit,urethane,Stocked,Aftermarket / supplier brand,,32.0,60.8,SUP-04,BR-CCC|BR-NFS|BR-SEC,SYNTHETIC
+PRT-00003,STK-00003,Glass repair resin kit,resin,Stocked,Aftermarket / supplier brand,,9.0,22.5,SUP-04,BR-CCC|BR-NFS|BR-SEC,SYNTHETIC
+PRT-00004,STK-00004,Synthetic engine oil 0W-20 (L),oil,Stocked,Aftermarket / supplier brand,,7.2,13.68,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00005,STK-00005,Synthetic engine oil 5W-30 (L),oil,Stocked,Aftermarket / supplier brand,,7.0,13.3,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00006,STK-00006,Diesel engine oil 15W-40 (L),oil,Stocked,Aftermarket / supplier brand,,6.4,12.16,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00007,STK-00007,Oil filter type A,filter,Stocked,Aftermarket / supplier brand,,8.5,17.85,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00008,STK-00008,Oil filter type B,filter,Stocked,Aftermarket / supplier brand,,9.5,19.95,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00009,STK-00009,Oil filter type C,filter,Stocked,Aftermarket / supplier brand,,10.5,22.05,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00010,STK-00010,Oil filter type D,filter,Stocked,Aftermarket / supplier brand,,11.5,24.15,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00011,STK-00011,Oil filter type E,filter,Stocked,Aftermarket / supplier brand,,12.5,26.25,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00012,STK-00012,Oil filter type F,filter,Stocked,Aftermarket / supplier brand,,13.5,28.35,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00013,STK-00013,Oil filter type G,filter,Stocked,Aftermarket / supplier brand,,14.5,30.45,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00014,STK-00014,Oil filter type H,filter,Stocked,Aftermarket / supplier brand,,15.5,32.55,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00015,STK-00015,Cabin air filter type A,filter,Stocked,Aftermarket / supplier brand,,14.0,28.0,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00016,STK-00016,Cabin air filter type B,filter,Stocked,Aftermarket / supplier brand,,15.0,30.0,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00017,STK-00017,Cabin air filter type C,filter,Stocked,Aftermarket / supplier brand,,16.0,32.0,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00018,STK-00018,Cabin air filter type D,filter,Stocked,Aftermarket / supplier brand,,17.0,34.0,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00019,STK-00019,Brake pad set front - family A,pads,Stocked,Aftermarket / supplier brand,,58.0,110.2,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00020,STK-00020,Brake pad set rear - family A,pads,Stocked,Aftermarket / supplier brand,,46.0,87.4,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00021,STK-00021,Brake pad set front - family B,pads,Stocked,Aftermarket / supplier brand,,64.0,121.6,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00022,STK-00022,Brake pad set rear - family B,pads,Stocked,Aftermarket / supplier brand,,52.0,98.8,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00023,STK-00023,Brake pad set front - family C,pads,Stocked,Aftermarket / supplier brand,,70.0,133.0,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00024,STK-00024,Brake pad set rear - family C,pads,Stocked,Aftermarket / supplier brand,,58.0,110.2,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00025,STK-00025,Brake pad set front - family D,pads,Stocked,Aftermarket / supplier brand,,76.0,144.4,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00026,STK-00026,Brake pad set rear - family D,pads,Stocked,Aftermarket / supplier brand,,64.0,121.6,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00027,STK-00027,Brake pad set front - family E,pads,Stocked,Aftermarket / supplier brand,,82.0,155.8,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00028,STK-00028,Brake pad set rear - family E,pads,Stocked,Aftermarket / supplier brand,,70.0,133.0,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00029,STK-00029,Brake pad set front - family F,pads,Stocked,Aftermarket / supplier brand,,88.0,167.2,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00030,STK-00030,Brake pad set rear - family F,pads,Stocked,Aftermarket / supplier brand,,76.0,144.4,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00031,STK-00031,Brake rotor - family A,rotors,Stocked,Aftermarket / supplier brand,,72.0,126.0,SUP-06,BR-NFS|BR-CCC,SYNTHETIC
+PRT-00032,STK-00032,Brake rotor - family B,rotors,Stocked,Aftermarket / supplier brand,,81.0,141.75,SUP-06,BR-NFS|BR-CCC,SYNTHETIC
+PRT-00033,STK-00033,Brake rotor - family C,rotors,Stocked,Aftermarket / supplier brand,,90.0,157.5,SUP-06,BR-NFS|BR-CCC,SYNTHETIC
+PRT-00034,STK-00034,Brake rotor - family D,rotors,Stocked,Aftermarket / supplier brand,,99.0,173.25,SUP-06,BR-NFS|BR-CCC,SYNTHETIC
+PRT-00035,STK-00035,Brake rotor - family E,rotors,Stocked,Aftermarket / supplier brand,,108.0,189.0,SUP-06,BR-NFS|BR-CCC,SYNTHETIC
+PRT-00036,STK-00036,Brake rotor - family F,rotors,Stocked,Aftermarket / supplier brand,,117.0,204.75,SUP-06,BR-NFS|BR-CCC,SYNTHETIC
+PRT-00037,STK-00037,"Wiper blade 16""",wipers,Stocked,Aftermarket / supplier brand,,11.0,25.3,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00038,STK-00038,"Wiper blade 18""",wipers,Stocked,Aftermarket / supplier brand,,12.0,27.6,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00039,STK-00039,"Wiper blade 20""",wipers,Stocked,Aftermarket / supplier brand,,13.0,29.9,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00040,STK-00040,"Wiper blade 22""",wipers,Stocked,Aftermarket / supplier brand,,14.0,32.2,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00041,STK-00041,"Wiper blade 24""",wipers,Stocked,Aftermarket / supplier brand,,15.0,34.5,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00042,STK-00042,"Wiper blade 26""",wipers,Stocked,Aftermarket / supplier brand,,16.0,36.8,SUP-06,BR-NFS|BR-SEC|BR-CCC,SYNTHETIC
+PRT-00043,STK-00043,Battery group 35,battery,Stocked,Aftermarket / supplier brand,,135.0,209.25,SUP-06,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00044,STK-00044,Battery group 48,battery,Stocked,Aftermarket / supplier brand,,153.0,237.15,SUP-06,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00045,STK-00045,Battery group 65,battery,Stocked,Aftermarket / supplier brand,,171.0,265.05,SUP-06,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00046,STK-00046,Battery group 94R,battery,Stocked,Aftermarket / supplier brand,,189.0,292.95,SUP-06,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00047,STK-00047,Winter tire 205/55R16,tire,Stocked,Aftermarket / supplier brand,,127.44000000000001,163.12,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00048,STK-00048,All-season tire 205/55R16,tire,Stocked,Aftermarket / supplier brand,,118.0,151.04,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00049,STK-00049,Winter tire 215/60R16,tire,Stocked,Aftermarket / supplier brand,,133.92000000000002,171.42,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00050,STK-00050,All-season tire 215/60R16,tire,Stocked,Aftermarket / supplier brand,,124.0,158.72,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00051,STK-00051,Winter tire 225/65R17,tire,Stocked,Aftermarket / supplier brand,,164.16000000000003,210.12,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00052,STK-00052,All-season tire 225/65R17,tire,Stocked,Aftermarket / supplier brand,,152.0,194.56,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00053,STK-00053,Winter tire 235/65R17,tire,Stocked,Aftermarket / supplier brand,,172.8,221.18,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00054,STK-00054,All-season tire 235/65R17,tire,Stocked,Aftermarket / supplier brand,,160.0,204.8,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00055,STK-00055,Winter tire 225/60R18,tire,Stocked,Aftermarket / supplier brand,,184.68,236.39,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00056,STK-00056,All-season tire 225/60R18,tire,Stocked,Aftermarket / supplier brand,,171.0,218.88,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00057,STK-00057,Winter tire 235/60R18,tire,Stocked,Aftermarket / supplier brand,,192.24,246.07,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00058,STK-00058,All-season tire 235/60R18,tire,Stocked,Aftermarket / supplier brand,,178.0,227.84,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00059,STK-00059,Winter tire 245/60R18,tire,Stocked,Aftermarket / supplier brand,,200.88000000000002,257.13,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00060,STK-00060,All-season tire 245/60R18,tire,Stocked,Aftermarket / supplier brand,,186.0,238.08,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00061,STK-00061,Winter tire 265/70R17,tire,Stocked,Aftermarket / supplier brand,,221.4,283.39,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00062,STK-00062,All-season tire 265/70R17,tire,Stocked,Aftermarket / supplier brand,,205.0,262.4,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00063,STK-00063,Winter tire 275/65R18,tire,Stocked,Aftermarket / supplier brand,,241.92000000000002,309.66,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00064,STK-00064,All-season tire 275/65R18,tire,Stocked,Aftermarket / supplier brand,,224.0,286.72,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00065,STK-00065,Winter tire 275/55R20,tire,Stocked,Aftermarket / supplier brand,,267.84000000000003,342.84,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00066,STK-00066,All-season tire 275/55R20,tire,Stocked,Aftermarket / supplier brand,,248.0,317.44,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00067,STK-00067,TPMS sensor,tpms,Stocked,Aftermarket / supplier brand,,46.0,87.4,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00068,STK-00068,Valve stem & TPMS service kit,tpms,Stocked,Aftermarket / supplier brand,,6.0,18.0,SUP-05,BR-NFS|BR-SEC,SYNTHETIC
+PRT-00069,STK-00069,Paint protection film (per metre),ppf,Stocked,Aftermarket / supplier brand,,58.0,116.0,SUP-07,BR-SEC|BR-CCC|BR-NFS,SYNTHETIC
+PRT-00070,STK-00070,Ceramic coating kit,ppf,Stocked,Aftermarket / supplier brand,,85.0,204.0,SUP-07,BR-SEC|BR-CCC|BR-NFS,SYNTHETIC
+PRT-00071,SO-TOY-00071,Toyota front bumper cover,Front bumper cover,Special order,OEM,Toyota,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00072,SO-TOY-00072,Toyota rear bumper cover,Rear bumper cover,Special order,OEM,Toyota,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00073,SO-TOY-00073,Toyota bumper reinforcement,Bumper reinforcement,Special order,OEM,Toyota,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00074,SO-TOY-00074,Toyota grille assembly,Grille assembly,Special order,OEM,Toyota,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00075,SO-TOY-00075,Toyota headlamp assembly,Headlamp assembly,Special order,OEM,Toyota,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00076,SO-TOY-00076,Toyota tail lamp assembly,Tail lamp assembly,Special order,OEM,Toyota,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00077,SO-TOY-00077,Toyota fender,Fender,Special order,OEM,Toyota,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00078,SO-TOY-00078,Toyota hood panel,Hood panel,Special order,OEM,Toyota,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00079,SO-TOY-00079,Toyota door shell,Door shell,Special order,OEM,Toyota,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00080,SO-TOY-00080,Toyota door mirror assembly,Door mirror assembly,Special order,OEM,Toyota,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00081,SO-TOY-00081,Toyota quarter panel,Quarter panel,Special order,OEM,Toyota,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00082,SO-TOY-00082,Toyota radiator support,Radiator support,Special order,OEM,Toyota,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00083,SO-TOY-00083,Toyota radiator & condenser,Radiator & condenser,Special order,OEM,Toyota,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00084,SO-TOY-00084,Toyota airbag module,Airbag module,Special order,OEM,Toyota,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00085,SO-TOY-00085,Toyota radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Toyota,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00086,SO-TOY-00086,Toyota camera bracket & trim,Camera bracket & trim,Special order,OEM,Toyota,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00087,SO-TOY-00087,Toyota suspension arm,Suspension arm,Special order,OEM,Toyota,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00088,SO-TOY-00088,Toyota wheel / rim,Wheel / rim,Special order,OEM,Toyota,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00089,SO-TOY-00089,Toyota alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Toyota,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00090,SO-TOY-00090,Toyota strut assembly,Strut assembly,Special order,Aftermarket / certified,Toyota,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00091,SO-TOY-00091,Toyota windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Toyota,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00092,SO-TOY-00092,Toyota tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Toyota,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00093,SO-FOR-00093,Ford front bumper cover,Front bumper cover,Special order,OEM,Ford,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00094,SO-FOR-00094,Ford rear bumper cover,Rear bumper cover,Special order,OEM,Ford,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00095,SO-FOR-00095,Ford bumper reinforcement,Bumper reinforcement,Special order,OEM,Ford,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00096,SO-FOR-00096,Ford grille assembly,Grille assembly,Special order,OEM,Ford,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00097,SO-FOR-00097,Ford headlamp assembly,Headlamp assembly,Special order,OEM,Ford,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00098,SO-FOR-00098,Ford tail lamp assembly,Tail lamp assembly,Special order,OEM,Ford,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00099,SO-FOR-00099,Ford fender,Fender,Special order,OEM,Ford,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00100,SO-FOR-00100,Ford hood panel,Hood panel,Special order,OEM,Ford,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00101,SO-FOR-00101,Ford door shell,Door shell,Special order,OEM,Ford,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00102,SO-FOR-00102,Ford door mirror assembly,Door mirror assembly,Special order,OEM,Ford,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00103,SO-FOR-00103,Ford quarter panel,Quarter panel,Special order,OEM,Ford,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00104,SO-FOR-00104,Ford radiator support,Radiator support,Special order,OEM,Ford,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00105,SO-FOR-00105,Ford radiator & condenser,Radiator & condenser,Special order,OEM,Ford,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00106,SO-FOR-00106,Ford airbag module,Airbag module,Special order,OEM,Ford,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00107,SO-FOR-00107,Ford radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Ford,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00108,SO-FOR-00108,Ford camera bracket & trim,Camera bracket & trim,Special order,OEM,Ford,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00109,SO-FOR-00109,Ford suspension arm,Suspension arm,Special order,OEM,Ford,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00110,SO-FOR-00110,Ford wheel / rim,Wheel / rim,Special order,OEM,Ford,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00111,SO-FOR-00111,Ford alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Ford,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00112,SO-FOR-00112,Ford strut assembly,Strut assembly,Special order,Aftermarket / certified,Ford,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00113,SO-FOR-00113,Ford windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Ford,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00114,SO-FOR-00114,Ford tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Ford,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00115,SO-HON-00115,Honda front bumper cover,Front bumper cover,Special order,OEM,Honda,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00116,SO-HON-00116,Honda rear bumper cover,Rear bumper cover,Special order,OEM,Honda,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00117,SO-HON-00117,Honda bumper reinforcement,Bumper reinforcement,Special order,OEM,Honda,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00118,SO-HON-00118,Honda grille assembly,Grille assembly,Special order,OEM,Honda,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00119,SO-HON-00119,Honda headlamp assembly,Headlamp assembly,Special order,OEM,Honda,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00120,SO-HON-00120,Honda tail lamp assembly,Tail lamp assembly,Special order,OEM,Honda,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00121,SO-HON-00121,Honda fender,Fender,Special order,OEM,Honda,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00122,SO-HON-00122,Honda hood panel,Hood panel,Special order,OEM,Honda,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00123,SO-HON-00123,Honda door shell,Door shell,Special order,OEM,Honda,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00124,SO-HON-00124,Honda door mirror assembly,Door mirror assembly,Special order,OEM,Honda,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00125,SO-HON-00125,Honda quarter panel,Quarter panel,Special order,OEM,Honda,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00126,SO-HON-00126,Honda radiator support,Radiator support,Special order,OEM,Honda,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00127,SO-HON-00127,Honda radiator & condenser,Radiator & condenser,Special order,OEM,Honda,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00128,SO-HON-00128,Honda airbag module,Airbag module,Special order,OEM,Honda,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00129,SO-HON-00129,Honda radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Honda,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00130,SO-HON-00130,Honda camera bracket & trim,Camera bracket & trim,Special order,OEM,Honda,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00131,SO-HON-00131,Honda suspension arm,Suspension arm,Special order,OEM,Honda,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00132,SO-HON-00132,Honda wheel / rim,Wheel / rim,Special order,OEM,Honda,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00133,SO-HON-00133,Honda alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Honda,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00134,SO-HON-00134,Honda strut assembly,Strut assembly,Special order,Aftermarket / certified,Honda,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00135,SO-HON-00135,Honda windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Honda,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00136,SO-HON-00136,Honda tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Honda,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00137,SO-CHE-00137,Chevrolet front bumper cover,Front bumper cover,Special order,OEM,Chevrolet,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00138,SO-CHE-00138,Chevrolet rear bumper cover,Rear bumper cover,Special order,OEM,Chevrolet,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00139,SO-CHE-00139,Chevrolet bumper reinforcement,Bumper reinforcement,Special order,OEM,Chevrolet,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00140,SO-CHE-00140,Chevrolet grille assembly,Grille assembly,Special order,OEM,Chevrolet,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00141,SO-CHE-00141,Chevrolet headlamp assembly,Headlamp assembly,Special order,OEM,Chevrolet,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00142,SO-CHE-00142,Chevrolet tail lamp assembly,Tail lamp assembly,Special order,OEM,Chevrolet,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00143,SO-CHE-00143,Chevrolet fender,Fender,Special order,OEM,Chevrolet,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00144,SO-CHE-00144,Chevrolet hood panel,Hood panel,Special order,OEM,Chevrolet,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00145,SO-CHE-00145,Chevrolet door shell,Door shell,Special order,OEM,Chevrolet,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00146,SO-CHE-00146,Chevrolet door mirror assembly,Door mirror assembly,Special order,OEM,Chevrolet,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00147,SO-CHE-00147,Chevrolet quarter panel,Quarter panel,Special order,OEM,Chevrolet,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00148,SO-CHE-00148,Chevrolet radiator support,Radiator support,Special order,OEM,Chevrolet,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00149,SO-CHE-00149,Chevrolet radiator & condenser,Radiator & condenser,Special order,OEM,Chevrolet,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00150,SO-CHE-00150,Chevrolet airbag module,Airbag module,Special order,OEM,Chevrolet,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00151,SO-CHE-00151,Chevrolet radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Chevrolet,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00152,SO-CHE-00152,Chevrolet camera bracket & trim,Camera bracket & trim,Special order,OEM,Chevrolet,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00153,SO-CHE-00153,Chevrolet suspension arm,Suspension arm,Special order,OEM,Chevrolet,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00154,SO-CHE-00154,Chevrolet wheel / rim,Wheel / rim,Special order,OEM,Chevrolet,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00155,SO-CHE-00155,Chevrolet alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Chevrolet,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00156,SO-CHE-00156,Chevrolet strut assembly,Strut assembly,Special order,Aftermarket / certified,Chevrolet,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00157,SO-CHE-00157,Chevrolet windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Chevrolet,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00158,SO-CHE-00158,Chevrolet tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Chevrolet,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00159,SO-RAM-00159,Ram front bumper cover,Front bumper cover,Special order,OEM,Ram,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00160,SO-RAM-00160,Ram rear bumper cover,Rear bumper cover,Special order,OEM,Ram,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00161,SO-RAM-00161,Ram bumper reinforcement,Bumper reinforcement,Special order,OEM,Ram,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00162,SO-RAM-00162,Ram grille assembly,Grille assembly,Special order,OEM,Ram,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00163,SO-RAM-00163,Ram headlamp assembly,Headlamp assembly,Special order,OEM,Ram,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00164,SO-RAM-00164,Ram tail lamp assembly,Tail lamp assembly,Special order,OEM,Ram,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00165,SO-RAM-00165,Ram fender,Fender,Special order,OEM,Ram,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00166,SO-RAM-00166,Ram hood panel,Hood panel,Special order,OEM,Ram,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00167,SO-RAM-00167,Ram door shell,Door shell,Special order,OEM,Ram,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00168,SO-RAM-00168,Ram door mirror assembly,Door mirror assembly,Special order,OEM,Ram,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00169,SO-RAM-00169,Ram quarter panel,Quarter panel,Special order,OEM,Ram,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00170,SO-RAM-00170,Ram radiator support,Radiator support,Special order,OEM,Ram,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00171,SO-RAM-00171,Ram radiator & condenser,Radiator & condenser,Special order,OEM,Ram,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00172,SO-RAM-00172,Ram airbag module,Airbag module,Special order,OEM,Ram,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00173,SO-RAM-00173,Ram radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Ram,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00174,SO-RAM-00174,Ram camera bracket & trim,Camera bracket & trim,Special order,OEM,Ram,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00175,SO-RAM-00175,Ram suspension arm,Suspension arm,Special order,OEM,Ram,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00176,SO-RAM-00176,Ram wheel / rim,Wheel / rim,Special order,OEM,Ram,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00177,SO-RAM-00177,Ram alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Ram,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00178,SO-RAM-00178,Ram strut assembly,Strut assembly,Special order,Aftermarket / certified,Ram,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00179,SO-RAM-00179,Ram windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Ram,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00180,SO-RAM-00180,Ram tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Ram,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00181,SO-HYU-00181,Hyundai front bumper cover,Front bumper cover,Special order,OEM,Hyundai,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00182,SO-HYU-00182,Hyundai rear bumper cover,Rear bumper cover,Special order,OEM,Hyundai,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00183,SO-HYU-00183,Hyundai bumper reinforcement,Bumper reinforcement,Special order,OEM,Hyundai,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00184,SO-HYU-00184,Hyundai grille assembly,Grille assembly,Special order,OEM,Hyundai,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00185,SO-HYU-00185,Hyundai headlamp assembly,Headlamp assembly,Special order,OEM,Hyundai,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00186,SO-HYU-00186,Hyundai tail lamp assembly,Tail lamp assembly,Special order,OEM,Hyundai,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00187,SO-HYU-00187,Hyundai fender,Fender,Special order,OEM,Hyundai,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00188,SO-HYU-00188,Hyundai hood panel,Hood panel,Special order,OEM,Hyundai,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00189,SO-HYU-00189,Hyundai door shell,Door shell,Special order,OEM,Hyundai,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00190,SO-HYU-00190,Hyundai door mirror assembly,Door mirror assembly,Special order,OEM,Hyundai,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00191,SO-HYU-00191,Hyundai quarter panel,Quarter panel,Special order,OEM,Hyundai,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00192,SO-HYU-00192,Hyundai radiator support,Radiator support,Special order,OEM,Hyundai,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00193,SO-HYU-00193,Hyundai radiator & condenser,Radiator & condenser,Special order,OEM,Hyundai,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00194,SO-HYU-00194,Hyundai airbag module,Airbag module,Special order,OEM,Hyundai,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00195,SO-HYU-00195,Hyundai radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Hyundai,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00196,SO-HYU-00196,Hyundai camera bracket & trim,Camera bracket & trim,Special order,OEM,Hyundai,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00197,SO-HYU-00197,Hyundai suspension arm,Suspension arm,Special order,OEM,Hyundai,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00198,SO-HYU-00198,Hyundai wheel / rim,Wheel / rim,Special order,OEM,Hyundai,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00199,SO-HYU-00199,Hyundai alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Hyundai,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00200,SO-HYU-00200,Hyundai strut assembly,Strut assembly,Special order,Aftermarket / certified,Hyundai,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00201,SO-HYU-00201,Hyundai windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Hyundai,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00202,SO-HYU-00202,Hyundai tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Hyundai,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00203,SO-KIA-00203,Kia front bumper cover,Front bumper cover,Special order,OEM,Kia,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00204,SO-KIA-00204,Kia rear bumper cover,Rear bumper cover,Special order,OEM,Kia,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00205,SO-KIA-00205,Kia bumper reinforcement,Bumper reinforcement,Special order,OEM,Kia,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00206,SO-KIA-00206,Kia grille assembly,Grille assembly,Special order,OEM,Kia,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00207,SO-KIA-00207,Kia headlamp assembly,Headlamp assembly,Special order,OEM,Kia,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00208,SO-KIA-00208,Kia tail lamp assembly,Tail lamp assembly,Special order,OEM,Kia,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00209,SO-KIA-00209,Kia fender,Fender,Special order,OEM,Kia,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00210,SO-KIA-00210,Kia hood panel,Hood panel,Special order,OEM,Kia,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00211,SO-KIA-00211,Kia door shell,Door shell,Special order,OEM,Kia,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00212,SO-KIA-00212,Kia door mirror assembly,Door mirror assembly,Special order,OEM,Kia,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00213,SO-KIA-00213,Kia quarter panel,Quarter panel,Special order,OEM,Kia,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00214,SO-KIA-00214,Kia radiator support,Radiator support,Special order,OEM,Kia,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00215,SO-KIA-00215,Kia radiator & condenser,Radiator & condenser,Special order,OEM,Kia,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00216,SO-KIA-00216,Kia airbag module,Airbag module,Special order,OEM,Kia,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00217,SO-KIA-00217,Kia radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Kia,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00218,SO-KIA-00218,Kia camera bracket & trim,Camera bracket & trim,Special order,OEM,Kia,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00219,SO-KIA-00219,Kia suspension arm,Suspension arm,Special order,OEM,Kia,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00220,SO-KIA-00220,Kia wheel / rim,Wheel / rim,Special order,OEM,Kia,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00221,SO-KIA-00221,Kia alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Kia,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00222,SO-KIA-00222,Kia strut assembly,Strut assembly,Special order,Aftermarket / certified,Kia,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00223,SO-KIA-00223,Kia windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Kia,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00224,SO-KIA-00224,Kia tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Kia,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00225,SO-GEN-00225,Genesis front bumper cover,Front bumper cover,Special order,OEM,Genesis,268.0,375.2,SUP-08,,SYNTHETIC
+PRT-00226,SO-GEN-00226,Genesis rear bumper cover,Rear bumper cover,Special order,OEM,Genesis,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00227,SO-GEN-00227,Genesis bumper reinforcement,Bumper reinforcement,Special order,OEM,Genesis,166.0,232.4,SUP-08,,SYNTHETIC
+PRT-00228,SO-GEN-00228,Genesis grille assembly,Grille assembly,Special order,OEM,Genesis,197.0,275.8,SUP-08,,SYNTHETIC
+PRT-00229,SO-GEN-00229,Genesis headlamp assembly,Headlamp assembly,Special order,OEM,Genesis,440.0,616.0,SUP-08,,SYNTHETIC
+PRT-00230,SO-GEN-00230,Genesis tail lamp assembly,Tail lamp assembly,Special order,OEM,Genesis,211.0,295.4,SUP-08,,SYNTHETIC
+PRT-00231,SO-GEN-00231,Genesis fender,Fender,Special order,OEM,Genesis,217.0,303.8,SUP-08,,SYNTHETIC
+PRT-00232,SO-GEN-00232,Genesis hood panel,Hood panel,Special order,OEM,Genesis,395.0,553.0,SUP-08,,SYNTHETIC
+PRT-00233,SO-GEN-00233,Genesis door shell,Door shell,Special order,OEM,Genesis,497.0,695.8,SUP-08,,SYNTHETIC
+PRT-00234,SO-GEN-00234,Genesis door mirror assembly,Door mirror assembly,Special order,OEM,Genesis,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00235,SO-GEN-00235,Genesis quarter panel,Quarter panel,Special order,OEM,Genesis,542.0,758.8,SUP-08,,SYNTHETIC
+PRT-00236,SO-GEN-00236,Genesis radiator support,Radiator support,Special order,OEM,Genesis,306.0,428.4,SUP-08,,SYNTHETIC
+PRT-00237,SO-GEN-00237,Genesis radiator & condenser,Radiator & condenser,Special order,OEM,Genesis,408.0,571.2,SUP-08,,SYNTHETIC
+PRT-00238,SO-GEN-00238,Genesis airbag module,Airbag module,Special order,OEM,Genesis,625.0,812.5,SUP-08,,SYNTHETIC
+PRT-00239,SO-GEN-00239,Genesis radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Genesis,733.0,952.9,SUP-08,,SYNTHETIC
+PRT-00240,SO-GEN-00240,Genesis camera bracket & trim,Camera bracket & trim,Special order,OEM,Genesis,89.0,124.6,SUP-08,,SYNTHETIC
+PRT-00241,SO-GEN-00241,Genesis suspension arm,Suspension arm,Special order,OEM,Genesis,185.0,259.0,SUP-08,,SYNTHETIC
+PRT-00242,SO-GEN-00242,Genesis wheel / rim,Wheel / rim,Special order,OEM,Genesis,332.0,464.8,SUP-08,,SYNTHETIC
+PRT-00243,SO-GEN-00243,Genesis alternator / starter,Alternator / starter,Special order,OEM,Genesis,274.0,389.08,SUP-08,,SYNTHETIC
+PRT-00244,SO-GEN-00244,Genesis strut assembly,Strut assembly,Special order,OEM,Genesis,230.0,326.6,SUP-08,,SYNTHETIC
+PRT-00245,SO-GEN-00245,Genesis windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Genesis,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00246,SO-GEN-00246,Genesis tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Genesis,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00247,SO-NIS-00247,Nissan front bumper cover,Front bumper cover,Special order,OEM,Nissan,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00248,SO-NIS-00248,Nissan rear bumper cover,Rear bumper cover,Special order,OEM,Nissan,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00249,SO-NIS-00249,Nissan bumper reinforcement,Bumper reinforcement,Special order,OEM,Nissan,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00250,SO-NIS-00250,Nissan grille assembly,Grille assembly,Special order,OEM,Nissan,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00251,SO-NIS-00251,Nissan headlamp assembly,Headlamp assembly,Special order,OEM,Nissan,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00252,SO-NIS-00252,Nissan tail lamp assembly,Tail lamp assembly,Special order,OEM,Nissan,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00253,SO-NIS-00253,Nissan fender,Fender,Special order,OEM,Nissan,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00254,SO-NIS-00254,Nissan hood panel,Hood panel,Special order,OEM,Nissan,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00255,SO-NIS-00255,Nissan door shell,Door shell,Special order,OEM,Nissan,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00256,SO-NIS-00256,Nissan door mirror assembly,Door mirror assembly,Special order,OEM,Nissan,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00257,SO-NIS-00257,Nissan quarter panel,Quarter panel,Special order,OEM,Nissan,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00258,SO-NIS-00258,Nissan radiator support,Radiator support,Special order,OEM,Nissan,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00259,SO-NIS-00259,Nissan radiator & condenser,Radiator & condenser,Special order,OEM,Nissan,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00260,SO-NIS-00260,Nissan airbag module,Airbag module,Special order,OEM,Nissan,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00261,SO-NIS-00261,Nissan radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Nissan,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00262,SO-NIS-00262,Nissan camera bracket & trim,Camera bracket & trim,Special order,OEM,Nissan,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00263,SO-NIS-00263,Nissan suspension arm,Suspension arm,Special order,OEM,Nissan,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00264,SO-NIS-00264,Nissan wheel / rim,Wheel / rim,Special order,OEM,Nissan,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00265,SO-NIS-00265,Nissan alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Nissan,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00266,SO-NIS-00266,Nissan strut assembly,Strut assembly,Special order,Aftermarket / certified,Nissan,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00267,SO-NIS-00267,Nissan windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Nissan,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00268,SO-NIS-00268,Nissan tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Nissan,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00269,SO-MAZ-00269,Mazda front bumper cover,Front bumper cover,Special order,OEM,Mazda,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00270,SO-MAZ-00270,Mazda rear bumper cover,Rear bumper cover,Special order,OEM,Mazda,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00271,SO-MAZ-00271,Mazda bumper reinforcement,Bumper reinforcement,Special order,OEM,Mazda,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00272,SO-MAZ-00272,Mazda grille assembly,Grille assembly,Special order,OEM,Mazda,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00273,SO-MAZ-00273,Mazda headlamp assembly,Headlamp assembly,Special order,OEM,Mazda,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00274,SO-MAZ-00274,Mazda tail lamp assembly,Tail lamp assembly,Special order,OEM,Mazda,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00275,SO-MAZ-00275,Mazda fender,Fender,Special order,OEM,Mazda,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00276,SO-MAZ-00276,Mazda hood panel,Hood panel,Special order,OEM,Mazda,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00277,SO-MAZ-00277,Mazda door shell,Door shell,Special order,OEM,Mazda,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00278,SO-MAZ-00278,Mazda door mirror assembly,Door mirror assembly,Special order,OEM,Mazda,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00279,SO-MAZ-00279,Mazda quarter panel,Quarter panel,Special order,OEM,Mazda,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00280,SO-MAZ-00280,Mazda radiator support,Radiator support,Special order,OEM,Mazda,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00281,SO-MAZ-00281,Mazda radiator & condenser,Radiator & condenser,Special order,OEM,Mazda,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00282,SO-MAZ-00282,Mazda airbag module,Airbag module,Special order,OEM,Mazda,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00283,SO-MAZ-00283,Mazda radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Mazda,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00284,SO-MAZ-00284,Mazda camera bracket & trim,Camera bracket & trim,Special order,OEM,Mazda,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00285,SO-MAZ-00285,Mazda suspension arm,Suspension arm,Special order,OEM,Mazda,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00286,SO-MAZ-00286,Mazda wheel / rim,Wheel / rim,Special order,OEM,Mazda,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00287,SO-MAZ-00287,Mazda alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Mazda,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00288,SO-MAZ-00288,Mazda strut assembly,Strut assembly,Special order,Aftermarket / certified,Mazda,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00289,SO-MAZ-00289,Mazda windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Mazda,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00290,SO-MAZ-00290,Mazda tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Mazda,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00291,SO-SUB-00291,Subaru front bumper cover,Front bumper cover,Special order,OEM,Subaru,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00292,SO-SUB-00292,Subaru rear bumper cover,Rear bumper cover,Special order,OEM,Subaru,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00293,SO-SUB-00293,Subaru bumper reinforcement,Bumper reinforcement,Special order,OEM,Subaru,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00294,SO-SUB-00294,Subaru grille assembly,Grille assembly,Special order,OEM,Subaru,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00295,SO-SUB-00295,Subaru headlamp assembly,Headlamp assembly,Special order,OEM,Subaru,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00296,SO-SUB-00296,Subaru tail lamp assembly,Tail lamp assembly,Special order,OEM,Subaru,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00297,SO-SUB-00297,Subaru fender,Fender,Special order,OEM,Subaru,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00298,SO-SUB-00298,Subaru hood panel,Hood panel,Special order,OEM,Subaru,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00299,SO-SUB-00299,Subaru door shell,Door shell,Special order,OEM,Subaru,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00300,SO-SUB-00300,Subaru door mirror assembly,Door mirror assembly,Special order,OEM,Subaru,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00301,SO-SUB-00301,Subaru quarter panel,Quarter panel,Special order,OEM,Subaru,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00302,SO-SUB-00302,Subaru radiator support,Radiator support,Special order,OEM,Subaru,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00303,SO-SUB-00303,Subaru radiator & condenser,Radiator & condenser,Special order,OEM,Subaru,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00304,SO-SUB-00304,Subaru airbag module,Airbag module,Special order,OEM,Subaru,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00305,SO-SUB-00305,Subaru radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Subaru,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00306,SO-SUB-00306,Subaru camera bracket & trim,Camera bracket & trim,Special order,OEM,Subaru,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00307,SO-SUB-00307,Subaru suspension arm,Suspension arm,Special order,OEM,Subaru,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00308,SO-SUB-00308,Subaru wheel / rim,Wheel / rim,Special order,OEM,Subaru,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00309,SO-SUB-00309,Subaru alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Subaru,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00310,SO-SUB-00310,Subaru strut assembly,Strut assembly,Special order,Aftermarket / certified,Subaru,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00311,SO-SUB-00311,Subaru windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Subaru,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00312,SO-SUB-00312,Subaru tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Subaru,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00313,SO-VOL-00313,Volkswagen front bumper cover,Front bumper cover,Special order,OEM,Volkswagen,268.0,375.2,SUP-08,,SYNTHETIC
+PRT-00314,SO-VOL-00314,Volkswagen rear bumper cover,Rear bumper cover,Special order,OEM,Volkswagen,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00315,SO-VOL-00315,Volkswagen bumper reinforcement,Bumper reinforcement,Special order,OEM,Volkswagen,166.0,232.4,SUP-08,,SYNTHETIC
+PRT-00316,SO-VOL-00316,Volkswagen grille assembly,Grille assembly,Special order,OEM,Volkswagen,197.0,275.8,SUP-08,,SYNTHETIC
+PRT-00317,SO-VOL-00317,Volkswagen headlamp assembly,Headlamp assembly,Special order,OEM,Volkswagen,440.0,616.0,SUP-08,,SYNTHETIC
+PRT-00318,SO-VOL-00318,Volkswagen tail lamp assembly,Tail lamp assembly,Special order,OEM,Volkswagen,211.0,295.4,SUP-08,,SYNTHETIC
+PRT-00319,SO-VOL-00319,Volkswagen fender,Fender,Special order,OEM,Volkswagen,217.0,303.8,SUP-08,,SYNTHETIC
+PRT-00320,SO-VOL-00320,Volkswagen hood panel,Hood panel,Special order,OEM,Volkswagen,395.0,553.0,SUP-08,,SYNTHETIC
+PRT-00321,SO-VOL-00321,Volkswagen door shell,Door shell,Special order,OEM,Volkswagen,497.0,695.8,SUP-08,,SYNTHETIC
+PRT-00322,SO-VOL-00322,Volkswagen door mirror assembly,Door mirror assembly,Special order,OEM,Volkswagen,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00323,SO-VOL-00323,Volkswagen quarter panel,Quarter panel,Special order,OEM,Volkswagen,542.0,758.8,SUP-08,,SYNTHETIC
+PRT-00324,SO-VOL-00324,Volkswagen radiator support,Radiator support,Special order,OEM,Volkswagen,306.0,428.4,SUP-08,,SYNTHETIC
+PRT-00325,SO-VOL-00325,Volkswagen radiator & condenser,Radiator & condenser,Special order,OEM,Volkswagen,408.0,571.2,SUP-08,,SYNTHETIC
+PRT-00326,SO-VOL-00326,Volkswagen airbag module,Airbag module,Special order,OEM,Volkswagen,625.0,812.5,SUP-08,,SYNTHETIC
+PRT-00327,SO-VOL-00327,Volkswagen radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Volkswagen,733.0,952.9,SUP-08,,SYNTHETIC
+PRT-00328,SO-VOL-00328,Volkswagen camera bracket & trim,Camera bracket & trim,Special order,OEM,Volkswagen,89.0,124.6,SUP-08,,SYNTHETIC
+PRT-00329,SO-VOL-00329,Volkswagen suspension arm,Suspension arm,Special order,OEM,Volkswagen,185.0,259.0,SUP-08,,SYNTHETIC
+PRT-00330,SO-VOL-00330,Volkswagen wheel / rim,Wheel / rim,Special order,OEM,Volkswagen,332.0,464.8,SUP-08,,SYNTHETIC
+PRT-00331,SO-VOL-00331,Volkswagen alternator / starter,Alternator / starter,Special order,OEM,Volkswagen,274.0,389.08,SUP-08,,SYNTHETIC
+PRT-00332,SO-VOL-00332,Volkswagen strut assembly,Strut assembly,Special order,OEM,Volkswagen,230.0,326.6,SUP-08,,SYNTHETIC
+PRT-00333,SO-VOL-00333,Volkswagen windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Volkswagen,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00334,SO-VOL-00334,Volkswagen tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Volkswagen,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00335,SO-GMC-00335,GMC front bumper cover,Front bumper cover,Special order,OEM,GMC,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00336,SO-GMC-00336,GMC rear bumper cover,Rear bumper cover,Special order,OEM,GMC,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00337,SO-GMC-00337,GMC bumper reinforcement,Bumper reinforcement,Special order,OEM,GMC,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00338,SO-GMC-00338,GMC grille assembly,Grille assembly,Special order,OEM,GMC,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00339,SO-GMC-00339,GMC headlamp assembly,Headlamp assembly,Special order,OEM,GMC,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00340,SO-GMC-00340,GMC tail lamp assembly,Tail lamp assembly,Special order,OEM,GMC,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00341,SO-GMC-00341,GMC fender,Fender,Special order,OEM,GMC,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00342,SO-GMC-00342,GMC hood panel,Hood panel,Special order,OEM,GMC,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00343,SO-GMC-00343,GMC door shell,Door shell,Special order,OEM,GMC,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00344,SO-GMC-00344,GMC door mirror assembly,Door mirror assembly,Special order,OEM,GMC,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00345,SO-GMC-00345,GMC quarter panel,Quarter panel,Special order,OEM,GMC,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00346,SO-GMC-00346,GMC radiator support,Radiator support,Special order,OEM,GMC,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00347,SO-GMC-00347,GMC radiator & condenser,Radiator & condenser,Special order,OEM,GMC,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00348,SO-GMC-00348,GMC airbag module,Airbag module,Special order,OEM,GMC,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00349,SO-GMC-00349,GMC radar / adas sensor,Radar / ADAS sensor,Special order,OEM,GMC,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00350,SO-GMC-00350,GMC camera bracket & trim,Camera bracket & trim,Special order,OEM,GMC,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00351,SO-GMC-00351,GMC suspension arm,Suspension arm,Special order,OEM,GMC,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00352,SO-GMC-00352,GMC wheel / rim,Wheel / rim,Special order,OEM,GMC,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00353,SO-GMC-00353,GMC alternator / starter,Alternator / starter,Special order,Aftermarket / certified,GMC,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00354,SO-GMC-00354,GMC strut assembly,Strut assembly,Special order,Aftermarket / certified,GMC,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00355,SO-GMC-00355,GMC windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,GMC,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00356,SO-GMC-00356,GMC tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,GMC,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00357,SO-BMW-00357,BMW front bumper cover,Front bumper cover,Special order,OEM,BMW,268.0,375.2,SUP-08,,SYNTHETIC
+PRT-00358,SO-BMW-00358,BMW rear bumper cover,Rear bumper cover,Special order,OEM,BMW,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00359,SO-BMW-00359,BMW bumper reinforcement,Bumper reinforcement,Special order,OEM,BMW,166.0,232.4,SUP-08,,SYNTHETIC
+PRT-00360,SO-BMW-00360,BMW grille assembly,Grille assembly,Special order,OEM,BMW,197.0,275.8,SUP-08,,SYNTHETIC
+PRT-00361,SO-BMW-00361,BMW headlamp assembly,Headlamp assembly,Special order,OEM,BMW,440.0,616.0,SUP-08,,SYNTHETIC
+PRT-00362,SO-BMW-00362,BMW tail lamp assembly,Tail lamp assembly,Special order,OEM,BMW,211.0,295.4,SUP-08,,SYNTHETIC
+PRT-00363,SO-BMW-00363,BMW fender,Fender,Special order,OEM,BMW,217.0,303.8,SUP-08,,SYNTHETIC
+PRT-00364,SO-BMW-00364,BMW hood panel,Hood panel,Special order,OEM,BMW,395.0,553.0,SUP-08,,SYNTHETIC
+PRT-00365,SO-BMW-00365,BMW door shell,Door shell,Special order,OEM,BMW,497.0,695.8,SUP-08,,SYNTHETIC
+PRT-00366,SO-BMW-00366,BMW door mirror assembly,Door mirror assembly,Special order,OEM,BMW,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00367,SO-BMW-00367,BMW quarter panel,Quarter panel,Special order,OEM,BMW,542.0,758.8,SUP-08,,SYNTHETIC
+PRT-00368,SO-BMW-00368,BMW radiator support,Radiator support,Special order,OEM,BMW,306.0,428.4,SUP-08,,SYNTHETIC
+PRT-00369,SO-BMW-00369,BMW radiator & condenser,Radiator & condenser,Special order,OEM,BMW,408.0,571.2,SUP-08,,SYNTHETIC
+PRT-00370,SO-BMW-00370,BMW airbag module,Airbag module,Special order,OEM,BMW,625.0,812.5,SUP-08,,SYNTHETIC
+PRT-00371,SO-BMW-00371,BMW radar / adas sensor,Radar / ADAS sensor,Special order,OEM,BMW,733.0,952.9,SUP-08,,SYNTHETIC
+PRT-00372,SO-BMW-00372,BMW camera bracket & trim,Camera bracket & trim,Special order,OEM,BMW,89.0,124.6,SUP-08,,SYNTHETIC
+PRT-00373,SO-BMW-00373,BMW suspension arm,Suspension arm,Special order,OEM,BMW,185.0,259.0,SUP-08,,SYNTHETIC
+PRT-00374,SO-BMW-00374,BMW wheel / rim,Wheel / rim,Special order,OEM,BMW,332.0,464.8,SUP-08,,SYNTHETIC
+PRT-00375,SO-BMW-00375,BMW alternator / starter,Alternator / starter,Special order,OEM,BMW,274.0,389.08,SUP-08,,SYNTHETIC
+PRT-00376,SO-BMW-00376,BMW strut assembly,Strut assembly,Special order,OEM,BMW,230.0,326.6,SUP-08,,SYNTHETIC
+PRT-00377,SO-BMW-00377,BMW windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,BMW,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00378,SO-BMW-00378,BMW tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,BMW,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00379,SO-MER-00379,Mercedes-Benz front bumper cover,Front bumper cover,Special order,OEM,Mercedes-Benz,268.0,375.2,SUP-08,,SYNTHETIC
+PRT-00380,SO-MER-00380,Mercedes-Benz rear bumper cover,Rear bumper cover,Special order,OEM,Mercedes-Benz,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00381,SO-MER-00381,Mercedes-Benz bumper reinforcement,Bumper reinforcement,Special order,OEM,Mercedes-Benz,166.0,232.4,SUP-08,,SYNTHETIC
+PRT-00382,SO-MER-00382,Mercedes-Benz grille assembly,Grille assembly,Special order,OEM,Mercedes-Benz,197.0,275.8,SUP-08,,SYNTHETIC
+PRT-00383,SO-MER-00383,Mercedes-Benz headlamp assembly,Headlamp assembly,Special order,OEM,Mercedes-Benz,440.0,616.0,SUP-08,,SYNTHETIC
+PRT-00384,SO-MER-00384,Mercedes-Benz tail lamp assembly,Tail lamp assembly,Special order,OEM,Mercedes-Benz,211.0,295.4,SUP-08,,SYNTHETIC
+PRT-00385,SO-MER-00385,Mercedes-Benz fender,Fender,Special order,OEM,Mercedes-Benz,217.0,303.8,SUP-08,,SYNTHETIC
+PRT-00386,SO-MER-00386,Mercedes-Benz hood panel,Hood panel,Special order,OEM,Mercedes-Benz,395.0,553.0,SUP-08,,SYNTHETIC
+PRT-00387,SO-MER-00387,Mercedes-Benz door shell,Door shell,Special order,OEM,Mercedes-Benz,497.0,695.8,SUP-08,,SYNTHETIC
+PRT-00388,SO-MER-00388,Mercedes-Benz door mirror assembly,Door mirror assembly,Special order,OEM,Mercedes-Benz,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00389,SO-MER-00389,Mercedes-Benz quarter panel,Quarter panel,Special order,OEM,Mercedes-Benz,542.0,758.8,SUP-08,,SYNTHETIC
+PRT-00390,SO-MER-00390,Mercedes-Benz radiator support,Radiator support,Special order,OEM,Mercedes-Benz,306.0,428.4,SUP-08,,SYNTHETIC
+PRT-00391,SO-MER-00391,Mercedes-Benz radiator & condenser,Radiator & condenser,Special order,OEM,Mercedes-Benz,408.0,571.2,SUP-08,,SYNTHETIC
+PRT-00392,SO-MER-00392,Mercedes-Benz airbag module,Airbag module,Special order,OEM,Mercedes-Benz,625.0,812.5,SUP-08,,SYNTHETIC
+PRT-00393,SO-MER-00393,Mercedes-Benz radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Mercedes-Benz,733.0,952.9,SUP-08,,SYNTHETIC
+PRT-00394,SO-MER-00394,Mercedes-Benz camera bracket & trim,Camera bracket & trim,Special order,OEM,Mercedes-Benz,89.0,124.6,SUP-08,,SYNTHETIC
+PRT-00395,SO-MER-00395,Mercedes-Benz suspension arm,Suspension arm,Special order,OEM,Mercedes-Benz,185.0,259.0,SUP-08,,SYNTHETIC
+PRT-00396,SO-MER-00396,Mercedes-Benz wheel / rim,Wheel / rim,Special order,OEM,Mercedes-Benz,332.0,464.8,SUP-08,,SYNTHETIC
+PRT-00397,SO-MER-00397,Mercedes-Benz alternator / starter,Alternator / starter,Special order,OEM,Mercedes-Benz,274.0,389.08,SUP-08,,SYNTHETIC
+PRT-00398,SO-MER-00398,Mercedes-Benz strut assembly,Strut assembly,Special order,OEM,Mercedes-Benz,230.0,326.6,SUP-08,,SYNTHETIC
+PRT-00399,SO-MER-00399,Mercedes-Benz windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Mercedes-Benz,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00400,SO-MER-00400,Mercedes-Benz tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Mercedes-Benz,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00401,SO-TES-00401,Tesla front bumper cover,Front bumper cover,Special order,OEM,Tesla,268.0,375.2,SUP-08,,SYNTHETIC
+PRT-00402,SO-TES-00402,Tesla rear bumper cover,Rear bumper cover,Special order,OEM,Tesla,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00403,SO-TES-00403,Tesla bumper reinforcement,Bumper reinforcement,Special order,OEM,Tesla,166.0,232.4,SUP-08,,SYNTHETIC
+PRT-00404,SO-TES-00404,Tesla grille assembly,Grille assembly,Special order,OEM,Tesla,197.0,275.8,SUP-08,,SYNTHETIC
+PRT-00405,SO-TES-00405,Tesla headlamp assembly,Headlamp assembly,Special order,OEM,Tesla,440.0,616.0,SUP-08,,SYNTHETIC
+PRT-00406,SO-TES-00406,Tesla tail lamp assembly,Tail lamp assembly,Special order,OEM,Tesla,211.0,295.4,SUP-08,,SYNTHETIC
+PRT-00407,SO-TES-00407,Tesla fender,Fender,Special order,OEM,Tesla,217.0,303.8,SUP-08,,SYNTHETIC
+PRT-00408,SO-TES-00408,Tesla hood panel,Hood panel,Special order,OEM,Tesla,395.0,553.0,SUP-08,,SYNTHETIC
+PRT-00409,SO-TES-00409,Tesla door shell,Door shell,Special order,OEM,Tesla,497.0,695.8,SUP-08,,SYNTHETIC
+PRT-00410,SO-TES-00410,Tesla door mirror assembly,Door mirror assembly,Special order,OEM,Tesla,248.0,347.2,SUP-08,,SYNTHETIC
+PRT-00411,SO-TES-00411,Tesla quarter panel,Quarter panel,Special order,OEM,Tesla,542.0,758.8,SUP-08,,SYNTHETIC
+PRT-00412,SO-TES-00412,Tesla radiator support,Radiator support,Special order,OEM,Tesla,306.0,428.4,SUP-08,,SYNTHETIC
+PRT-00413,SO-TES-00413,Tesla radiator & condenser,Radiator & condenser,Special order,OEM,Tesla,408.0,571.2,SUP-08,,SYNTHETIC
+PRT-00414,SO-TES-00414,Tesla airbag module,Airbag module,Special order,OEM,Tesla,625.0,812.5,SUP-08,,SYNTHETIC
+PRT-00415,SO-TES-00415,Tesla radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Tesla,733.0,952.9,SUP-08,,SYNTHETIC
+PRT-00416,SO-TES-00416,Tesla camera bracket & trim,Camera bracket & trim,Special order,OEM,Tesla,89.0,124.6,SUP-08,,SYNTHETIC
+PRT-00417,SO-TES-00417,Tesla suspension arm,Suspension arm,Special order,OEM,Tesla,185.0,259.0,SUP-08,,SYNTHETIC
+PRT-00418,SO-TES-00418,Tesla wheel / rim,Wheel / rim,Special order,OEM,Tesla,332.0,464.8,SUP-08,,SYNTHETIC
+PRT-00419,SO-TES-00419,Tesla alternator / starter,Alternator / starter,Special order,OEM,Tesla,274.0,389.08,SUP-08,,SYNTHETIC
+PRT-00420,SO-TES-00420,Tesla strut assembly,Strut assembly,Special order,OEM,Tesla,230.0,326.6,SUP-08,,SYNTHETIC
+PRT-00421,SO-TES-00421,Tesla windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Tesla,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00422,SO-TES-00422,Tesla tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Tesla,172.0,215.0,SUP-05,,SYNTHETIC
+PRT-00423,SO-JEE-00423,Jeep front bumper cover,Front bumper cover,Special order,OEM,Jeep,268.0,375.2,SUP-01,,SYNTHETIC
+PRT-00424,SO-JEE-00424,Jeep rear bumper cover,Rear bumper cover,Special order,OEM,Jeep,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00425,SO-JEE-00425,Jeep bumper reinforcement,Bumper reinforcement,Special order,OEM,Jeep,166.0,232.4,SUP-01,,SYNTHETIC
+PRT-00426,SO-JEE-00426,Jeep grille assembly,Grille assembly,Special order,OEM,Jeep,197.0,275.8,SUP-01,,SYNTHETIC
+PRT-00427,SO-JEE-00427,Jeep headlamp assembly,Headlamp assembly,Special order,OEM,Jeep,440.0,616.0,SUP-01,,SYNTHETIC
+PRT-00428,SO-JEE-00428,Jeep tail lamp assembly,Tail lamp assembly,Special order,OEM,Jeep,211.0,295.4,SUP-01,,SYNTHETIC
+PRT-00429,SO-JEE-00429,Jeep fender,Fender,Special order,OEM,Jeep,217.0,303.8,SUP-01,,SYNTHETIC
+PRT-00430,SO-JEE-00430,Jeep hood panel,Hood panel,Special order,OEM,Jeep,395.0,553.0,SUP-01,,SYNTHETIC
+PRT-00431,SO-JEE-00431,Jeep door shell,Door shell,Special order,OEM,Jeep,497.0,695.8,SUP-01,,SYNTHETIC
+PRT-00432,SO-JEE-00432,Jeep door mirror assembly,Door mirror assembly,Special order,OEM,Jeep,248.0,347.2,SUP-01,,SYNTHETIC
+PRT-00433,SO-JEE-00433,Jeep quarter panel,Quarter panel,Special order,OEM,Jeep,542.0,758.8,SUP-01,,SYNTHETIC
+PRT-00434,SO-JEE-00434,Jeep radiator support,Radiator support,Special order,OEM,Jeep,306.0,428.4,SUP-01,,SYNTHETIC
+PRT-00435,SO-JEE-00435,Jeep radiator & condenser,Radiator & condenser,Special order,OEM,Jeep,408.0,571.2,SUP-01,,SYNTHETIC
+PRT-00436,SO-JEE-00436,Jeep airbag module,Airbag module,Special order,OEM,Jeep,625.0,812.5,SUP-01,,SYNTHETIC
+PRT-00437,SO-JEE-00437,Jeep radar / adas sensor,Radar / ADAS sensor,Special order,OEM,Jeep,733.0,952.9,SUP-01,,SYNTHETIC
+PRT-00438,SO-JEE-00438,Jeep camera bracket & trim,Camera bracket & trim,Special order,OEM,Jeep,89.0,124.6,SUP-01,,SYNTHETIC
+PRT-00439,SO-JEE-00439,Jeep suspension arm,Suspension arm,Special order,OEM,Jeep,185.0,259.0,SUP-01,,SYNTHETIC
+PRT-00440,SO-JEE-00440,Jeep wheel / rim,Wheel / rim,Special order,OEM,Jeep,332.0,464.8,SUP-01,,SYNTHETIC
+PRT-00441,SO-JEE-00441,Jeep alternator / starter,Alternator / starter,Special order,Aftermarket / certified,Jeep,274.0,389.08,SUP-02,,SYNTHETIC
+PRT-00442,SO-JEE-00442,Jeep strut assembly,Strut assembly,Special order,Aftermarket / certified,Jeep,230.0,326.6,SUP-02,,SYNTHETIC
+PRT-00443,SO-JEE-00443,Jeep windshield (model-specific),Windshield (model-specific),Special order,Aftermarket / certified,Jeep,390.0,526.5,SUP-04,,SYNTHETIC
+PRT-00444,SO-JEE-00444,Jeep tire (special-order size),Tire (special-order size),Special order,Aftermarket / certified,Jeep,172.0,215.0,SUP-05,,SYNTHETIC
+MAT-PAINT,MAT-PAINT,Paint & refinish materials (valued in CAD),materials,Materials,Paint system,,1.0,,SUP-03,BR-CCC|BR-NFS|BR-SEC,SYNTHETIC
+MAT-DETAIL,MAT-DETAIL,Detailing chemicals & supplies (valued in CAD),materials,Materials,Supplier brand,,1.0,,SUP-03,BR-CCC|BR-NFS|BR-SEC,SYNTHETIC

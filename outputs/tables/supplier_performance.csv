@@ -1,0 +1,8 @@
+supplier_id,po_lines,value,avg_lead_days,on_time_pct,backorders,returns,emergency_orders,backorder_pct,return_pct,supplier_name,supplier_type,lead_time_mean_days,data_status
+SUP-01,21298,7627487.04,4.092651907677815,49.74175978965161,811,851,0,3.8078692835007986,3.995680345572354,Bow City OEM Parts Network (fictional),OEM dealer parts,1.8,SYNTHETIC
+SUP-02,2279,737131.06,4.741197183098592,51.11891180342255,66,96,182,2.8960070206230806,4.212373848179026,Chinook Aftermarket Supply (fictional),Aftermarket & certified parts,2.8,SYNTHETIC
+SUP-04,1642,674589.73,3.8332315210751373,45.615103532277715,47,52,85,2.862362971985384,3.1668696711327646,Westline Glass Distribution (fictional),Auto glass,2.0,SYNTHETIC
+SUP-05,2232,1193183.65,1.7957809694793536,70.56451612903226,8,20,1109,0.35842293906810035,0.8960573476702508,Rockyview Tire Wholesale (fictional),Tires & wheels,2.0,SYNTHETIC
+SUP-06,3810,780120.84,1.9723829563387691,74.17322834645668,0,0,806,0.0,0.0,Northern Lube & Filter Co. (fictional),"Oil, filters, brakes, batteries",1.5,SYNTHETIC
+SUP-07,203,140699.22,1.9651741293532339,79.80295566502463,0,0,137,0.0,0.0,ClearShield Film Supply (fictional),PPF film & ceramic coatings,4.0,SYNTHETIC
+SUP-08,2696,1296521.98,11.8353428786737,43.06379821958457,296,112,0,10.979228486646884,4.154302670623145,Import Specialty Parts (fictional),European / luxury OEM parts,6.5,SYNTHETIC
