@@ -1,16 +1,15 @@
-# Python 3.11+ (tested on 3.11, macOS)
-pandas==2.2.3
-numpy==2.2.6
-scipy==1.15.3
-scikit-learn==1.7.2
-statsmodels==0.14.4
-xgboost==3.0.2
-holidays==0.80
-matplotlib==3.10.3
-plotly==6.1.2
-streamlit==1.48.0
-openpyxl==3.1.5
-tabulate==0.9.0
-pytest==8.4.1
-# PDF rendering uses a locally installed Google Chrome / Microsoft Edge / Chromium (headless).
-# Optional: Microsoft Excel (macOS) recalculates and verifies the Excel model's formulas.
+# Python 3.11-3.14 (tested on 3.11 macOS and 3.14 - Streamlit Community Cloud default). Binary wheels exist for every package on 3.14.
+pandas>=2.3.3,<3
+numpy>=2.3.4,<2.4
+scipy>=1.16.3
+scikit-learn>=1.7.2
+statsmodels>=0.14.5
+xgboost>=3.0.5
+holidays>=0.80
+matplotlib>=3.10.7
+plotly>=6.1.2,<7
+streamlit>=1.48.0,<2
+openpyxl>=3.1.5
+tabulate>=0.9.0
+pytest>=8.4.1
+# PDF rendering in the pipeline uses a local Chrome / Edge; optional Microsoft Excel (macOS) verifies the Excel model's formulas.
