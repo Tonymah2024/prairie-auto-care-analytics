@@ -2,6 +2,10 @@
 
 **Developed by VisiVault Analytics Ltd. — Synthetic demonstration data. Not actual Ultimate Car Care Group records.**
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prairie-auto-care-bi.streamlit.app)
+
+**▶ Live dashboard: <https://prairie-auto-care-bi.streamlit.app>**
+
 > *Prairie Auto Care Group* is a **fictional** multi-location Calgary collision repair and car care business. Its business model (three Calgary locations with distinct
 > roles, published hours, service menu, OEM-certified collision work, direct billing of insurers) is inspired by a public Calgary auto care group's website (retrieved
 > Oct 2026). Every repair order, estimate, claim, technician, part, invoice, payment and financial figure is **synthetic**. Insurers, suppliers, customers and staff are
