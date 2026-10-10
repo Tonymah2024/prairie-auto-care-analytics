@@ -290,9 +290,9 @@ for the baseline), parts demand, technician capacity and expected cash collectio
 
 
 PILOT = [("Weeks 1-2", "Diagnostic", "Data-access review; export mapping from the shop-management, estimating and accounting systems; data-quality report; KPI definitions agreed"),
-         ("Weeks 3-6", "Build", "Job profitability and technician productivity views on real data; cycle-time stage timestamps; branch P&L with agreed transfer pricing and allocations"),
-         ("Weeks 7-10", "Validate", "Reconcile to the general ledger and payroll; review with branch managers and estimators; refine fairness adjustments for technician metrics"),
-         ("Weeks 11-13", "Embed", "Monthly management pack, weekly cycle-time / parts-delay list, 12-month forecast with scenarios; handover and next-phase plan")]
+         ("Weeks 3-6", "Build (pilot location)", "Job profitability, technician productivity and cycle-time views on the pilot location's data; branch P&L from group accounting data"),
+         ("Weeks 7-10", "Validate", "Reconcile to the general ledger and payroll; review with the pilot location's manager and estimators; refine fairness adjustments for technician metrics"),
+         ("Weeks 11-13", "Embed & extend", "Monthly management pack, weekly cycle-time / parts-delay list, 12-month forecast with scenarios; plan and begin rollout to the other locations")]
 
 
 def pilot_table():
@@ -300,7 +300,7 @@ def pilot_table():
 
 
 INVEST = [("1. Diagnostic (2 weeks)", "Data-access review, KPI definitions, data-quality report, opportunity sizing on your data", "2,500 fixed"),
-          ("2. Pilot (90 days)", "Four pilot modules on your data, monthly management pack, weekly cycle-time and parts-delay list, 12-month forecast", "14,500 fixed, in 3 milestones"),
+          ("2. Pilot (90 days, one location)", "Four pilot modules on your data, monthly management pack, weekly cycle-time and parts-delay list, 12-month forecast", "14,500 fixed, in 3 milestones"),
           ("3. Ongoing support (optional)", "Monthly refresh, management pack and analyst support; further modules quoted separately", "1,250 - 2,500 per month")]
 MODULES = [("Repair job profitability", "Gross and fully loaded profit per RO by service, vehicle, payer and branch; estimate vs actual; unprofitable-RO review; comeback cost",
             "RO lines (labour, parts, materials, sublet), parts cost, time-clock hours, discounts, insurer remittances"),
@@ -320,16 +320,17 @@ def pilot_plan(c):
     raci = [("Data exports", "Group IT / office manager", "VisiVault"), ("KPI definitions (labour hours, promise dates, cycle-time stages)", "Group management", "VisiVault"),
             ("Dashboards, models, reconciliations", "VisiVault", "Controller / management"), ("Branch review sessions", "Branch managers & estimators", "VisiVault"),
             ("Monthly review", "Owners / management", "VisiVault")]
-    weekly = [("1", "Kickoff; data-access and export mapping"), ("2", "Data-quality report; KPI definitions signed off"), ("3-4", "Job costing per RO reconciled to invoices"),
+    weekly = [("1", "Kickoff; choose the pilot location; data-access and export mapping"), ("2", "Data-quality report; KPI definitions signed off"), ("3-4", "Job costing per RO reconciled to invoices"),
               ("5-6", "Technician productivity and capacity views; fairness adjustments"), ("7-8", "Cycle-time stages, WIP and delayed-repair list"),
               ("9-10", "Branch P&L, transfer pricing and allocations reconciled to the GL"), ("11-12", "12-month forecast and scenarios on real history"),
-              ("13", "Management pack #2, handover, next-phase plan")]
-    body = cover("90-day pilot plan", "Repair job profitability, technician productivity, repair cycle time and branch financial performance", "Pilot plan") + f"""
+              ("13", "Management pack #2, handover, rollout plan for the other locations")]
+    body = cover("90-day pilot plan", "Starting at one location: repair job profitability, technician productivity, repair cycle time and branch financial performance",
+                 "Pilot plan") + f"""
 <h2>Plan</h2>{pilot_table()}
 <h2>Week by week</h2>{tbl(pd.DataFrame(weekly, columns=['Week', 'Milestone']))}
 <h2>Roles</h2>{tbl(pd.DataFrame(raci, columns=['Activity', 'Responsible (client)', 'Supported by']))}
 <p>Demonstration dashboard: {demo_ref()} (fictional business, synthetic data).</p>
-<h2>Exit criteria</h2><ul><li>Reconciliations at zero difference; two monthly packs delivered; branch managers using the weekly delay list; go / no-go on ongoing support.</li></ul>
+<h2>Exit criteria</h2><ul><li>Reconciliations at zero difference; two monthly packs delivered; the pilot location's manager using the weekly delay list; go / no-go on rollout and ongoing support.</li></ul>
 <p class='small'>{esc(ATTRIBUTION)} · {esc(CONTACT)} · {esc(APP_BANNER)}</p>"""
     return page("VisiVault - 90-day pilot plan", body)
 
@@ -353,6 +354,41 @@ def demo_guide(c):
 <h2>Close</h2><p>Propose the 90-day pilot (job profitability, technician productivity, cycle time, branch financial performance) with read-only data access.</p>
 <p class='small'>{esc(APP_BANNER)}</p>"""
     return page("Prairie Auto Care - Demonstration guide", body)
+
+
+def pitch(c):
+    K, rec, sens = c["K"], c["rec"].set_index("area"), c["sens"].set_index("driver")
+    imp = lambda a, col="operating_profit_impact_12m": money(rec.loc[a, col])
+    css = ("<style>@page{margin:11mm 13mm 13mm} body{font-size:9pt} h2{margin:10px 0 6px;font-size:12pt} .pill{display:grid;grid-template-columns:1fr 1fr;gap:9px}"
+           " .pill div{border:1px solid #e3e2dd;border-radius:8px;padding:8px 10px;break-inside:avoid} .pill b{color:" + BRAND["brand_dark"] + "}</style>")
+    body = css + f"""<div style='background:linear-gradient(120deg,{BRAND['navy']},{BRAND['brand_dark']});color:#fff;border-radius:10px;padding:14px 18px'>
+    <div class='brandmark' style='font-size:9pt;opacity:.85'>VISIVAULT ANALYTICS LTD. · EXECUTIVE PITCH</div>
+    <div style='font-size:17pt;font-weight:800;line-height:1.2;margin-top:4px'>How Ultimate Car Care Group could improve repair profitability, technician productivity, cycle times and financial control with business intelligence and predictive analytics</div>
+    <div style='margin-top:6px;font-size:8.5pt;opacity:.9'>A working proof of concept is ready to demo. It complements your existing shop-management, estimating and accounting systems - nothing to replace.<br/>
+    Live demo: <b>{DEMO_URL.replace('https://', '')}</b> (presented under a fictional name, <i>Prairie Auto Care</i>, with three branches mirroring a concierge site, a collision hub and a
+    full-service shop. All business data is illustrative).</div></div>
+    <h2>Four value pillars <span class='tag s'>demonstrated on synthetic data</span></h2><div class='pill'>
+    <div><b>1 · Repair job profitability</b><br/>Gross and fully loaded profit for every repair order. In the demo, {K['unprofitable_ros_pct']:.0f}% of ROs did not cover direct cost plus
+    shop overhead (${K['overhead_rate']:.0f} per clocked hour); minimum charges, package pricing and quote discipline ≈ {imp('Job profitability')} a year.</div>
+    <div><b>2 · Technician productivity &amp; capacity</b><br/>Utilisation {K['utilisation']:.0%}, efficiency {K['efficiency']:.0%}, productivity {K['productivity']:.0%}, compared fairly by job mix
+    and role. The capacity model shows when efficiency adds sales and when it only cuts overtime (+10% efficiency ≈ {money(sens.at['eff_change', 'delta_net_revenue'])} revenue in the demo).</div>
+    <div><b>3 · Cycle time &amp; parts</b><br/>Parts waiting averages {K['collision_parts_wait']:.1f} days per collision job vs {K['collision_tech_wait']:.1f} days waiting for a technician;
+    {K['collision_original_promise']:.0f}% of jobs meet the original promise. Late jobs score {K['csat_late']:.1f} / 5 vs {K['csat_ontime']:.1f} on time. Seasonal reorder points cut tire-season stockouts.</div>
+    <div><b>4 · Insurance claims &amp; cash</b><br/>Approval time, supplements, short-pays and receivables by insurer. In the demo insurers take {K['insurer_payment_days']:.0f} days to pay;
+    complete electronic claim files and weekly follow-up (-20% delay) ≈ {imp('Insurance receivables', 'cash_impact_12m')} more cash over 12 months.</div></div>
+    <h2>What Ultimate Car Care Group would get</h2><ul style='columns:2;column-gap:18px'>
+    <li>Executive dashboard: 15 pages, KPI cards, filters, CSV exports</li><li>Validated data model with automated quality checks</li>
+    <li>Job costing and unprofitable-RO review</li><li>Technician utilisation, efficiency and capacity</li><li>Cycle-time stages, bottlenecks and delayed-repair lists</li>
+    <li>Parts, supplier and reorder-point analytics</li><li>Insurance claim and receivables analytics</li><li>Branch P&amp;L with eliminations and consolidation</li>
+    <li>Monthly income statement, balance sheet and cash flow, with ratios</li><li>12-month forecast and scenario simulator with an Excel model</li></ul>
+    <div style='text-align:center'>{img('R03_collision_bottleneck', width='50%')}</div>
+    <h2>Low-risk path</h2><p><b>2-week diagnostic → 90-day pilot on real data (can start at one location) → optional monthly support.</b> Read-only access, PIPEDA/PIPA-aligned data
+    handling, and measurable success criteria (cycle time, on-time vs promise, job margin, technician productivity) agreed up front.</p>
+    <p class='small' style='margin-top:6px'>All figures come from synthetic demonstration data for a fictional business whose structure is inspired by Ultimate Car Care Group's public
+    website (retrieved {RETRIEVAL_DATE}); they are illustrative, not a description of Ultimate Car Care Group's performance or a guarantee of results.</p>
+    <p style='margin-top:6px;font-size:8.6pt'><b>Antoine Matemane Mahirwe, PhD</b> · Founder &amp; Chief Data Strategist, VisiVault Analytics Ltd. · visivault@visivaultanalytics.com ·
+    www.visivaultanalytics.com</p>"""
+    return page("VisiVault Analytics - Ultimate Car Care Group one-page pitch", body)
 
 
 def _label_check():
