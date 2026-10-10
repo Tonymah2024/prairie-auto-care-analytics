@@ -15,7 +15,7 @@ from src.reporting.pdf import img, money, page, pct, render_pdf, tbl
 
 FIN = [BRAND["brand"], BRAND["teal"], BRAND["accent"], BRAND["warn"]]
 UP, DOWN, TOT = BRAND["teal"], BRAND["bad"], BRAND["navy"]
-DEMO_URL = None            # set to the Streamlit Community Cloud URL only after the app is deployed and verified
+DEMO_URL = "https://prairie-auto-care-bi.streamlit.app"   # deployed and verified 2026-10-09 (all 15 pages render)
 
 
 def demo_ref():
@@ -235,6 +235,7 @@ def management_report(c):
 <h2>Important notice</h2><div class='warn'>This report analyses a <b>fictional</b> auto care group built on synthetic data to demonstrate VisiVault Analytics' capabilities.
 None of the operational or financial figures describe any real company. The analyses are designed to complement - not replace - a repair business's existing
 shop-management, insurance-estimating, parts-ordering and accounting systems.</div>
+<p><b>Interactive dashboard:</b> {demo_ref()} - 15 pages, the same synthetic data as this report.</p>
 <h2>1. Executive summary</h2>{kpi_block(c)}
 <ul>{''.join(f'<li>{esc(x)}</li>' for x in Fd)}</ul>
 <h2>2. Public information vs illustrative findings</h2>
@@ -327,6 +328,7 @@ def pilot_plan(c):
 <h2>Plan</h2>{pilot_table()}
 <h2>Week by week</h2>{tbl(pd.DataFrame(weekly, columns=['Week', 'Milestone']))}
 <h2>Roles</h2>{tbl(pd.DataFrame(raci, columns=['Activity', 'Responsible (client)', 'Supported by']))}
+<p>Demonstration dashboard: {demo_ref()} (fictional business, synthetic data).</p>
 <h2>Exit criteria</h2><ul><li>Reconciliations at zero difference; two monthly packs delivered; branch managers using the weekly delay list; go / no-go on ongoing support.</li></ul>
 <p class='small'>{esc(ATTRIBUTION)} · {esc(CONTACT)} · {esc(APP_BANNER)}</p>"""
     return page("VisiVault - 90-day pilot plan", body)
